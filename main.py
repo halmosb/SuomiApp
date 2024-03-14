@@ -97,8 +97,8 @@ except:
 # Translate
 try:
     from deep_translator import GoogleTranslator
-    TRANSLATE_AVAILABELE = False
 except:
+    TRANSLATE_AVAILABELE = False
     print("Translate not available!")
 # date
 from datetime import datetime
