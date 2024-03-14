@@ -1,0 +1,6 @@
+Finnish; English;Hungarian
+omena.; apple;alma
+ jäätelö.; ice cream ;fagyi 
+ananas.;pineapple ;ananász
+   peruna.; potato;krumpli
+sininen (something).;blue; kék

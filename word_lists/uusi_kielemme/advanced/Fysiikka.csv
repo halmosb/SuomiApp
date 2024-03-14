@@ -1,0 +1,141 @@
+Finnish;English;hungarian
+tiede;science;tudomány
+aine;matter;anyag
+käyttäytyminen;behavior;viselkedés
+avaruus ja aika;space and time;tér és idő
+fyysikko;physicist;fizikus
+fysiikka;physics;fizikum
+voima;force;Kényszerítés
+teho;power;teljesítmény
+säteily;radiation;sugárzás
+massa;mass;tömeg
+liike;momentum;mozgalom
+nopeus, vauhti;velocity;sebesség, tempó
+kitka;friction;súrlódás
+törmäys;collision;ütközés
+vastavoima;opposite reaction;ellenerő
+ketjureaktio;chain reaction;láncreakció
+kiihtyvyys;acceleration;gyorsulás
+jännite;voltage, tension;feszültség
+paino;pressure;súly
+työ;work;munka
+taajuus;frequency;frekvencia
+mittayksikkö;unit of measure;mértékegység
+joule;Joule;joule
+newton;Newton;Newton
+pascal;Pascal;Pascal
+mooli;Mole;anyajegy
+energia;energy;energia
+liike-energia;kinetic energy;kinetikus energia
+lämpöenergia;thermal energy;hőenergia
+potentiaalienergia;potential energy;helyzeti energia
+säteilyenergia;radioation energy;sugárzó energia
+kemiallinen energia;chemical energy;kémiai energia
+sähköenergia;electric energy;elektromos energia
+aktivointienergia;activation energy;aktiválási energia
+atomifysiikka;atomics physics;atomfizika
+astrofysiikka;astrophysics;Asztrofizika
+geofysiikka;geophysics;geofizika
+hiukkasfysiikka;particle physics;részecskefizika
+laskennallinen fysiikka;computational physics;számítási fizika
+ydinfysiikka;nuclear physics;magfizika
+sähkö;electricity;elektromosság
+sähköinen;electric;elektromos
+sähkövirta;electric current;jelenlegi
+tasavirta;direct current;egyenáram
+vaihtovirta;alternating current;váltakozó áram
+sähkökipinä;electric spark;elektromos szikra
+sähköistys;electrification;villamosítás
+virtapiiri;electric circuit;áramkör
+sähköisku;electric shock;Áramütés
+sähköistävä;electrical;galvanikus
+sähkölaitteet;electrical equipment;Elektromos felszerelés
+elektroniikka;electronics;elektronika
+röntgenkuvaus;radiography;röntgentechnológia
+röntgenlaite;X-ray machine;röntgengép
+röntgensäde;X-ray;röntgen
+tyhjiöputki;vacuum tube;vákumcső
+akustiikka;accoustics;akusztika
+värähdellä;to resonate;rezeg
+värähdin;vibrator;vibráltam
+kaiku;echo;visszhang
+luotain, tutka;radar;szonár, radar
+aalto;wave;hullám
+aallonpituus;wavelength;hullámhossz
+absorptio;absorption;abszorpció
+aerodynaaminen;areodynamic;aerodinamikai
+akromaattinen;achromatic;akromatikus
+Newtonin lait;Newton’s laws;Newton törvényei
+lämpöoppi;thermology;termodinamika
+lämmönsäädin;thermostat;hőmérséklet szabályozó
+lämpö;heat;hőség
+lämmittää;to heat;meleg
+lämmönjohdin;heat conductor;hővezető
+höyry;steam;gőz
+höyryturbiini;steam turbine;gőzturbina
+haihduttaa;to vaporize;eloszlatni
+tiivistyä;to condense;sűríteni
+lauhdutus;condensation;páralecsapódás
+laajentaa;to expand;kiterjed
+sulaa;to melt;olvad
+sulamispiste;melting point;olvadáspont
+kiehumispiste;boiling point;forráspont
+kiehua;to boil;felforraljuk
+atomiteoria;atomic theory;atomelmélet
+ydinreaktio;nuclear reaction;nukleáris reakció
+ydinvoima;nuclear power;atomenergia
+ydinvoimala;nuclear plant;atomerőmű
+radioaktiivinen;radioactive;radioaktív
+alkuaine;chemical element;elemi
+partikkeli, hiukkanen;particle;részecske, részecske
+molekyyli;molecule;molekula
+atomi;atom;atom
+protoni;proton;proton
+neotroni;neutron;neutron
+isotooppi;isotope;izotóp
+nukleoni;nucleon;nukleon
+fotoni;photon;foton
+ioni;ion;ion
+dioptri;diotropes;dioptria
+hadroni;hadron;hadron
+positroni;positron;pozitron
+elektroni;electron;elektron
+elektronipilvi;electron cloud;elektronfelhő
+fuusio;fusion;fúzió
+fuusioitua;to merge;összeolvad
+fissio;fission;maghasadás
+allotropia;allotropy;allotrópia
+hapetus;oxidation;oxidáció
+hapetusluku;oxidation number;oxidációs szám
+magneetismi;magnetism;mágnesesség
+magneetti;magnet;mágneses
+magneettikenttä;magnetic field;mágneses mező
+magneettinapa;magnetic pole;mágneses pólus
+generaattori, dynamo;generator;generátor, dinamó
+johtaa;to conduct;vezetni
+johdin;conductor, wire;karmester
+muuntaja;transformer;transzformátor
+jakaja;distributor;osztó
+jakokeskus;distribution center;elosztó központ
+sähkömagnetismi;electromagnetism;elektromágnesesség
+sähköpylväs;pylon;villanyoszlop
+eristin;insulator;szigetelő
+kuormitus;load;Betöltés
+vastus;resistance;ellenállás
+mikroprosessori;microprocessor;mikroprocesszor
+johto;wire;menedzsment
+kaapeli;cable;kábel
+pistoke;plug;dugó
+pistorasia;socket;kimenet
+katkaisin;switch;kapcsoló
+heijastua;to reflect;tükröződjön
+heijastuminen;reflecting;visszaverődés
+varjo;shadow;árnyék
+painovoima;gravitation;gravitáció
+gravitaatiokenttä;gravitational field;gravitációs mező
+gravitaatiolaki;law of gravity;a gravitáció törvénye
+todistaa;to prove;bizonyíték
+valo;light;fény
+säteillä;to radiate;sugárzik
+taittua;to refract;megtörik
+taittuminen;refraction;fénytörés
