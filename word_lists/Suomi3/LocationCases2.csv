@@ -153,18 +153,18 @@ talvella;in winter;télen
 ensi viikolla;next week;jövő héten
 päivällä;during day time;nappal
 illalla;in the evening;este
-at 1;yhdeltä;1-kor
-at 2;kahdelta;2-kor
-at 3;kolmelta;3-kor
-at 4;neljältä;4-kor
-at 5;viideltä;5-kor
-at 6;kuudelta;6-kor
-at 7;seitsemältä;7-kor
-at 8;kahdeksalta;8-kor
-at 9;yhdeksältä;9-kor
-at 10;kymmeneltä;10-kor
-at 11;yhdeltätoista;11-kor
-at 12;kahdeltatoista;12-kor
+yhdeltä;at 1;1-kor
+kahdelta;at 2;2-kor
+kolmelta;at 3;3-kor
+neljältä;at 4;4-kor
+viideltä;at 5;5-kor
+kuudelta;at 6;6-kor
+seitsemältä;at 7;7-kor
+kahdeksalta;at 8;8-kor
+yhdeksältä;at 9;9-kor
+kymmeneltä;at 10;10-kor
+yhdeltätoista;at 11;11-kor
+kahdeltatoista;at 12;12-kor
 Bussi saapuu kahdelta.;The bus arrives at two o'clock.;Kettőre érkezik a busz.
 Koulu loppuu puoli neljältä.;School ends at 3:30 pm.;Fél ötkor ér véget az iskola.
 Uutiset alkavat kahdeksalta.;The news starts at eight o'clock.;Nyolckor kezdődik a híradás.
