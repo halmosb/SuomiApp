@@ -1,38 +1,38 @@
-Finnish;english
-SÄÄ;WEATHER
-Millainen sää nyt on?;What's the weather like now?
-Aurinko paistaa.;Sun shines.
-On pilvistä.;It is cloudy.
-On puolipilvistä.;Is partially cloudy.
-Sataa (vettä).;Rain).
-Sataa lunta.;It's snowing.
-Sataa räntää.;Sleet.
-On kuuma.;It is hot.
-On kylmä.;It's cold.
-On pakkasta.;It's freezing.
-Tuulee.;It's windy.
-On 15 astetta.;It's 15 degrees.
-On / käy ukkonen / ukonilma.;There is / there is thunder / thunderstorm.
-Ukkostaa.;It's thundering.
-kesä;summer
-syksy;autumn
-talvi;winter
-kevät;spring
-tammikuu;January
-helmikuu;February
-maaliskuu;March
-huhtikuu;April
-toukokuu;May
-kesäkuu;June
-heinäkuu;July
-elokuu;August
-syyskuu;September
-lokakuu;October
-marraskuu;November
-joulukuu;December
-On huono ilma / sää.;It's bad air / weather.
-Sataa ja tuulee.;It's raining and windy.
-Ihana / Upea ilma / sää!;Lovely air / weather!, Great air / weather!
-Kuinka monta astetta (siellä) on?;How many degrees (there)?
-Ei tuule eikä sada (Ei tuule ja ei sada.);No wind and no rain. (No wind and no rain.)
-Varo! Tie on liukas!;Precautionary! The road is slippery!
+Finnish;english;hungarian
+SÄÄ;WEATHER;IDŐJÁRÁS
+Millainen sää nyt on?;What's the weather like now?;Milyen most az időjárás?
+Aurinko paistaa.;Sun shines.;Süt a nap.
+On pilvistä.;It is cloudy.;Felhős.
+On puolipilvistä.;Is partially cloudy.;Részben felhős.
+Sataa (vettä).;Rain).;Eső).
+Sataa lunta.;It's snowing.;Havazik.
+Sataa räntää.;Sleet.;Havas eső.
+On kuuma.;It is hot.;Meleg van.
+On kylmä.;It's cold.;Hideg van.
+On pakkasta.;It's freezing.;Fagyos.
+Tuulee.;It's windy.;Szeles.
+On 15 astetta.;It's 15 degrees.;15 fok van.
+On / käy ukkonen / ukonilma.;There is / there is thunder / thunderstorm.;Mennydörgés van / van / zivatar.
+Ukkostaa.;It's thundering.;Dörög.
+kesä;summer;nyár
+syksy;autumn;ősz
+talvi;winter;téli
+kevät;spring;tavaszi
+tammikuu;January;január
+helmikuu;February;február
+maaliskuu;March;március
+huhtikuu;April;április
+toukokuu;May;Lehet
+kesäkuu;June;június
+heinäkuu;July;július
+elokuu;August;augusztus
+syyskuu;September;szeptember
+lokakuu;October;október
+marraskuu;November;november
+joulukuu;December;december
+On huono ilma / sää.;It's bad air / weather.;Rossz a levegő/időjárás.
+Sataa ja tuulee.;It's raining and windy.;Esik az eső és fúj a szél.
+Ihana / Upea ilma / sää!;Lovely air / weather!, Great air / weather!;Gyönyörű / nagyszerű levegő / időjárás!
+Kuinka monta astetta (siellä) on?;How many degrees (there)?;Hány fok van (ott)?
+Ei tuule eikä sada (Ei tuule ja ei sada.);No wind and no rain. (No wind and no rain.);Nincs szél és nincs eső (nincs szél és nincs eső.)
+Varo! Tie on liukas!;Precautionary! The road is slippery!;Elővigyázatosság! Csúszós az út!

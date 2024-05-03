@@ -78,6 +78,7 @@ peruna.;potato;krumpli
 translate language in (), warning messiga when new file is opened
 table when more columns
 Error: word! (something)
+translate when tehre are emotyi lines in the file
 """
 print("The program has started, it may take a few seconds.")
 # Widgets
