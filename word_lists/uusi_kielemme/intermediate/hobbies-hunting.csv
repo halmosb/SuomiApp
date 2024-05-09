@@ -1,0 +1,60 @@
+Finnish;English;hungarian
+Tarvikkeet;Equipment;Kellékek
+ammus;bullet, round;lövedék
+ammukset;ammunition;lőszer
+ampuma-ase;firearm;lőfegyver
+ansa;snare;kelepce
+ase;weapon;pisztoly
+aseenkantolupa;gun license;fegyverviselési engedély
+haulikko;shotgun;sörétes puska
+hylsy;shell;foglalat
+kivääri;rifle;puska
+liipaisin;trigger;ravaszt
+lipas;magazine;magazin
+loukku;trap;csapda
+luoti;lead;golyó
+metsästysase;weapon to hunt;vadászfegyver
+metsästyskoira;hunting dog;vadászkutya
+metsästyskortti;hunting license;vadászkártya
+nalli;detonator;detonátor
+pienoiskivääri;small-bore rifle;géppisztoly
+piippu;gun barrel;hordó
+ruuti;gunpowder;por
+saalis;prey;fogás
+tähtäin;viewfinder;látás
+Verbejä;Verbs;Igék
+ampua;to shoot;lő
+huoltaa ase;to take care of weapon;karbantartani a fegyvert
+jäljittää;to track down;nyom
+käyttää asetta;to use a weapon;fegyvert használni
+ladata ase;to reload weapon;töltse meg a fegyvert
+lopettaa eläin;to finish an animal off;megölni az állatot
+metsästää;to hunt;vadászni
+seurata;to follow;követni
+tappaa;to kill;megöl
+teurastaa;to slaughter;levágás
+tähdätä;to aim;cél
+vaania;to lie in ambush;leselkedni
+Muita sanoja;Other words;Más szavak
+metsästäjä;hunter;vadász
+hirvenmetsästys;deer-hunt;Jávorszarvas vadászat
+laukaus;shot;lövés
+rauhoitusaika;closed game season;szezon zárása
+salametsästys;poaching;orvvadászat
+Osaan käyttää asetta.;I know how to use a weapon.;Tudok fegyvert használni.
+En osaa käyttää asetta.;I don't know how to use a weapon.;Nem tudok fegyvert használni.
+Omistan kiväärin.;I own a rifle.;Van egy puskám.
+Osaan virittää ansoja.;I know how to set up snares.;Csapdákat tudok állítani.
+Olen käynyt metsästämässä.;I've gone hunting.;Vadásztam.
+Olen metsästänyt Suomessa.;I've hunted in Finland.;Finnországban vadásztam.
+Minulla on aseenkantolupa.;I have a gun license.;Fegyvertartási engedélyem van.
+Minulla on metsästyslupa.;I have a hunting permit.;Van vadászengedélyem.
+Metsästäjän täytyy noudattaa lakia.;A hunter must comply with the law.;A vadásznak be kell tartania a törvényt.
+Ammuin karhua, mutta en osunut.;I shot at a bear, but I didn't hit.;Rálőttem a medvére, de nem ütöttem el.
+Ammuin hirven.;I shot a deer.;Lelőttem egy szarvast.
+Metsästyskoira auttaa metsästämisessä.;A hunting dog helps with hunting.;A vadászkutya segít a vadászatban.
+Kotimaassani moni metstästää.;In my home country many people hunt.;Hazámban sokan vadásznak.
+Salametsästys on kielletty.;Poaching is forbidden.;Az orvvadászat tilos.
+Minusta metsästäminen on väärin.;I think hunting is wrong.;Szerintem rossz a vadászat.
+Rauhoitusaikana ei saa metsästää.;During closed game season you're not allowed to hunt.;A fegyverszünet ideje alatt nem lehet vadászni.
+Jotkut eläimet ovat uhanalaisia.;Some animals are endangered.;Néhány állat veszélyeztetett.

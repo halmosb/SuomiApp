@@ -1,0 +1,230 @@
+Finnish;English;hungarian
+hammaslääkäri;dentist;fogorvos
+hammashoitaja;dental hygienist;dentálhigiénikus
+suuhygienisti;hygienist;(dentál)higiénikus
+potilas;patient;beteg
+hammastahna;toothpaste;fogkrém
+hammasharja;toothbrush;fogkefe
+hammaslanka;dental floss;fogselyem
+hammastikku;toothpick;fogpiszkáló
+suuvesi;mouthwash;szájvíz
+hammaskipu, hammassärky;toothache;fogfájás, fogfájás
+ksylitoli;xylitol;xilit
+purukumi;chewing gum;rágógumi
+hammas, hampaat;tooth, teeth;fog fogak
+etuhammas;incisor;metszőfog
+kulmahammas;canine;szemfog
+välihammas;premolar;középső fog
+poskihammas;molar;mól-
+maitohampaat;milk teeth;tejfogak
+viisaudenhammas;wisdom tooth;bölcsességfog
+pysyvät hampaat;permanent teeth;maradandó fogak
+hammaskiille;enamel;zománc
+hammasluu;dentine;fogcsont
+pulpa, hammasydin;pulp;pép, pép
+pehmeä kudos;soft tissue;lágy szövet
+juuri;root;éppen
+ientasku;periodontal pocket;gumizseb
+sylki;spit;nyál
+suu;mouth;száj
+suupieli;corner of mouth;száj sarka
+kitalaki;roof of mouth;szájpadlás
+kieli;tongue;nyelv
+ikenet;gums;íny
+alaleuka;lower jaw;mandibula
+yläleuka;upper jaw;felső állkapocs
+afta;aphthous ulcer;fekély, seb
+hammasplakki;dental plaque;fogkö
+hammaskivi;dental calculus;fogkő
+hammasmätä;tooth decay;fogszuvasodás
+reikä, karies;caries;lyuk, fogszuvasodás
+alkava reikä;initial caries;kezdő lyuk
+värjäytynyt hammas;discolored tooth;foltos fog
+fluorilaikkuja;fluoride spots;fluorid tapaszok
+tulehdus;inflammation;gyulladás
+märkäpaise;abscess;pustuláris tályog
+ientulehdus;gingivitis;fogínygyulladás
+paradontiitti;periodontitis;parodontitis
+ruisku;syringe;fecskendő
+ruiske;injection;injekció
+potilastuoli;patient chair;betegszék
+niskatuki;headrest;fejtámla
+suojakäsineet;protective gloves;védőkesztyű
+suojalasit;protective glasses;védőszemüveg
+suumaski;mouth mask;szájmaszk
+kielispatula;tongue spatula;nyelvpatula
+valosondi;light probe;fényszonda
+hammaspora;dental drill;fogászati fúró
+suupeili;dental mirror;szájtükör
+imuletku;suction tube;szívótömlő
+ultraäänilaite;ultrasound device;ultrahang készülék
+valokovetin;dental curing light;fotocurer
+pihdit;spliers;fogó
+puudutus;anesthesia;érzéstelenítés
+puudutusaine;anesthetic;érzéstelenítő
+paikallispuudutus;local anesthesia;helyi érzéstelenítés
+juurentäyteaine;root filler;gyökértöltőanyag
+paikka;filling;hely
+väliaikainen paikka;temporary filling;ideiglenes hely
+muovipaikka;composite filling;műanyag hely
+amalgaamipaikka;amalgam filling;amalgám oldal
+prostetiikka;prosthetics;protézteknika
+hammasraudat;braces;kapcsos zárójel
+tekohampaat;dentures, fake teeth;műfogak
+proteesit;dentures;protézisek
+implantti;implant;implantátum
+hammassilta;dental bridge;fogászati híd
+hammaskruunu;tooth crown;fogkorona
+posliinikruunu;porcelain crown;porcelán korona
+ommel;stitch;öltés
+ylipurenta;overbite;túlharapni
+hammastarkastus;check-up;fogászati ellenőrzés
+hammashoito;dental care;fogápolás
+kiireellinen;urgent;sürgős
+kiireetön;non-urgent;tétlen
+paikkaushoito;cavity treatment;tapasz kezelés
+oikomishoito;orthodontic treatment;fogszabályozási kezelés
+hampaiden valkaisu;teeth whitening;fogfehérítés
+hammaspoisto;pulling of tooth;foghúzás
+hammaskiven poisto;tartar removal;fogkő eltávolítás
+juurihoito;root canal treatment;gyökérkezelés
+Pesen hampaat aamulla ja illalla.;I brush my teeth in the morning and evening.;Reggel és este mosok fogat.
+Käytän pehmeää hammasharjaa.;I use a soft toothbrush.;puha fogkefét használok.
+Käytän sähköhammasharjaa.;I use an electric toothbrush.;Elektromos fogkefét használok.
+Käytän fluorihammastahnaa.;I use fluoride toothpaste.;Én fluoridos fogkrémet használok.
+Haluan varata ajan hammaslääkärille.;I want to make a dentist appointment.;Fogorvoshoz szeretnék időpontot kérni.
+Haluan varata ajan suuhygienistille.;I want to make an oral hygienist appointment.;Fogászati higiénikushoz szeretnék időpontot kérni.
+Haluan varata ajan hammastarkastukseen.;I want to make an appointment for a dental checkup.;Fogászati vizsgálatra szeretnék időpontot kérni.
+Minulla on kova hammassärky.;I have a severe toothache.;erősen fáj a fogam.
+Hampaita vihloo.;My teeth ache.;Fogfájás.
+Särkylääke ei auta hammaskipuun.;Painkillers don't help with the toothache.;A fájdalomcsillapító nem segít a fogfájáson.
+En saa kivun takia nukutuksi.;I can't sleep because of the pain.;Nem tudok aludni a fájdalomtól.
+Kipu pahenee.;The pain is getting worse.;A fájdalom fokozódik.
+Kipu on sietämätöntä.;The pain is unbearable.;A fájdalom elviselhetetlen.
+Poskeni on turvonnut.;My cheek is swollen.;Az arcom bedagadt.
+Ikeniä aristaa.;My gums feel tender.;Az íny érzékeny.
+Ikenet vuotavat verta.;My gums bleed.;Ínyvérzés.
+Ikenistä tulee verta kun harjaan hampaat.;The gums bleed when I brush my teeth.;Vérzik az ínyem, ha fogat mosok.
+Pelkään hammaslääkäriä.;I'm afraid of the dentist.;Félek a fogorvostól.
+Minulla on heiluva hammas.;I have a loose tooth.;Kilazult a fogam.
+Paikka on ironnut.;The filling has gotten loose.;A hely eltűnt.
+Yksi hammas on lohjennut.;One tooth is chipped.;Egy foga kitört.
+Viisaudenhammas on puhjennut.;A wisdom tooth has erupted.;Kitört a bölcsességfog.
+Hampaidan harjaaminen sattuu.;Brushing my teeth hurts.;A fogmosás fáj.
+Suuni on kuiva ja arka.;My mouth is dry and sensitive.;Száraz és érzékeny a szám.
+Minä haluan valkoisemmat hampaat.;I want whiter teeth.;Fehérebb fogakat szeretnék.
+Käyn hammaslääkärillä liian harvoin.;I visit the dentist too rarely.;Túl ritkán járok fogorvoshoz.
+aiheuttaa tulehdus;to cause an infection;gyulladást okoznak
+aloittaa hoito;to start the treatment;kezdje el a kezelést
+avata suu;to open mouth;nyisd ki a szád
+desinfioida;to disinfect;fertőtleníteni
+ehkäistä;to prevent;megakadályozni
+haljeta;to split in two;robbanás, elválaszt ketté
+hiertää;to chafe;felháborodik
+hioa;to grind, to polish;fen
+hoitaa;to take care of;gondoskodni
+huuhdella;to rinse;öblítés
+kiillottaa paikkoja;to polish fillings;helyeket csiszolni
+kovettua;to harden , to become callous;megkeményedik
+kuivua;to dry;száraz
+kulua;to wear away;eltelik
+käydä hammaslääkärillä;to visit the dentist;látogassa meg a fogorvost
+käyttää hammaslankaa;to use dental floss;használjon fogselymet
+langoittaa;to floss;huzal
+lohjeta;to lose a part;Forgács
+lähettää tutkimukseen;to send to an examination;vizsgálatra küldeni
+napostella;to snack;rágcsál
+narskuttaa hampaita;to grind your teeth;csikorgatja a fogait
+ottaa röntgenkuva;to take an X-ray;röntgent készíteni
+paikata;to fill;tapasz
+paisua;to swell;dagad
+pestä / harjata hampaat;to brush your teeth;fogat mosni/mosni
+poistaa hammas;to remove a tooth;távolítson el egy fogat
+poistaa hammaskiveä;to remove caries;fogkő eltávolítására
+puhdistaa;to clean;tiszta
+puhjeta;to erupt, come through;robbanás
+punoittaa;to be red;legyen piros
+pureskella;to chew;rágás
+purra;to bite;harapás
+purra yhteen;to bite together;összeharapni
+puuduttaa;to numb, anaesthetise;zsibbadt
+sattua;to hurt;előfordul
+sylkeä pois;to spit out;kiköp
+säätää;to adjust;beállítani
+tarkastaa;to check;jelölje be
+tulehtua;to get inflammated;szeptikus
+turvota;to swell up;földagad
+vuotaa verta;to bleed;vérzik
+Minkälaista vaivaa sinulla on?;What kind of problem do you have?;Milyen bajod van?
+Milloin vaiva alkoi?;When did the problem begin?;Mikor kezdődtek a bajok?
+Mistä lähtien sinulla on ollut hammaskipua?;Since when have you had a toothache?;Mióta fáj a foga?
+Milloin kävit viimeksi hammaslääkärillä?;When did you last visit a dentist?;Mikor volt utoljára fogorvosnál?
+Millaista hammasharjaa sinä käytät?;What kind of a toothbrush do you use?;Milyen fogkefét használsz?
+Milloin harjaat hampaasi?;When do you brush your teeth?;Mikor mosol fogat?
+Kuinka usein harjaat hampaasi?;How often do you brush your teeth?;Milyen gyakran mosol fogat?
+Tupakoitko?;Do you smoke?;Dohányzol?
+Oletko allerginen jollekin?;Are you allergic to anything?;Allergiás vagy valamire?
+Oletko puudutusaineelle allerginen?;Are you allergic to dental anastetic?;Allergiás az érzéstelenítőre?
+Onko sinua puudutettu aikaisemmin?;Have you had local anaesthetics before?;Érzéstelenítették már korábban?
+Milloin sinua on viimeksi puudutettu?;When did you get an anaesthetic last time?;Mikor volt utoljára érzéstelenítés?
+Oletko raskaana?;Are you pregnant?;Terhes vagy?
+Pelkäätkö hammaslääkäriä?;Are you afraid of the dentist?;Félsz a fogorvostól?
+Onko sinulla viisaudenhampaat?;Do you have wisdom teeth?;Vannak bölcsességfogaid?
+Hammaskiveä pitää poistaa.;The tartar must be removed.;A fogkövet el kell távolítani.
+Teillä on paljon hammaskiveä.;You have a lot of dental calculus.;Sok a fogkőd.
+Ienraja on vetäytynyt.;The gum line is receding.;Az ínyvonal visszahúzódott.
+Ikenet ovat tulehtuneet.;The gums are infected.;Az íny gyulladt.
+Sinulla on paha ientulehdus.;You have bad gingivitis.;Rossz ínygyulladásod van.
+Juuressa on tulehdus.;The root is inflammated.;A gyökérben gyulladás van.
+Juurikanava pitää puhdistaa.;The root canal needs to be cleaned.;A gyökércsatornát meg kell tisztítani.
+Sinulla on reikä poskihampaassa.;You have a hole in a molar.;Van egy lyuk a őrlőfogadban.
+Yksi reikä pitää paikata.;One hole has to be filled.;Az egyik lyukat be kell foltozni.
+Tarvitset kolme paikkaa.;You need three fillings.;Három ülésre van szüksége.
+Sinulla on monta reikää.;You have many holes.;Sok lyuk van.
+Lohjennut hammas pitää paikata.;The chipped tooth needs to be patched.;A töredezett fogat rögzíteni kell.
+Tämä hammas pitää poistaa.;This tooth must be removed.;Ezt a fogat el kell távolítani.
+Tätä hammasta ei voida pelastaa.;This tooth can't be saved.;Ezt a fogat nem lehet megmenteni.
+Sinulla on yksi heiluva hammas.;You have one tooth that moves.;Egy kilazult foga van.
+Tämä hammas on vinossa.;This tooth is crooked.;Ez a fog ferde.
+Nämä hampaat ovat väärässä asennossa.;These teeth are in the wrong position.;Ezek a fogak rossz helyzetben vannak.
+Laita proteesi yöllä vesilasiin!;Put the denture in a glass of water at night!;Tedd a protézist éjszakára egy pohár vízbe!
+Viisaudenhammas on puhkeamassa.;The wisdom tooth is erupting.;Mindjárt kitör a bölcsességfog.
+Tarvitset hammasraudat.;You need braces.;Fogszabályzó kell.
+Tämä hammas tarvitsee juurihoitoa.;This tooth needs a root canal treatment.;Ennek a fognak gyökércsatornára van szüksége.
+Meidän täytyy ottaa röntgenkuva hampaasta.;We need to take an X-ray of the tooth.;Röntgenfelvételt kell készítenünk a fogról.
+Istu, ole hyvä! / Istukaa, olkaa hyvä!;Please sit down (less / more formal);Foglaljon helyet! / Foglaljon helyet!
+Avaa suu, niin katsotaan!;Open your mouth and let's take a look!;Nyisd ki a szád és lássuk!
+Käännä päätä vähän.;Turn your head a little.;Fordítsa el egy kicsit a fejét.
+Jaksatko pitää suuta auki?;Can you keep your mouth open?;Tudod tátva tartani a szádat?
+Voit sulkea suun.;You can close your mouth.;Elhallgathatod.
+Hengitä vaan rauhallisesti.;Go ahead and breath calmly.;Csak lélegezz nyugodtan.
+Hengitä nenän kautta.;Breathe through your nose.;Lélegezz az orron keresztül.
+Toimenpito on kivuton.;The procedure is painless.;Az eljárás fájdalommentes.
+Haluatko, että puudutetaan?;Do you want to be anesthetized?;Akarsz zsibbadni?
+Hammas on nyt puudutettu.;The tooth is now anesthetized.;A fogat most érzéstelenítették.
+Puudutus kestää noin kaksi tuntia.;The anesthesia lasts about two hours.;Az érzéstelenítés körülbelül két óráig tart.
+Reikä on niin pieni, että puudutusta ei tarvita.;The hole is so small that we don't need an anesthetic.;A lyuk olyan kicsi, hogy nincs szükség érzéstelenítésre.
+Aion seuraavaksi porata reikää.;I'm going to drill the hole now.;Ezután kifúrom a lyukat.
+Kerro heti, jos sattuu.;Tell me right away if it hurts.;Azonnal szólj, ha fáj.
+Annan lisää puudutusta.;I will give you more anesthesia.;Még több érzéstelenítést adok.
+Poista vanhan paikan.;I will remove the old filling.;Törölje a régi helyet.
+Puhdistetaan reikää.;Let's clean the cavity.;Tisztítsuk meg a lyukat.
+Pidä kieli suun takaosassa.;Keep your tongue in the back of your mouth.;Tartsa a nyelvét a szája hátsó részén.
+Tarvitsetko pienen tauon?;Do you need a short break?;Kell egy kis szünet?
+Satuttaako hampaan reuna poskea?;Does the edge of the tooth hurt your cheek?;Fáj a fog széle az arcán?
+Korottaako paikka?;Does the filling feel too high?;Emelje fel az ülést?
+Kovetetaan täytettä.;Let's harden the filling.;Keményítsük meg a tölteléket.
+Laitan purentapaperia hampaiden väliin.;I will put bite paper between your teeth.;rágópapírt tettem a fogaim közé.
+Pure hampaat yhteen muutama kerta.;Bite you teeth together a couple of times.;Csiszolja össze a fogait néhányszor.
+Onko suussa vielä pahaa makua?;Is there still a bad taste in your mouth?;Még mindig rossz íze van a szájában?
+Huuhdotaan hieman.;Let's rinse a little.;Öblítsünk egy kicsit.
+Hampaat täytyy harjata huolella.;Teeth need to be brushed carefully.;Óvatosan kell fogat mosni.
+Tarvitset uuden ajan.;You will need a new appointment.;Új időpontra van szüksége.
+Varaan sinulle uuden ajan.;I will book you a new appointment.;Új időpontot egyeztetek önnek.
+Varaa uusi aika vastaanotolla.;Book a new appointment at the reception.;Kérjen új időpontot a recepción.
+Lähetän sinut jatkotutkimuksiin.;I'm referring you for follow-up exams.;Küldöm további vizsgálatokra.
+Määrään sinulle särkylääkettä.;I'm prescribing you a painkiller.;Felírok neked egy fájdalomcsillapítót.
+Suosittelen sähköhammasharjaa.;I suggest an electric toothbrush.;Elektromos fogkefét javaslok.
+Tarvitset antibioottikuurin.;You need an antibiotic treatment.;Szüksége van egy antibiotikum kúrára.
+Et saa kahteen tuntiin syödä eikä juoda.;You're not allowed to eat or drink for two hours.;Két órán keresztül nem szabad enni és inni.
+Käy useammin hammaslääkärillä!;Visit the dentist more often!;Látogass gyakrabban fogorvoshoz!

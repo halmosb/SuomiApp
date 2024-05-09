@@ -1,0 +1,106 @@
+Finnish;English;hungarian
+Kirjastosanoja;Library words;Könyvtári szavak
+aakkosjärjestys;alphabetical order;ábécésorrend
+e-kirja;electronic book;e-könyv
+kirjan kansi;book cover;könyvborító
+kirjahylly;book shelf /case;könyvszekrény
+kirjasto;library;könyvtár
+kirjastossa;at the library;a könyvtárban
+kirjastoauto;mobile library;mozgókönyvtár
+kirjastokortti;library card;olvasójegy
+kirjastonhoitaja;librarian;könyvtáros
+kirjastovirkailija;library assistant;könyvtáros segéd
+käsikirjasto;reference library;kézikönyvtár
+laina;borrowed book;a kölcsön
+lastenosasto;children's department;gyermekosztály
+luettelo;catalogue;katalógus
+lukusali;reading room;olvasószoba
+lähikirjasto;local branch library;helyi könyvtár
+myöhästymismaksu;late fee;késedelmi díj
+nuorten osasto;young adult department;ifjúsági szekció
+osasto;department;osztály
+otsikko;title;cím
+sivu;page;oldalon
+sivunumero;page number;oldalszám
+varaus;reservation;foglalás
+verkkopalvelut;online services;online szolgáltatások
+viivakoodi;bar code;vonalkód
+lainausautomaatti;self-issue borrowing machine;kölcsöngép
+palautusautomaatti;self-service returning machine;visszatérő gép
+Verbejä;Verbs;Igék
+lainata kirja;to borrow a book;kölcsönkérni egy könyvet
+palauttaa kirja;to return a book;vissza a könyvet
+varata kirja;to reserve a book;foglaljon le egy könyvet
+lukea kirja;to read a book;olvasni egy könyvet
+selailla kirja;to leaf through a book;böngésszen a könyvben
+etsiä kirjaa;to search for a book;keress egy könyvet
+hakea kirja;to go get a book;vegyél egy könyvet
+uusia lainoja;to renew books;új hitelek
+maksaa maksu;to pay the fee;fizetni a díjat
+Kirjallisuus;Literature;Irodalom
+fantasiakirjallisuus;fantasy literature;fantasy irodalom
+kaunokirjallisuus;fiction;kitaláció
+käännöskirjallisuus;translated literature;fordítási irodalom
+rikoskirjallisuus;crime fiction;bűnügyi regény
+tieteiskirjallisuus;science fiction;tudományos-fantasztikus
+tietokirjallisuus;non-fiction;nem fikció
+Kirjoja;Books;Könyvek
+dekkari;detective story;krimi
+elämäkerta;biography;életrajz
+jännäri;thriller;krimi, thriller
+keittokirja;cooking book;szakácskönyv
+kovakantinen kirja;hardback book;keménykötésű
+kuvakirja;picture book;képeskönyv
+lastenkirjan;children's book;egy gyerekkönyv
+menekkikirja;best-seller;értékesítési főkönyv
+novelli;short story;elbeszélés
+omaelämäkerta;autobiography;önéletrajz
+opaskirja;travel guide;útikönyv
+pehmeäkantinen kirja;paperback book;puha fedelű könyv
+rakkausromaani;romantic fiction book;szerelmes regény
+romaani;novel;regény
+runokirja;poetry book;verseskötete
+sanakirja;dictionary;szótár
+sarjakuva;comic book;rajzfilm
+scifi-kirja;science fiction book;tudományos-fantasztikus könyv
+sotakirja;war novel;háborús könyv
+teos;book, work;munka
+tietokirja;non-fiction book;ismeretterjesztő könyv
+vakoilukirja;spy novel;kémkönyv
+Tykkään käydä kirjastossa.;I like to go to the library.;Szeretek könyvtárba járni.
+Käyn usein kirjastossa.;I often go to the library.;Gyakran járok könyvtárba.
+Kirjasto on ihana paikka.;The library is a lovely place.;A könyvtár csodálatos hely.
+Haluaisin saada kirjastokortin.;I would like to get a library card.;Könyvtári igazolványt szeretnék venni.
+Kirjastokortti on ilmainen.;A library card is free of charge.;A könyvtári kártya ingyenes.
+Haluaisin lainata tämän kirjan.;I would like to borrow this book.;Szeretném kölcsönkérni ezt a könyvet.
+Miten lainausautomaatti toimii?;How does the self-service machine work?;Hogyan működik a hitelautomata?
+Haluaisin palauttaa nämä kirjat.;I would like the return these books.;Szeretném visszaküldeni ezeket a könyveket.
+Onko teillä selkokirjoja?;Do you have easy-to-read books?;Van puhafedeled?
+Missä lastenkirjaosasto on?;Where is the children's department?;Hol van a gyerekkönyv részleg?
+Missä englanninkieliset kirjat ovat?;Where are the English language books?;Hol vannak az angol könyvek?
+Mistä löydän suomen kielen oppikirjoja?;Where can I find Finnish textbooks?;Hol találok finn nyelvű tankönyveket?
+Etsin scifi-kirjoja.;I'm looking for science fiction books.;Sci-fi könyveket keresek.
+Onko teillä Harry Potter -kirjat?;Do you have the Harry Potter books?;Vannak Harry Potter könyveid?
+"Onko teillä kirja nimeltään ""Glitch""?";Do you have the book called “Glitch”?;"Van ""Glitch"" című könyved?"
+En muista kirjailijan nimeä.;I don't remember the writer's name.;Nem emlékszem a szerző nevére.
+Voisitko näyttää, missä historiasta kertovat kirjat ovat?;Could you show me where the books about history are?;Meg tudnád mutatni, hol vannak a történelemkönyvek?
+Onko teillä myös äänikirjoja?;Do you also have audiobooks?;Vannak hangoskönyveid is?
+Onko teillä lukusali?;Do you have a reading room?;Van olvasóterme?
+Onko teillä ulkomaalaisia sanomalehtiä?;Do you have foreign newspapers?;Vannak külföldi újságok?
+Kuinka kauan voin pitää nämä kirjat?;How long can I keep these books?;Meddig őrizhetem meg ezeket a könyveket?
+Miten voin uusia kirjoja?;How can I renew books?;Hogyan tudom megújítani a könyveket?
+Voinko uusia nämä kirjat nyt?;Can I renew these books now?;Megújíthatom most ezeket a könyveket?
+Miten voin uusia kirjat netissä?;How can I renew books online?;Hogyan újíthatok meg könyveket online?
+Tämä kirja on lainassa.;This book is on loan.;Ez a könyv kölcsönben van.
+Tämä kirja löytyy toisesta kirjastosta.;This book is in another library.;Ez a könyv egy másik könyvtárban is megtalálható.
+Seutuvaraus maksaa kaksi euroa.;A long-distance reservation costs two euros.;A regionális foglalás két euróba kerül.
+Voinko varata tämän kirjan?;Can I reserve this book?;Lefoglalhatom ezt a könyvet?
+Varaamanne kirja on saapunut.;The book you reserved has arrived.;Megérkezett a megrendelt könyv.
+Sain viestin, että varaamani kirja on saapunut.;I got a message that the book I reserved has arrived.;Üzenetet kaptam, hogy megérkezett az általam lefoglalt könyv.
+Jos et nouda varattua kirjaa, joudut maksamaan yhden euron.;If you don't pick up a reserved book, you have to pay one euro.;Ha nem veszi át a lefoglalt könyvet, egy eurót kell fizetnie.
+Olen kadottanut kirjastokorttini.;I've lost my library card.;Elvesztettem a könyvtári igazolványomat.
+En löydä kirjastokorttiani.;I can't find my library card.;Nem találom a könyvtári kártyámat.
+Unohdin kirjastokorttini kotiin.;I forgot my library card at home.;Otthon felejtettem a könyvtári kártyámat.
+En muista tunnuslukuani.;I don't remember my PIN code.;Nem emlékszem a kódomra.
+Voinko silti lainata tämän kirjan?;Can I still borrow this book?;Még kölcsönkérhetem ezt a könyvet?
+En löydä kirjaa enää.;I can't find the book anymore.;Már nem találom a könyvet.

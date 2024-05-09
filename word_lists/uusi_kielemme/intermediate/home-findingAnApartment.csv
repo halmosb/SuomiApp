@@ -1,0 +1,165 @@
+Finnish;English;hungarian
+asunto;dwelling, residence, house, home;ház
+asuntoilmoitus;housing advertisement;lakhatási értesítő
+myydään;for sale;eladva
+vuokrataan;for rent;Kiadó
+asuntoesittely;showing of the house;lakásbemutató
+esittelyaika;time of the showing, appointment;bemutató ideje
+kiinteistönvälittäjä;real estate agent;ingatlanügynök
+kiinteistönvälitys;real estate;ingatlan
+asuntopula;housing shortage;lakáshiány
+huone (h);room;szoba (h)
+olohuone (oh);living room;nappali (ó)
+makuuhuone (mh);bedroom;hálószoba (nagy hálószoba)
+työhuone (työh);office, study;tanulni (dolgozni)
+takkahuone (tkh);living room with fireplace;kandallós szoba (tkh)
+kylpyhuone (kph);bathroom;fürdőszoba (kph)
+sauna (s);sauna;szauna(k)
+pesuhuone (ph);washing room;mosdó (ph)
+suihkuhuone (sh);shower room;zuhanyzó (sh)
+pukuhuone (pkh);dressing room;öltöző (pkh)
+keittiö (k);kitchen;konyha (k)
+tupakeittiö (tupak, tpk, tk);small kitchen;dohánykonyha (dohány, tpk, tk)
+avokeittiö (avok);open kitchen;nyitott konyha (avok)
+keittokomero (kk, kt);kitchenette;konyhasarok (hónap, kt)
+ruokailuhuone (rh);dining room;étkező (rh)
+parveke (pvk, p);balcony;erkély (dvk, p)
+lasitettu parveke (las.pvk, lasit.p);glazed balcony;üvegezett erkély (lasit.pvk, lasit.p)
+ranskalainen parveke (r.pvk, rp);French balcony;francia erkély (r.pvk, rp)
+autotalli (at);garage;garázs (at)
+autokatos (ak);car shelter;kocsibeálló (ac)
+terassi (ter);terrace;terasz (ter)
+eteinen (et);hallway;folyosó(k)
+erillinen vessa (wc);toilet;külön WC
+kodinhoitohuone (khh);utility room;mosókonyha (khh)
+vaatehuone (vh);walk-in closet;öltöző (fent)
+siivouskomero (sk, siiv);cleaning closet;takarítószekrény (sk, siiv)
+varasto (var);storage room;raktár (var)
+Talotyyppi;House type;Ház típusa
+omakotitalo;detached house, one family house;városi ház
+pienkerrostalo;low apartment building (2-3 floors);kis bérház
+kerrostalo;apartment building;bérház
+paritalo;semi-detached house;ikerház
+rivitalo;row house;teraszos ház
+Asumismuoto;Living type;Lakóhely formája
+omistusasunto;owner-occupied home;tulajdonú lakás
+vuokra-asunto;rented home;bérlakás
+asumisoikeusasunto;right of occupancy housing;lakhatási jogú lakás
+vapaarahoitteinen;rentable by anyone;önfinanszírozott
+ARAVA-rahoitteinen;rentable if low income;Az ARAVA finanszírozta
+määräaikainen sopimus;fixed-term contract;ideiglenes szerződés
+toistaiseksi voimassa oleva;valid until further notice;egyelőre érvényes
+Sijainti;Location;Elhelyezkedés
+hyvä sijainti;good location;jó elhelyezkedés
+hyvät näkymät;good view;jó kilátások
+hyvät liikenneyhteydet;good traffic connections;jó közlekedési kapcsolatok
+liikenneyhteydet keskustaan;traffic connections to the center;közlekedési kapcsolatok a központba
+hyvät bussiyhteydet;good bus connections;jó buszkapcsolatok
+erinomaiset kulkuyhteydet;excellent accessibility;kiváló közlekedési kapcsolatok
+kaikki palvelut lähellä;all services closeby;minden szolgáltatás a közelben
+Kunto;Condition;Feltétel
+asunnon kunto;condition of the home;a lakás állapota
+rakennusvuosi;year of construction;építés éve
+valmistunut vuonna 2017;completed in 2017;2017-ben végzett
+energialuokka (A-G);energy efficiency class;energiaosztály (A-G)
+energialuokka A;very energy efficient;A energiaosztály
+energialuokka G;not energy efficient;G energiaosztály
+tehdyt remontit;renovations made (list);felújítások megtörténtek
+yleiskunto;base condition;alkotmány
+hiljattain remontoitu;recently renovated;nemrég felújított
+uusittu, uudistettu;renewed;megújult, megújult
+hyvin hoidettu;well maintained;szép munka
+hyväkuntoinen;in good condition;jó formában
+Koko;Size;Méret
+yksiö;one room apartment;stúdiólakás
+kaksio;two room apartment;két hálószoba
+kolmio;three room apartment;háromszög
+tontin koko;size of the plot;az épület alapterületének mérete
+pinta-ala;surface area;felszíni terület
+neliömetri;square meter;négyzetméter
+51,5 m^2;51.5 m^2;51,5 m^2
+Hinta;Price;Ár
+vuokra;rent;bérbeadás
+1470 e/kk;1470 euros per month;1470 e/hó
+maksupäivä;payment date;kifejezést
+kuun 2. päivä;2nd of each month;A hónap 2. napja
+vakuus;deposit;garancia
+velaton hinta;debt-free price;adósságmentes áron
+myyntihinta;selling price;eladási ár
+neliöhinta;price per square meter;négyzetméter ár
+yhtiövastike;maintenance charge;Vállalati mérlegelés
+vesimaksu;water fee;vízdíj
+x sisältyy vuokraan;x is included in the rent;x benne van a bérleti díjban
+Kerros;Floor;Padló
+1/7;1st floor out of 7;1/7
+3/8;3rd floor out of 8;3/8
+ylimmän kerroksen koti;top floor home;legfelső emeleti otthon
+Materiaalit;Materials;Anyagok
+laminaattilattia;laminate flooring;laminált padló
+parkettilattia;parquet;parketta
+laattalattia;tile flooring;csempe padló
+maalattu;painted;festett
+tapetti;wallpaper;tapéta
+paneeliseinät;wall panels;panelfalak
+Erityisiä ehtoja;Special conditions;Különleges körülmények
+lemmikit sallittu;pets allowed;Háziállatok engedélyezve
+lemmikit kielletty;pets forbidden;háziállat nem megengedett
+lemmikit neuvoteltavissa;pets negotiable;háziállat alkuképes
+lemmikit: ei tiedossa;pets: unspecified;háziállatok: nem ismert
+tupakointi sallittu/kielletty;smoking allowed/forbidden;dohányzás megengedett/tilos
+luottotiedot tarkastetaan;credit information will be checked;a hitelinformációkat ellenőrizzük
+laaja kotivakuutus;extensive home insurance;átfogó lakásbiztosítás
+Muutto;Moving;Migráció
+heti vapaa;free right away;azonnal elérhető
+vapautuu 3.12.;gets vacated 3rd of December;3.12-én válik elérhetővé.
+muuttovalmis koti;ready-to-move-into home;beköltözésre kész otthon
+heti vapautuva;immediately available;azonnal elengedték
+vapautuminen sopimuksen mukaan;available by agreement;megegyezés szerint kiadás
+Adjektiiveja;Adjectives;Melléknevek
+valoisa;bright;fényes
+viihtyisä;homely;otthonos
+kodikas;cozy;kényelmes
+tilava, avara;spacious;tágas, tágas
+mukava;pleasant;szép
+upea;magnificent;Káprázatos
+loistava;brilliant;dicső
+tyylikäs;stylish;elegáns
+laadukas;high-quality;jó minőség
+persoonallinen;unique;egyedi
+rauhallinen;peaceful;csendes
+uusi;new;új
+uudehko;pretty new;eléggé új
+moderni;modern;modern
+siisti;neat;tiszta
+Soita ja varaa heti esittelyaika!;Call and book a house showing now!;Hívjon és foglaljon időpontot azonnal!
+Löysin asuntoilmoituksen netistä.;I found a housing advertisement online.;Találtam egy lakás hirdetést a neten.
+Löysin asuntoilmoituksen lehdestä.;I found a housing ad in the paper.;Találtam egy lakáshirdetést egy újságban.
+Olen kiinnostunut tästä asunnosta.;I'm interested in this apartment.;Érdekel ez a lakás.
+Haluaisin tulla katsomaan tätä asuntoa.;I would like to come see this apartment.;Szeretnék eljönni és megnézni ezt a lakást.
+Milloin voisin tulla katsomaan asuntoa?;When could I come to see the apartment?;Mikor jöhetnék megnézni a lakást?
+Onko taloyhtiössä sauna?;Is there a sauna in the building?;Van az apartmankomplexumban szauna?
+Onko taloyhtiössä pesutupa?;Is there a common laundry room in the building?;Az apartmankomplexumban van mosókonyha?
+Mitä sisältyy vuokraan?;What's included in the rent?;Mit tartalmaz a bérleti díj?
+Saako asunnossa pitää lemmikkieläimiä?;Is it allowed to keep pets in the apartment?;Kisállat bevihető a lakásba?
+Kuinka monta neliötä asunnossa on?;How many square meters is the apartment?;Hány négyzetméter van a lakásban?
+Onko putkiremontti tehty?;Has the plumbing been renovated?;A csőjavítás megtörtént?
+Mitä remontteja on tulossa?;What kind of renovations are coming (planned)?;Milyen felújítások jönnek?
+Voinko saada autopaikan?;Can I get a parking spot?;Kaphatok parkolóhelyet?
+Onko talossa ollut vesivahinkoa?;Have there been water damage in the building?;Történt vízkár a házban?
+Millaiset naapurit ovat?;What are the neighbors like?;Milyenek a szomszédok?
+Onko taloyhtiössä laajakaista?;Is there a broadband connection in the building?;A lakóközösség rendelkezik szélessávval?
+Onko asunto jo tyhjillään?;Has the home already been vacated?;Üres már a lakás?
+Kuinka kauan asunto on ollut tyhjänä?;How long has the home been empty?;Mióta áll üresen a lakás?
+Kuinka pitkään asunto on ollut myytävänä?;How long has the home been for sale?;Mióta eladó a lakás?
+Milloin asunto vapautuu?;When will the home be vacated?;Mikor válik szabaddá a lakás?
+Millä perusteilla vuokralainen valitaan?;On what basis is the new tenant chosen?;Mi alapján választják ki a bérlőt?
+Milloin päätetään, kuka saa asunnon?;When will it be decided, who gets the home?;Mikor dől el, hogy kié lesz a lakás?
+Vesimaksu kuuluu vuokraan.;The water bill is included in the rent.;A vízdíjat a bérleti díj tartalmazza.
+Kylpyhuoneessa on pesukoneliitäntä.;The bathroom has a washing machine connection.;A fürdőszoba mosógép csatlakozással rendelkezik.
+Keittiössä on sähköliesi.;There's an electric stove in the kitchen.;A konyhában elektromos tűzhely található.
+Asunnossa on runsaasti kaappitilaa.;There's plenty of cupboard space in the home.;A lakásban rengeteg szekrény található.
+Asunnon lähellä on kaikki palvelut.;All the services are present near the home.;Minden szolgáltatás közel van az apartmanhoz.
+Asunnon lähellä on päiväkoti.;There's a kindergarten near to the home.;A lakás közelében óvoda található.
+Talossa ei ole hissiä.;There's no elevator in the building.;Az épületben nincs lift.
+Elisan 10 Mbit/s laajakaista sisältyy vuokraan.;Elisa's 10 Mbit/s broadband is included in the rent.;Az Elisa 10 Mbit/s-os szélessávja benne van a bérleti díjban.
+Vuokralaisvalinta tehdään hakemusten perusteella.;Tenant selection is made based on the applications.;A bérlő kiválasztása jelentkezések alapján történik.

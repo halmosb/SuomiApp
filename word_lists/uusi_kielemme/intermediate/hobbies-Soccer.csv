@@ -1,0 +1,159 @@
+Finnish;English;hungarian
+Pelaajat;Players;Terület
+jalkapalloilija;soccer player;focista
+maalivahti;goalkeeper;őrző
+molari;goalkeeper (spoken);kapus
+hyökkääjä;forward;csatár
+alempi hyökkääjä;secondary striker;lejjebb előre
+oikea laitahyökkääjä;right forward;Jobboldal
+vasen laitahyökkääjä;left forward;balszélső
+välihyökkääjä;inside forward;belső/középcsatár
+keskushyökkääjä;centre forward;középcsatár
+hyökkäävä keskikenttä;attacking midfielder;támadó középpályás
+hyökkäävät laitapakit;wingbacks;támadó hátvédek
+maalintekijä, kärkipelaaja;striker;gólszerző
+puolustaja;defender;védő
+laitapuolustaja;full-back;Hátvéd
+keskuspuolustaja;central defender / back;Középső védő
+puolustava keskikenttä;defensive midfielder;védekező középpályás
+toppari;centre back (spoken);fedő
+libero;sweeper;utcaseprő
+keskikenttä(pelaaja);midfielder;középpálya (játékos)
+keskikentän keskellä;centre midfielder;a középpálya közepén
+laitalinkki;wide midfielder;oldalsó link
+laitapakki;right back / left back;oldalsó csomag
+vastustaja;opponent;ellenfél
+kymppipaikan pelaaja;ten point player;legjobb tíz játékos
+vaihtopelaaja;substitute player;cserejátékos
+varamaalivahti;substitute goalie;tartalék kapus
+valmentaja;coach;távolsági busz
+apuvalmentaja, apulaiskoutsi;assistant coach;segédedző
+maajoukkuevalmentaja;national team coach;válogatott edző
+joukkue;team;csapat
+erotuomari;referee;játékvezető
+avustava erotuomari;assistant referee;játékvezető asszisztens
+neljäs erotuomari;fourth referee;a negyedik játékvezető
+manageri;manager;menedzser
+katsoja;spectator;néző
+yleisö;audience;közönség
+kannattaja;supporter;támogató
+penkkiurheilija;sports fan;pad sportoló
+huligaani;hooligan;huligán
+Verbejä;Verbs;Igék
+ajaa pelaaja kentältä;to remove a player;űzd el a játékost a pályáról
+harhauttaa vastustajaa;to deceive an opponent;elvonja az ellenfél figyelmét
+heittää pallo;to throw the ball;dobd el a labdát
+hyökätä;to attack;támadás
+hävitä;to lose;elveszít
+juosta;to run;fuss
+keskeyttää peli;to interrupt the game;szüneteltesse a játékot
+koskea palloon;to touch the ball;érintse meg a labdát
+kuljettaa palloa;to dribble;csöpög
+loukkaantua;to get hurt;megsérülni
+lähestyä palloa;to approach the ball;közelíteni a labdához
+menettää pallo;to lose the ball;elveszti a labdát
+näyttää keltaista korttia;to show a yellow card;sárga lapot mutat
+ohittaa maalivahti;to pass the goalkeeper;adja át a kapust
+osua palloon;to hit the ball;megütni a labdát
+ottaa haltuun pallo;to take the ball;birtokba venni a labdát
+ottaa vauhtia;to speed up;felvenni a sebességet
+pelata tasan;to play a tie;döntetlent játszani
+peruuttaa peli;to cancel a game;törölje a játékot
+pitää palloa käsissä;to hold the ball in hands;tartsa a labdát
+potkaista vastapelaaja;to kick an opponent;rúgni az Ellenfelet
+potkia;to kick;rúgás
+prässätä;to press;nyomja meg
+puolustaa;to defend;megvédeni
+puskea pallo;to bump the ball;rúgd a labdát
+pysäyttää pallo;to stop the ball;állítsa le a labdát
+rikkoa sääntö;to break a rule;szabályt megszegni
+saada keltaista korttia;to get a yellow card;kap egy sárga lapot
+saada pallo haltuun;to get the ball;megszerezni a labdát
+suojata palloa;to protect the ball;megvédeni a labdát
+taklata;to tackle;megbirkózni
+tehdä maali;to make a goal;gólt rugni
+tukea;to support;támogatás
+tuomita;to judge;elítélni
+työntää;to push;nyom
+tähdätä;to aim;cél
+voittaa ottelu;to win a match;megnyerni a meccset
+valmentaa;to coach;készít
+varoittaa;to warn;figyelmeztet
+viheltää pilliin;to whistle;síp
+viivyttää peliä;to delay the game;késleltesse a játékot
+ylittää maaliviivan;to cross the goal line;át a célvonalon
+Voitto & Tappio;Win & Loss;Nyerj veszít
+ottelu;match, game;mérkőzés
+kotiottelu;home game;hazai meccs
+vierasottelu;away match;idegenben játszott mérkőzés
+maali;goal;festék
+torjunta;save;megment
+tulos;result;eredmény
+lopputulos;final score;végeredmény
+voitto;win;nyereség
+tasapeli;draw;húz
+tasuri;draw (spoken);tasuri
+tappio, häviö;loss;vereség, veszteség
+Rikkeet;Violations;Szabálysértések
+varoitus;warning;Figyelem
+rike;offense;vétség
+rikkeet;violations;jogsértéseket
+pelikatko;game interruption;játékszünet
+keltainen;yellow card;sárga
+punainen;red card;piros
+käsivirhe;handball;kézi hiba
+pelikielto;suspension;felfüggesztés
+paitsio;offside;les-
+Potkut & Heitot;Kicks & Throws;Kicks & Dobs
+laukaus;shot;lövés
+sivurajaheitto;throw-in;oldalvonal dobása
+aloituspotku;kickoff;kezdőrúgás
+maalipotku;goal kick;gólrúgás
+kulmapotku;corner kick;sarok
+rangaistuspotku;penalty shot;büntetés
+rankkari;penalty shot (spoken);keményebb
+vapaapotku;free kick;szabadrúgás
+vapari;free kick (spoken);bátor
+epäsuora vapaapotku;indirect free kick;közvetett szabadrúgás
+suora vapaapotku;direct free kick;közvetlen szabadrúgás
+saksipotku;bicycle kick;ollós rúgás
+saksari;bicycle kick (spoken);német
+avauskokoonpano;opening formation;nyitó felállás
+pusku;head-butt;csikk
+Aika;Time;Idő
+tauko;break;szünet
+puoliaika;half time;fél
+jatkoaika;extra time;túlóra
+Kenttäalueet;Field areas;Terepterületek
+kenttä;field;terület
+maaliviiva;goal line;célvonal
+rangaistusalue, kuudentoista alue;penalty area;büntetőterület
+maalivahdin alue;goalkeeper area;kapus terület
+rangaistuspilkku;penalty spot;írásjel
+keskiympyrä;centre circle;középső kör
+keskipiste;centre spot;központ
+tolppa;post;hozzászólás
+ylärima;bar;legjobb bár
+sivuraja;sideline;oldalsó határ
+verkko;net;hálózat
+katsomo;the stands;állvány
+Ammattijalkapallo;Professional football;Profi futball
+ammattilaisliiga;professional league;profi liga
+ammattipelaajat;professional players;profi játékosok
+Mestarien liiga;UEFA Champions League;a Bajnokok Ligája
+Veikkausliiga;Finland's premier division;Veikkausliiga
+mestaruus;championship;bajnokság
+Suomen Mestaruus;Finnish Championship;Finn bajnokság
+cup-kilpailu;Cup competition;kupaverseny
+jalkapalloturnaus;soccer tournament;foci torna
+jalkapalloseura;football club;foci Klub
+sarjajärjestelmä;league system;soros rendszer
+kausi;season;évad
+kolmen vuoden sopimus;three-year contract;három éves szerződés
+pelaajasiirto;player transfer;játékos átigazolás
+harjoitukset;training;feladatok
+finaali;final match;végső
+mitali;medal;érem
+palkinto;trophy;díj
+karsintakierros;qualifying round;selejtezőkör
+sarjataulukko;league table;Sorozat táblázat

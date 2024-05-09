@@ -1,0 +1,240 @@
+Finnish;English;hungarian
+hevonen;horse;ló
+heppa;horse, horsey (spoken);Hé
+villihevonen;wild horse;vad ló
+tamma;mare;kanca
+ori;stallion;csődör
+varsa;foal;csikó
+ruuna, valakka;gelding;herélt, bálna
+ravihevonen;trotter, racehorse;ügető ló
+kilparatsu;racehorse;versenyló
+työhevonen;workhorse, draft horse;igásló
+kimo;grey horse;deres ló
+ruunikko;bay;öböl
+päistärikkö;roan;fejütő
+voikko;palomino;vaj
+hevosrotu;horse breed;lófajta
+puoliverihevonen;warmblood horse breed;félvér ló
+kylmäverihevonen;cold-blooded horse breed;hidegvérű ló
+lämminverihevonen;hot-blooded horse breed;melegvérű ló
+miniatyyrihevonen;miniature horse;miniatűr ló
+suomenhevonen;Finnhorse, Finnish horse;finn ló
+arabianhevonen;Arabian horse, Arab horse;arab ló
+englannintäysiverinen;Thoroughbred;angol telivér
+Quarterhevonen;American Quarter Horse;Negyed ló
+mustangi;mustang;musztáng
+poni;pony;póniló
+shetlanninponi;Shetland pony;shetlandi póni
+ravikuningas;"""racing king"", stallion that wins the Kuninkuusravit";ügető király
+ravikuningatar;"""racing queen"", mare that wins the Kuninkuusravit";ügető királynő
+hevostalli, talli;horse stable;lóistálló, istálló
+ratsastustalli;riding stables;lovarda
+ratsastusleiri;riding camp;lovas tábor
+ratsastuskoulu;riding school;lovarda, iskola
+ratsastustunti;riding lesson;lovasleckét
+ratsastushalli, maneesi;riding hall;lovarda, istálló
+ratsastuskenttä;riding arena;lovarda, tér
+ratsastusrata;riding track;lovaglópálya
+hevossiittola;stud farm;ménesbirtok
+laidun;pasture;legelő
+suoja;shelter;védelem
+karsina, "boksi";box stall (spacious);karsina, "doboz"
+puhdistuskarsina;grooming box;tisztító toll
+pilttuu;straight stall (small);istálló
+pihatto;outdoor stable;udvari tető
+perävaunu, traileri;trailer;utánfutó, utánfutó
+hevosvaunut;horse-drawn carriage;lovas kocsik
+pää;head;fej
+kaula;neck;nyak
+harja;crest, mane, brush;kefe
+turpa;muzzle;domolykó
+selkä;back;vissza
+lautanen;croup;lemez
+säkä;withers;marja
+kylki, kuve;flank;oldalt, oldalt
+polvi;knee;térd
+takapolvi;stifle;hátsó térd
+vuohinen;pastern;csüd
+vuohisnivel;fetlock joint;fetlock
+vuohiskarva;fetlock feather;kecskeszőr
+kinner;hock;csánk
+ruunu;coronet;herélt ló
+sääri;cannon;Lábszár
+kavio;hoof;pata
+etukavio;front hoof;elülső diagram
+takakavio;back hoof;hátsó pata
+etujalka;front foot;mellső láb
+takajalka;back foot;hátsó láb
+otsatäplä (tähti);blaze (star);homlokfolt (csillag)
+häntä;tail;neki
+hännäntyvi;dock;faroktöve
+ratsastuskypärä;riding helmet;lovaglósisak
+ratsastushousut;riding breeches;bricsesznadrág
+kumisaappaat;rubber boots;gumicsizma
+ratsastussaappaat;riding boots;lovaglócsizma
+käsineet;gloves;kesztyűt
+suitset;bridle, reins;Kantár
+kuolain;bit;nyáladztam
+kankikuolain;curb bit;kangkuola törvény
+ohjat;leash, reins;gyeplő
+satula;saddle;nyereg
+satulavyö;billet strap;heveder
+jalustin, jalustimet;stirrup, stirrups;kengyel, kengyel
+jalustinhihnat;stirrup leather;kengyelhevederek
+riimu;halter;kötőfék
+riimunnaru;lead rope;rovásírásos húr
+talutushihna;leash, lead;póráz
+juoksutusliina;rope used while longeing;futókendő
+valjaat;harness;hám
+raippa;riding crop;nyír-
+ratsupiiska;horsewhip;Vág
+silmälappu;blinder;szemkendő
+pinteli;hoof bandage;megcsípte
+kaviosuojus;hoof covering;patafedő
+loimi;warp, blanket;vetemedik
+toppaloimi;quilted blanket;felső vetemedés
+talliloimi;stable warp;stabil vetemedés
+kumiharja, kumisuka;curry comb;gumikefe, gumizokni
+hoitokäsine;grooming mitt;kezelő kesztyű
+otsaharja;brow brush;homlokkefe
+kaviokoukku;hoof pick;patás horog
+lapio;shovel;lapát
+kottikärryt;wheelbarrow;talicskák
+tallitalikko;stable pitchfork;stabil istálló
+luuta;broom;seprű
+hevosenkenkä;horseshoe;patkó
+hevospuomi;hitchrack;ló bumm
+aita;fence;egy kerítés
+kuivikkeet;bedding (in stall);szemét
+hevosenlanta;horse manure;ló trágya
+ruokinta;feeding;táplálás
+puhdas juomavesi;clean drinking water;tiszta ivóvíz
+ruoho;grass;fű
+laidunruoho;pasture grass;legelő fű
+heinä;hay;széna
+rehu;feed;takarmány
+karkearehu;roughage;salakanyag
+ape;horse feed (grain shreds, flour and water);majom
+väkirehu;concentrated fodder;tömegtáplálás
+kivennäisrehu;mineral feed;ásványi takarmány
+vitamiinilisä;vitamin supplement;vitamin kiegészítő
+suolakivi;salt stone;kősó
+ratsastus, ratsastaminen;horseback riding;lovaglás, lovaglás
+kouluratsastus;dressage;idomítás
+tallutus, talluttaminen;leading;szelídítés, szelídítés
+ratsautuminen;mounting up;lovaglás
+jalkautuminen;dismounting;talpra állni
+klippaus;horse grooming;darabka
+kengitys, kengittäminen;shoeing;cipekedés, cipekedés
+kavioiden vuolu, vuoleminen;hoof trimming;pata szivárog, ömlik
+harjaus, harjaaminen;brushing;fogmosás, fogmosás
+hampaiden raspaus, raspaaminen;cleaning of teeth;fogcsikorgatás, fogcsikorgatás
+satulointi, satuloiminen;saddling;nyeregelés, nyeregelés
+loishäätö;antiparasitic treatment;parazita eltávolítás
+hevoskuljetus;horse transportation;lovaskocsi
+ratsastusurheilu;equestrian sports;lovassport
+hevosvalmennus;horse training;lókiképzés
+hevosnäyttely;horse show;lovasbemutató
+ravirata;racetrack;versenypálya
+esterata;obstacle course;akadálypályán
+kilparatsastus;horse-racing;Lóverseny
+esteratsastus;show jumping;akadályverseny
+kenttäratsastus;field riding;mezei lovaglás
+ravikilpailu;horse racing;ügető verseny
+ratsastuskilpailut;riding competition;lovas versenyek
+hevosjalostus;horse breeding;lótenyésztés
+hevospoolo;horse polo;lópóló
+kuninkuusravit;"Finnish ""royal races"" championship";Király ügető
+jaloitella;to stretch legs, walk around;nemesíteni
+nostaa kavio;to lift a hoof;patát emelni
+laiduntaa;to graze;legelni
+laukata;to canter, gallop;vágta
+ravata;to trot;ügetni
+pukittaa;to buck;bak
+peitsata;to pace;ütemben
+vauhkoontua;to bolt;hogy feldagadjon
+ratsastaa (hevosella);to ride (a horse);lovagolni)
+ajaa hevosta;to ride a horse;Lovagolni
+ratsastaa ilman satulaa;to ride bareback;nyereg nélkül lovagolni
+nousta hevosen selkään;to get on the back of the horse;lóra szállni
+nousta ratsaille;to get on horseback;felszállni a lovakra
+ratsautua;to mount;lovagolni
+laskeutua ratsailta;to get off the horse;szálljon le a lóról
+istua hevosen selässä;to sit on the horse's back;lóra ülni
+istua sivuttain hevosen selässä;to sit sideways on the horse's back;hogy oldalt üljön egy lovon
+suitsia hevonen;to bridle a horse;megkantároz egy lovat
+panna hevoselle suitset suuhun;put a bridle in the horse's mouth;tedd a kantárt a ló szájába
+taluttaa suistista;to lead the horse by the bridle;hogy elviselje a torkolatot
+riisua hevoselta valjaat;to take off the horse's harness;vegye le a hámot a lóról
+pitää ohjat löysällä;to keep the reins slack;tartsa lazán a gyeplőt
+ohjastaa hevosta;to rein a horse;vezessenek egy lovat
+lyödä hevosta ruoskalla;to hit the horse with a whip;ostorral verni a lovat
+ruoskia hevosta;to whip a horse;lovat korbácsolni
+piestä hevosta;to beat a horse;lovat verni
+juoksuttaa hevonen;to work a horse in a circle;futtasson egy lovat
+pysäyttää hevonen;to stop the horse;megállít
+hidastaa hevosen vauhtia;to slow the horse's speed;lelassítja a lovat
+sitoa hevonen;to tie the horse;lovat kötni
+ruokkia hevonen;to feed the horse;megetetni a lovat
+päästää hevonen jaloittelemaan;to let the horse walk, stretch legs;hogy hagyja ügetni a lovat
+pestä hevonen;to wash the horse;mossa meg a lovat
+loimittaa hevonen;to cover the horse with a warp;láncló ló
+poistaa märät kuivikkeet;to remove soiled bedding;nedves ágynemű eltávolításához
+sukia hevosta;to brush the horse with a curry comb;zokni lóról
+harjata hevosta;to brush the horse;lovat súrolni
+puhdistaa kaviot;to clean the hooves;megtisztítja a patákat
+raspata hampaat;to clean the teeth;csikorgatja a fogait
+laiduntaa hevonen;to let a horse graze on a pasture;legeltet egy lovat
+satuloida hevonen;to saddle a horse;felnyergelni egy lovat
+kengittää hevonen;to shoe a horse;patkolni egy lovat
+kouluttaa hevosta;to train a horse;edzeni egy lovat
+pitää ravit;to organize races;ügesse tovább
+ravauttaa hevosta;to race a horse;rúgd a lovat
+osallistua raveihin;to participate in races;részt venni a rave-eken
+ratsastaja;rider;lovas
+kilparatsastaja;jockey;egy versenyló
+hevosmies;horseman;lovas ember
+hevoshullu;horse fanatic;lóőrült
+hevostenhoitaja;groom (takes care of horses);lótartó
+talliyrittäjä;entrepreneur with a horse business;istálló tulajdonosa
+hevoskasvattaja;horse breeder;Lótenyésztő
+hevostenvalmentaja;horse trainer;lókiképző
+ravivalmentaja;race horse trainer;ügetőedző
+eläinlääkäri;veterinarian;állatorvos
+tallimestari;stable master;istállómester
+ratsastuksenohjaaja;riding instructor;lovasoktató
+ratsastuksenopettaja;riding instructor, teacher;lovas tanár
+ratsastusterapeutti;equine-assisted therapist;lovasterapeuta
+kengitysseppä;blacksmith, farrier;patkolókovács
+hevosenkengittäjä;farrier;lópatkoló
+tottelevainen;obedient;engedelmes
+hikinen;sweaty;izzadt
+märkä;wet;nedves
+iäkäs;elderly;régi
+koulutettu;trained;előadó
+suitsittu;haltered;kantár
+sidottu;tethered;összekötött
+klipattu;clipped;nyírva
+klippaamaton;unclipped;felvágatlan
+kengitetty;shod;cipővas
+kengätön;unshod;cipő nélkül
+joutilas;idle, free;tétlen
+jalorotuinen;noble breed;nemes fajta
+käynti;walk;látogatás
+ravi;trot;ügetés
+laukka;canter;Vágta
+ristilaukka;cross-canter;keresztvágta
+kiitolaukka, neli;gallop;vágta, négy
+vastalaukka;counter canter;ellenvágta
+töltti;tölt (gait of Icelandic horses);tölt
+passi, peitsi;pace;útlevél, takaró
+voltti;volte;volt
+koko rata leikkaa;across the long diagonal;az egész pálya metszi egymást
+puoli rataa leikkaa;across the short diagonal;a vágány fele elvágódik
+täyskaarto;half-volte to wall;teljes görbe
+ympyrä leikkaa;through a circle;a kör metszi
+rata pituussuuntaan leikkaa;down the center line;pálya hosszirányban vágva
+ympyräkahdeksikko;figure-eight;kör alakú nyolcas
+kolmikaarinen kiemuraura;three-loop serpentine;háromívű spirálbarázda
+pääty-ympyrä;20-meter circle;oromkör
+loiva kiemura;shallow loop;enyhe görbe

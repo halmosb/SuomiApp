@@ -76,7 +76,7 @@ peruna.;potato;krumpli
 
 [TODO] recordings, translate more files, timed practice, 
 translate language in (), warning messiga when new file is opened
-table when more columns
+table when more columns, step back at the flashcards mode
 Error: word! (something)
 translate when tehre are emotyi lines in the file
 """
@@ -169,7 +169,7 @@ class GUI:
             "optional_answer_in_parentheses": True,
             "speak_enabled": True,
             "volume": 0.2,
-            "statistics_file": "c:/Users/kpbaha/OneDrive - TUNI.fi/University/Other/SuomiApp/statistics.csv"
+            "statistics_file": "statistics.csv"
         }
         # The languages in the wordlist i.e. the header of the file as a list
         self.__languages = ["-"]

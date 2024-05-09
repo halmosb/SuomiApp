@@ -1,0 +1,87 @@
+Finnish;English;hungarian
+alue;area;terület
+asuinalue;neighborhood;szomszédság
+lähiympäristö;vicinity, close environment;közelébe
+asuinlähiö;residential suburb;lakóövezet
+esikaupunki;suburban city;külvárosi
+kaupunki;city;város
+kylä;village;falu
+suurkaupunki;metropolis;nagyváros
+maaseutu;countryside;vidéki táj
+koti;home;itthon
+talo;house;ház
+asunto;residence, apartment;ház, lakás
+huoneisto;apartment, flat (pic);lakás
+yksiö;one-room apartment (bedroom and living room in one);stúdiólakás
+kaksio;two-room apartment;két hálószoba
+kolmio;three-room apartment;háromszög
+rakennus;building;épület
+kerrostalo;block of flats;bérház
+pienkerrostalo;low block of flats (2-3 floors);kis bérház
+paritalo;semi-detached house;ikerház
+rivitalo;row house;teraszos ház
+vuokra-asunto;rental house;bérlakás
+omistusasunto;owner-occupied house;tulajdonú lakás
+opiskelija-asunto;student apartment;diáklakás
+soluasunto;shared apartment;sejtház
+palvelutalo;service flat;védett lakhatás
+vuokra;rent;bérbeadás
+vesimaksu;water fee (often included in rent);vízdíj
+sähkölasku;electricity bill;elektromos számla
+internetyhteys;internet connection;Internet kapcsolat
+internetlasku;internet bill;internet számla
+asumistuki;housing support (from Kela);lakhatási támogatás
+kotivakuutus;home insurance;lakásbiztosítás
+takuuvuokra;warranty deposite;Garantált bérleti díj
+vuokravakuus;security deposit;bérleti kaució
+autopaikkamaksu;parking space fee;parkolási díj
+lämmityspaikkamaksu;parking space heating fee (useful in winter);fűtési hely díja
+hoitovastike;monthly maintenance fee for owners in apartment building;Kezelés díja
+asuntolaina;mortgage;jelzálog
+asuntolainan lyhennys;monthly repayment of morgage;jelzáloghitel törlesztés
+asukas;resident;lakos
+vuokralainen;tenant;bérlő
+omistaja;owner;tulajdonos
+vuokranantaja;lessor, landlord;bérbeadó
+naapuri;neighbor;szomszéd
+kamppis, kämppäkaveri;roommate;szobatárs, szobatárs
+talonmies;janitor (who e.g. mows the grass and plows the snow);gondnok
+huoltomies;serviceman (who comes to e.g. repair broken faucets);karbantartó
+isännöitsijä;housing manager (where you get help if you e.g. lock yourself out);házvezető
+taloyhtiö;housing company (all owners in an apartment building belong);társadalom építése
+kiinteistönvälittäjä;real estate agent;ingatlanügynök
+hissi;elevator;Lift
+kylmäkellari;cool cellar, section for each resident to store e.g. jams;hideg pince
+varasto;storage area;Készlet
+varastohäkki;separate locked storage section for each resident's stuff;tároló ketrec
+pyörävarasto;bike storage area;Kerékpártároló
+ulkoiluvälinevarasto;outdoor equipment storage area (pic);kültéri felszerelés raktár
+lastenvaunuvarasto;pram and pushchair storage area;babakocsi raktár
+autopaikka;parking space (often reserved to specific resident);parkolóhely
+autotalli;garage (often reserved for specific residents) (pic);garázs
+roskakatos;outside garbage container area with roof (often locked);szemétkamra
+roska-astiat;garbage collection bins;kukák
+leikkialue;play area;játszótér
+mattoteline;rug rack (in the yard, for anyone to use);szőnyegállvány
+vieraspysäköinti;parking for visitors;vendégparkoló
+kellari;cellar;pince
+pesutupa;laundry room (can be used by all residents);mosókonyha
+pyykkivuoro;laundry room reservation;mosodai műszak
+kuivaushuone;drying room (to hang your laundry) (pic);szárító helyiség
+saunavuoro;resident's sauna reservation;szauna műszak
+vakiosaunavuoro;fixed (weekly) sauna reservation;standard szauna műszak
+rappu;entrance to apartment building (e.g. A, B);lépcsőfok
+A-rappu, B-rappu;specific entrance to apartment building;A-lépcső, B-lépcső
+rappukäytävä, porraskäytävä;staircase;lépcsőház, lépcsőház
+portaat;stairs;lépcsők
+kerros;floor;padló
+tuuletusparveke;shared balcony for ventilation;szellőző erkély
+vuokrasopimus;rental agreement;bérlet
+sisustus;decor;dekoráció
+irtisanominen;termination of rental agreement;megszüntetése
+irtisanomisaika;length of period of notice;értesítés
+häätö;eviction;kilakoltatás
+järjestyssäännöt;house rules in apartment building;rendszabályokat
+putkiremontti;plumbing renovations;csőjavítás
+julkisivuremontti;renovations to the facade of the building;homlokzat felújítás
+pintaremontti;surface renovation of the building;Felületi javítás
