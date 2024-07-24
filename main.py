@@ -88,10 +88,15 @@ from tkinter import END, VERTICAL, HORIZONTAL, RAISED
 SPEAK_AVAILABLE = True
 TRANSLATE_AVAILABELE = True
 try:
+    # Reading the text
+    import pygame
+except:
+    print("Speak is not available!")
+    SPEAK_AVAILABLE = False
+try:
     # Text to speech
     import gtts
     # Reading the text
-    import pygame
 except:
     print("Speak is not available!")
     SPEAK_AVAILABLE = False
