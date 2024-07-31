@@ -1,8 +1,9 @@
 Finnish;english;hungarian
 kesä;summer;nyár
 syksy;autumn;ősz
-talvi;winter;téli
-kevät;spring;tavaszi
+talvi;winter;tél
+kevät;spring;tavasz
+
 tammikuu;January;január
 helmikuu;February;február
 maaliskuu;March;március
@@ -15,3 +16,11 @@ syyskuu;September;szeptember
 lokakuu;October;október
 marraskuu;November;november
 joulukuu;December;december
+
+maanantai;monday;hétfő
+tiistai;tuesday;kedd
+keskiviikko;wednesday;szerda
+torstai;thursday;csütörtök
+perjantai;friday;péntek
+lauantai;saturday;szombat
+sunnuntai;sunday;vasárnap
