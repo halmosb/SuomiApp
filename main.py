@@ -153,7 +153,7 @@ class GUI:
         # Title of the window
         self.__main_window.title("Language Learning App")
         # Size of the window
-        self.__main_window.geometry(f"{int(600/14*FONT_SIZE)}x{int(840/14*FONT_SIZE)}")
+        self.__main_window.geometry(f"{int(600/14*FONT_SIZE)}x{int(870/14*FONT_SIZE)}")
 
         # The dictionary containing the word list data
         #     - key [string] the language
