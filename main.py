@@ -114,15 +114,17 @@ import time
 import random
 import re
 
+FONT_SIZE = 24
+
 # The different font settings (font family, size, weight)
 FONTS = {
-    "h1": ("Times", 16, "bold"),            # Header
-    "p": ("Times", 14),                     # Paragraph
-    "error": ("Times", 14),                 # Error label
-    "help": ("Times", 8),                   # Help label
-    "table": ("Times", 14),                 # Table data
-    "table_header": ("Times", 14, "bold"),  # Table header
-    "write_entry": ("Times", 14)            # Write entry
+    "h1": ("Times", int(16/14*FONT_SIZE), "bold"),            # Header
+    "p": ("Times", FONT_SIZE),                     # Paragraph
+    "error": ("Times", FONT_SIZE),                 # Error label
+    "help": ("Times", int(8/14*FONT_SIZE)),                   # Help label
+    "table": ("Times", FONT_SIZE),                 # Table data
+    "table_header": ("Times", FONT_SIZE, "bold"),  # Table header
+    "write_entry": ("Times", FONT_SIZE)            # Write entry
 }
 # The used colors
 COLORS = {
@@ -151,7 +153,7 @@ class GUI:
         # Title of the window
         self.__main_window.title("Language Learning App")
         # Size of the window
-        self.__main_window.geometry("600x870")
+        self.__main_window.geometry(f"{int(600/14*FONT_SIZE)}x{int(600/14*FONT_SIZE)}")
 
         # The dictionary containing the word list data
         #     - key [string] the language
