@@ -79,6 +79,7 @@ translate language in (), warning messiga when new file is opened
 table when more columns, step back at the flashcards mode
 Error: word! (something)
 translate when tehre are emotyi lines in the file
+correct the word while writing
 """
 print("The program has started, it may take a few seconds.")
 # Widgets
