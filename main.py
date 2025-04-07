@@ -115,6 +115,9 @@ import time
 import random
 import re
 
+# For writing utf-8 characters to file
+import codecs
+
 FONT_SIZE = 14
 
 # The different font settings (font family, size, weight)
@@ -1176,7 +1179,7 @@ class GUI:
         return input_string
 
     def save_statistics(self):
-        with open(self.__settings["statistics_file"], mode="a") as my_file:
+        with open(self.__settings["statistics_file"], mode="a", encoding='utf-8') as my_file:
             content = []
             content.append(datetime.now())
             content.append(time.time() - self.__practice_time)
