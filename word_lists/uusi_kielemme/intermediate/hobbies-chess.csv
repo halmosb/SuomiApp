@@ -1,0 +1,139 @@
+Finnish;English;hungarian
+shakki (šakki);chess;sakk
+pelata shakkia (šakkia);to play chess;sakk lejátszásához
+peli, shakkipeli;(chess) game;játék, sakk játék
+shakkilauta (šakkilauta);chessboard;Sakktábla
+valkea ruutu;light square;fehér doboz
+tumma ruutu;dark square;sötét doboz
+pelaaja;player;játékos
+vastustaja;opponent;ellenfél
+suurmestari;grandmaster;fő mester
+shakinpelaaja;chess player;sakkjátékos
+shakkinappulat;chess pieces;sakkcsomók
+sotilas (colloquial: moukka);pawn;Katona (köznyelvi: biztos)
+torni;rook;torony
+ratsu (colloquial: hevonen);knight;Knight (köznyelv: ló)
+lähetti;bishop;hírnök
+kuningatar (colloquial: daami);queen;Királynő (köznyelv: Dami)
+kuningas;king;király
+eristetty sotilas;isolated pawn;elkülönített katona
+kaksoissotilas;double pawn;kettős katona
+takasotilas;backward pawn;hadsereg
+yhdistetyt sotilaat;connected pawns;Kombinált katonák
+upseeri;queen, knight, bishop, or rook;tisztviselő
+valkea nappula;white piece;fehér gomb
+musta nappula;black piece;fekete gomb
+valkea;White (as a noun);fehér
+musta;Black (as a noun);fekete
+shakata;to check;csal
+matittaa, shakkimatittaa;to checkmate, to mate;Matitta, sakkszőnyeg
+voittaa peli;to win;Nyerj egy játékot
+hävitä peli;to lose;elveszít egy játékot
+korottaa sotilas kuningattareksi;to promote a pawn to a queen;Emelje fel a katona királynőjét
+luovuttaa peli;to give up the game;add fel a játékot
+lyödä nappula (col.: syödä);to capture a piece;hogy megnyomja a gombot (kol.: Egyél)
+puolustaa;to protect;véd
+siirtää nappula;to move a piece;lépni egy bábuval
+suojata kuningasta;to protect the king;Védje a királyt
+uhata nappulaa;to threaten a piece;fenyegeti a gombot
+uhrata nappula;to sacrifice a piece;feláldozni egy bábut
+haarukoida;to fork;villa
+shakki;check;sakk (a végén)
+shakki / shakkaus;check / checking;Sakk / shey
+shakkimatti, matti;checkmate, mate;Sakk Matti, Matti
+patti;stalemate;patt
+matittaminen;checkmating;szőnyeg
+aikatappio;timeout;menetrend
+avaussiirto;opening move;megnyitó átadás
+avausvaihe;opening;nyitófázis
+avoin linja;open file;nyitott vonal
+blitz (colloquial: blixt);blitz;Blitz (köznyelvi: BLIXT)
+gambiitti;gambit;gambit
+heikko ruutu;weak square;gyenge
+ikuinen shakki;perpetual check;örök sakk
+kaksoisshakki;double check;kettős chip
+kehitys;development;fejlesztés
+keskipeli;middlegame;középső játék
+keskustaruutujen hallinta;control of the center squares;A központi képernyők irányítása
+keskustan hallinta;control of the center;belvárosi irányítás
+kiinnitys;pin;rögzítés
+sotilaan korotus;promotion of a pawn;katonai
+kosketussääntö;touch-move rule;kapcsolattartó szabály
+koulumatti;scholar's mate;iskolai szőnyeg
+kuningashyökkäys;king hunt;támadás
+linnoitus (less official: tornitus);castling;Erőd (kevésbé hivatalos: tornitus)
+lyhyt linnoitus;kingside castling;rövid erőd
+pitkä linnoitus;queenside castling;hosszú erőd
+loppupeli;endgame;utolsó játék
+luovutus;resignation;kézbesítés
+lyönti;capture;üt
+munaus;blunder;hiba
+nopea shakki;rapid chess;gyors sakk
+ohestalyönti;en passant;lejtő
+pakkosiirto;forced move;kényszerhordozás
+pakoruutu;flight square, escape square;csóválás
+pikashakki (colloquial: blixt);fast chess, blitz;Gyors horog (köznyelvi: BLIXT)
+shakkikello;chess clock;sakkóra
+shakkikerho;chess club;sakkklub
+shakkiturnaus;chess tournament;sakkverseny
+siirto;move;mozog
+siirtopakko;zugzwang;vándorlás
+siirtovuoro;turn to move;váltás
+sivustointi;fianchetto;telek
+tandemshakki;bughouse;tandemshakki
+tasapeli, remissi;draw;sorsolás, remisszió
+uhraus;sacrifice;áldozat
+sisilialainen puolustus;Sicilian Defense;Szicíliai védelem
+espanjalainen peli;Spanish Opening, Ruy Lopez;Spanyol játék
+kuningatargambiitti, daamigambiitti;Queen's Gambit;Gambite királynő, Daamigambit
+italialainen peli;Italian Game;Olasz játék
+ranskalainen puolustus;French Defense;Francia védelem
+slaavilainen puolustus;Slav Defense;Szláv védelem
+Caron-Kannin puolustus;Caro-Kann Defense;A Caron fedélzet védelme
+Pircin puolustus;Pirc Defense;PIRC védelme
+Linnoitettu kuningas on paremmin turvassa.;A castled king is more secure.;A dúsított király jobban biztonságos.
+Haarukka on kaksoishyökkäys.;A fork is a double attack.;A villa kettős támadás.
+Virhe puolustuksessa johti suoraan mattiin.;A mistake in defense led directly to checkmate.;A védelem hibája közvetlenül Mattnek vezetett.
+Avauksessa tehtyä uhrausta sanotaan gambiitiksi.;A sacrifice made in the opening is called a gambit.;A nyílásban szereplő áldozatot Gambitnek hívják.
+Koskettua nappulaa on siirrettävä.;A touched piece must be moved.;Az megérintett gombot át kell mozgatni.
+Musta pakottaa valkean ratsun takaisin a3:een.;Black forces White's knight back to a3.;Fekete kényszeríti a Fehér Lovagot az A3 -ra.
+Kuningas on shakkimatissa.;Black is checkmated.;A király a sakktárában van.
+Musta on siirtopakossa.;Black is in zugzwang.;Fekete van az átadásban.
+Musta siirtää lähettinsä ruudusta a6 ruutuun c4.;Black moves their bishop from a6 to c4.;A Black mozgatja a hírnökét a képernyőről az A6 Box C4 -re.
+Musta estää valkeaa pelaamasta e5.;Black prevents White from playing e5.;A fekete megakadályozza, hogy a fehér játssza az E5 -et.
+Musta uhrasi sotilaan saadakseen tilaa läheteilleen;Black sacrifices a pawn to make space for its bishop.;Fekete feláldozta a katonát, hogy helyet kapjon a küldésükhöz
+Mustan kuningas siirtyy ruutuun f8.;Black's king moves to square f8.;A fekete királya az F8 -ra mozog.
+Hänen olisi pitänyt kehittää ratsu c6:een.;He should have developed the knight to c6.;Kidolgoznia kellett volna egy lovagot a C6 -ban.
+Pystyn voittamaan kaikki kaverini shakissa.;I can beat all my friends at chess.;Megnyertem az összes barátomat a sakknál.
+Löin suojaamattoman sotilaan pois.;I captured the unprotected pawn.;Megütöttem a nem védett katonát.
+Minä matitin vastapelaajani käyttäen kahta torniani.;I checkmated my opponent by using my two rooks.;A Mattit társait a két toronyommal használom.
+Shakkimatitin vastustajani kuninkaan.;I checkmated my opponent's king.;A sakk mattor ellenfele király.
+Opin pelaamaan shakkia kahdeksanvuotiaana.;I learned to play chess when I was eight years old.;Nyolc éves korában megtanultam sakkot játszani.
+Siirsin kuninkaani turvaan.;I moved my king to safety.;A királyomat biztonságba helyeztem.
+Siirsin tornin kuninkaan ja uhkaajan väliin.;I moved the rook between the king and the threat.;A tornyot a király és a fenyegetés között mozgattam.
+Tässä pelissä käytetään shakkikelloa.;In this game a chess clock is used.;Ez a játék sakkórát használ.
+Valkea on siirtovuorossa.;It's White's turn to move.;Fehér a műszakban.
+Millään nappulalla ei ole laillista siirtoa.;None of the pieces has a legal move.;Egyetlen darabnak sem van törvényes átutalása.
+Nyt mustan täytyy siirtää kuninkaansa turvaan.;Now Black has to move their king to safety.;Most Blacknek a királyát biztonságba kell helyeznie.
+Musta a6-ratsu voi lyödä tornin.;The black a6-knight can capture the rook.;A fekete A6-ratsu eltalálhatja a tornyot.
+Musta kuningas ei voi siirtyä ruutuun f8.;The black king can't move to square f8.;A fekete király nem mozoghat az F8 dobozba.
+Kuningas ei pysty siirtymään toiseen ruutuun.;The king can't move to another square.;A király nem tud mozogni egy másik képernyőre.
+Kuningas on uhattuna.;The king is in check (“being threatened”).;A királyt fenyegetik.
+Kuningas on lyöntiuhan alla.;The king is in check (“under the threat of capture”).;A király a fenyegetés alatt van.
+Kuningas ei ole uhattuna.;The king is not in check.;A királyt nem fenyegeti.
+Kuninkaan on pakko siirtyä.;The king must move.;A király kénytelen mozogni.
+Kuningas siirtyy vain yhden ruudun kerrallaan.;The king only moves one square at a time.;A király egyszerre csak egy képernyőt mozgat.
+Vastustaja pelasi avauspeliä huonosti.;The opponent played the opening badly.;Az ellenfél rosszul játszotta a nyitó játékot.
+Sotilas voi lyödä mustan tornin ruudusta c6.;The pawn can capture the black rook on square c6.;Egy katona eltalálhatja a C6 képernyőn lévő fekete tornyot.
+Sotilas voi siirtyä ruutuun c5.;The pawn can move to square c5.;A katona a C5 dobozba mozoghat.
+Valkea lähetti uhkaa mustaa kuningasta.;The white bishop threatens the black king.;White küldte a fekete királyt.
+Valkea ratsu haarukoi mustan kuninkaan ja tornin.;The white knight forks Black's king and rook.;A Fehér Lovag, aki a Fekete Királyt és a tornyot fordítja.
+Valkea sotilas voi lyödä mustan sotilaan.;The white pawn can capture the black pawn.;Egy fehér katona eltalálhat egy fekete katonát.
+Valkea ratsu uhkaa mustan kuningasta.;The white rook threatens the black king.;Egy fehér lovag fenyegeti a fekete királyt.
+Pyri linnoittumaan nopeasti!;Try to castle quickly!;Próbáljon gyorsan megerősíteni!
+Pelin aloittaa aina valkea.;White always starts the game.;A játék mindig fehérre indul.
+Valkea tekee ensimmäisen siirron.;White makes the first move.;White az első átadást hajtja végre.
+Valkea uhraa b-sotilaansa mustan c-sotilaalle.;White sacrifices their b-pawn to Black's c-pawn.;Fehér feláldozza B katonáját egy fekete C-katona számára.
+Valkea uhkaa mustan c6-ratsua.;White threatens Black's c6-knight.;Fehér fenyegeti a fekete C6 -t.
+Valkean lähetti uhkaa Mustan ratsua.;White's Bishop threatens Black's Knight.;White küldte a fekete lovaglást.
+Valkea lähetti uhkaa ruutuja g7 ja h8.;The white bishop threatens squares g7 and h8.;A fehér küldött fenyegetés fenyegeti a G7 és H8 képernyők fenyegetését.
