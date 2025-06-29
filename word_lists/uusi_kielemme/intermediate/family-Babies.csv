@@ -47,7 +47,7 @@ Pakastan ylimääräisen äidinmaidon.;I freeze the extra breast milk.;A felesle
 Lämmittäisitkö tuttipullon?;Could you heat the baby bottle?;Felmelegítenél egy cumisüveget?
 Vauva syö lusikasta.;The baby eats from a spoon.;A baba kanálból eszik.
 Vauva syö kiinteitä.;The baby eats solids.;A baba szilárd ételeket eszik.
-vaippa;diaper,nappy;hüvely
+vaippa;diaper, nappy;hüvely
 vaipanvaihto;diaper change;pelenkacsere
 vaihtaa vaippa;to change the diaper;pelenkát cserélni
 kakkavaippa;poopy diaper;kaki pelenka
@@ -73,12 +73,12 @@ talkki;talcum powder;talkum
 hoitolaukku;changing bag;ápolótáska
 vauvahieronta;baby massage;baba masszázs
 hieroa;to massage;dörzsölés
-vanupuikko;cotton swab,Q-tip;vattacsomót
-vanulappu;cotton disc,cotton pad;vattakorong
+vanupuikko;cotton swab, Q-tip;vattacsomót
+vanulappu;cotton disc, cotton pad;vattakorong
 Vaipat ovat tosi kalliita.;Diapers are really expensive.;A pelenkák tényleg drágák.
 Vaippoja kuluu 8 kappaletta päivässä.;8 diapers are used per day.;8 pelenkát használnak naponta.
 Vaipassa on kakkaa.;There's poop in the diaper.;Kaki van a pelenkában.
-Vaippa on märkä/kuiva.;The diaper is wet/dry.;A pelenka nedves/száraz.
+Vaippa on märkä / kuiva.;The diaper is wet / dry.;A pelenka nedves / száraz.
 Vaippa täytyy vaihtaa.;The nappy must be changed.;A pelenkát cserélni kell.
 Vaihtaisitko sinä vauvan vaippa?;Would you change the baby's diaper?;Kicserélnéd a baba pelenkáját?
 Vauva kaipaa vaipanvaihtoa.;The baby needs a nappy change.;A babának pelenkázásra van szüksége.
@@ -110,8 +110,8 @@ valkoinen kohina;white noise;fehér zaj
 kohinalaite;white noise machine;zajos eszköz
 Vauva nukkuu tosi paljon.;The baby sleeps a lot.;A baba sokat alszik.
 Vauvat nukkuvat suurimman osan aikaa.;Babies sleep for the majority of the time.;A babák az idő nagy részében alszanak.
-Yritä nukkua,kun vauvasi nukkuu.;Try to sleep when your baby sleeps.;Próbáljon meg aludni, amikor a baba alszik.
-Yritän levätä silloin,kun lapseni nukkuu.;I try to rest when my child sleeps.;Próbálok pihenni, amikor a gyermekem alszik.
+Yritä nukkua, kun vauvasi nukkuu.;Try to sleep when your baby sleeps.;Próbáljon meg aludni, amikor a baba alszik.
+Yritän levätä silloin, kun lapseni nukkuu.;I try to rest when my child sleeps.;Próbálok pihenni, amikor a gyermekem alszik.
 Lapsi ei suostu nukkumaan.;The child won't sleep.;A gyermek nem hajlandó aludni.
 Vauva nukahtaa saman tien vaunuihin;The baby falls asleep immediately in the pram.;A baba azonnal elalszik a babakocsiban
 Lapsi nukahtaa sitteriin.;The child falls asleep in the sitter.;A gyerek elalszik a nővérnél.
@@ -150,15 +150,15 @@ Miksi vauva itkee?;Why is the baby crying?;Miért sír a baba?
 Onko vauvalla märkä vaiva?;Does the baby have a wet diaper?;Nedves problémája van a babának?
 Onko vauvalla vatsavaivoja?;Does the baby have stomach aches?;Gyomorproblémái vannak a babának?
 Onko vauva yksinäinen?;Is the baby lonely?;Magányos a baba?
-Onko vauvalla liian kuuma/kylmä?;Is the baby too hot/cold?;Túl meleg/hideg a baba?
-En tiedä,mitä vauvaani vaivaa.;I don't know what my baby's problem is.;Nem tudom mi a baja a babámnak.
+Onko vauvalla liian kuuma / kylmä?;Is the baby too hot / cold?;Túl meleg / hideg a baba?
+En tiedä, mitä vauvaani vaivaa.;I don't know what my baby's problem is.;Nem tudom mi a baja a babámnak.
 Vauvani itkee tuntikausia.;My baby cries for hours.;A babám órákig sír.
 Tyttöni on tosi itkuinen tänään.;My daughter is very tearful today.;A lányom ma nagyon könnyes.
 Vauvalla on ilmavaivoja.;The baby has flatulence.;A babának puffadása van.
 Kaikki vauvat itkevät.;All babies cry.;Minden baba sír.
 Vauvan itku sai sydämeni särkymään.;The baby's crying makes my heart break.;A baba sírása összetörte a szívem.
 Itkin vauvan kanssa kilpaa.;I was crying along with the baby.;Sírtam a babával.
-Vauva rauhoittui,kun sai tutin.;The baby calmed down when he got the pacifier.;A baba megnyugodott, amikor megkapta a cumit.
+Vauva rauhoittui, kun sai tutin.;The baby calmed down when he got the pacifier.;A baba megnyugodott, amikor megkapta a cumit.
 En osaa rauhoitella vauvaani.;I can't calm my baby down.;Nem tudom megnyugtatni a babámat.
 Juttele vauvalle!;Talk to the baby!;Beszélj a babával!
 Isän kosketus rauhoittaa vauvaa.;The father's touch calms the baby down.;Az apa érintése megnyugtatja a babát.
@@ -176,10 +176,10 @@ kehto;cradle;bölcső
 kuolalappu;drooling bib;nyálfolt
 kuumemittari;thermometer;hőmérő
 kypärämyssy;balaclava;sisak sapka
-lapaset,tumput;mittens;ujjatlan, ujjatlan
+lapaset, tumput;mittens;ujjatlan, ujjatlan
 lastenrattaat, lastenvaunut;pushchair;babakocsi, babakocsi
 leikkimatto;play mat;Játszószőnyeg
-mobile,mobiili;mobile;Mobil
+mobile, mobiili;mobile;Mobil
 nalle;bear;maci
 nokkamuki;drinking cup;bögre
 pehmolelu;soft toy;puha játék
@@ -194,11 +194,11 @@ turvakaukalo;car carrycot;biztonsági vályú
 vaunukoppa;carrycot;kocsiház
 tutti;dummy;cucli
 ulkohaalarit;snow suit;kültéri overall
-Vauva on saavuttanut syntymäpainonsa.;The baby has reached his/her birth weight.;A baba elérte születési súlyát.
+Vauva on saavuttanut syntymäpainonsa.;The baby has reached his / her birth weight.;A baba elérte születési súlyát.
 Vauva on alkanut hymyillä.;The baby has started smiling.;A baba mosolyogni kezdett.
 Vauva hymyilee jo.;The baby is smiling already.;A baba már mosolyog.
 Vauva imee tuttia.;The baby sucks on the pacifier.;A baba szopja a cumit.
-Vauva jokeltelee.;The baby gurgles/babbles.;A baba babrál.
+Vauva jokeltelee.;The baby gurgles / babbles.;A baba babrál.
 Vauva kujertelee.;The baby coos.;A baba mászik.
 Vauva kiljuu riemusta;The baby squeals with delight.;A baba visít az örömtől
 Vauva kiljahtelee ilosta.;The baby screams with joy.;A baba visít az örömtől.
@@ -247,7 +247,7 @@ Olen ollut todella väsynyt.;I've been really tired.;Nagyon fáradt voltam.
 Onneksi mieheni on isyyslomalla.;Luckily my husband is on paternity leave.;Szerencsére a férjem apasági szabadságon van.
 Mieheni auttaa paljon vauvanhoidossa.;My husband helps a lot with caring for the baby;A férjem sokat segít a babagondozásban.
 Puolisoni palaa pian takaisin töihin.;My partner is returning to work soon.;A férjem hamarosan visszamegy dolgozni.
-Jään äitiysloman jälkeen hoitovapaalle.;After maternity leave,I will be on home care leave.;A szülési szabadság után szülési szabadságon leszek.
+Jään äitiysloman jälkeen hoitovapaalle.;After maternity leave, I will be on home care leave.;A szülési szabadság után szülési szabadságon leszek.
 Aion jäädä kotiin kunnes lapseni on 3.;I plan to stay at home until my child is 3.;Úgy tervezem, hogy a gyermekem 3 éves koráig otthon maradok.
 Äitiysloma kestää noin 4 kuukautta.;Maternity leave lasts for about 4 months.;A szülési szabadság körülbelül 4 hónapig tart.
 Vanhempainvapaa kestää 6 kuukautta.;Parental leave lasts for 6 months.;A szülői szabadság 6 hónapig tart.
