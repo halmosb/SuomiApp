@@ -1,0 +1,97 @@
+Finnish;English;hungarian
+laittomuus;illegality;jogellenesség
+rikos;crime;bűnügyi
+hätätilanne;emergency;vészhelyzet
+onnettomuus;accident;baleset
+auto-onnettomuus;car accident;autóbaleset
+kolari;car crash;Kolari
+varkaus;theft;Varkaus
+näpistely;pickpocketing;kisebb lopások
+murtaus;break-in;szünet
+ryöstö;robbery;rablás
+hyökkäys;attack;támadás
+raiskaus;rape;nemierőszak
+katoaminen;disappearance;eltűnés
+kotirauhan rikkominen;violation of home peace;Az otthoni béke megsértése
+kunnianloukkaus;defamation, slander;rágalmazás
+liikennerikos;traffic violation;forgalmi bűncselekmény
+hyväksikäyttö;exploitation;kizsákmányolás
+väkivalta;violence;erőszak
+perheväkivalta;domestic abuse;családon belüli erőszak
+pahoinpitely;abuse, assault;visszaélés
+ilkivalta;vandalism;vandalizmus
+vahingonteko;nuisance;kellemetlenség
+rasismi;racism;rasszizmus
+ahdistelu;harassment;molesztálás
+petos;fraud, deception;csalás
+huumerikos;drug crime;bűncselekmény
+seksuaalirikos;sexual offense;szexuális bűncselekmény
+kuolema;death;halál
+murha;murder;gyilkosság
+poliisin raportti;police report;rendõrségi jelentés
+hakemus;application;alkalmazás
+lomake;form;forma
+ilmoitus;notification, report;hirdetés
+rikosilmoitus;report of an offence;bűncselekmény jelentése
+vahinkoilmoitus;damage report;kárjelentés
+varkausilmoitus;theft report;lopásjelentés
+katoamisilmoitus;missing report;eltűnés jelentése
+rekisteriote;registration document;bejegyzés
+henkilökortti;identity card;személyi igazolvány
+henkilöpaperit;identity papers;személyes iratok
+ajokortti;driver's license;vezetői engedély
+passi;passport;útlevél
+oleskelulupa;residence permit;tartózkodási engedély
+pankkikortti;debit card;betéti kártya
+luottokortti;credit card;hitelkártya
+sakko;fine;bírság
+lähestymiskielto;restraining order;korlátozó végzés
+ottaa vuoronumero;to take a queue number;Vegyen egy műszakszámot
+odottaa vuoroaan;to wait for one's turn;várja meg az ember fordulatát
+jonottaa;to queue;sor
+täyttää hakemus;to fill an application;Töltse ki az alkalmazást
+jättää hakemus;to submit an application;nyújtson be jelentkezést
+täyttää ilmoitus;to file a report;Az értesítés befejezéséhez
+tehdä rikosilmoitus;to report a crime;Készítsen egy bűncselekmény jelentését
+hakea oleskelulupaa;to apply for a resident permit;Jelentkezzen tartózkodási engedélyre
+hakea passia;to apply for a passport;Jelentkezzen útlevélre
+hakea uutta passia;to apply for a new passport;Jelentkezzen új útlevélre
+hakea Suomen kansalaisuutta;to apply for Finnish citizenship;Keressen finn állampolgárságot
+hakea aselupaa;to apply for a weapons permit;pályázzon egy fegyvert
+hakea lähestymiskieltoa;to get a restraining order;Jelentkezzen be korlátozó megrendelésre
+ilmoitttaa kadonneesta ajokortista;to report a missing driver's license;Jelentés az elveszett vezetői engedélyről
+ilmoitttaa varastetusta ajokortista;to report a stolen driver's license;Értesítse az ellopott vezetői engedélyt
+uudistaa ajokortti;to renew a driver's license;Újra megújítani vezetői engedélyét
+päivittää ajokortti;to update a driver's license;Frissítse vezetői engedélyét
+Kadotin henkilökorttini.;I lost my identity card.;Elvesztettem a személyi igazolványomat.
+Kadotin ajokorttini.;I lost my driver's license.;Elvesztettem a vezetői engedélyemet.
+Kadotin luottokorttini.;I lost my credit card.;Elvesztettem a hitelkártyámat.
+Kadotin passini.;I lost my passport.;Elvesztettem az útlevelemet.
+Kadotin lompakkoni.;I lost my wallet.;Elvesztettem a pénztárcámat.
+Onko lompakkoni löytynyt?;Has my wallet been found?;Megtalálta a pénztárcámat?
+Onko kukaan tuonut lompakon tänne?;Has anyone turned in a wallet?;Ide hozta valaki a pénztárcát?
+Poikani on kadonnut.;My son has disappeared.;A fiam eltűnt.
+Autooni murtauduttiin;Someone broke into my car.;Az autóm megszakadt
+Autooni on murtauduttu.;Someone has broken into my car.;Az autóm megszakadt.
+Minulta varastettiin laukku;My bag was stolen.;Elloptak a táskámból
+Minulta varastettiin lompakko;My wallet was stolen.;Elloptak a pénztárcámból
+Kuorma-auto törmäsi autooni.;A truck crashed into my car.;A teherautó ütközött az autómmal.
+Minut raiskattiin.;I was raped.;Megerőszakoltak.
+Tämä mies ahdistelee minua.;This man is harassing me.;Ez az ember zaklat engem.
+Minun kimppuun hyökättiin.;I was attacked.;Megtámadtak.
+Tarvitsen tulkin.;I need an interpreter.;Szükségem van egy tolmácsra.
+Tarvitsen asianajajan.;I need a lawyer.;Szükségem van egy ügyvédre.
+Haluan ilmoittaa varkaudesta;I want to report a theft.;Be akarom jelenteni a lopást
+Haluan tehdä varkausilmoituksen.;I want to submit a theft report.;Szeretnék lopási jelentést készíteni.
+Tarvitsen uuden passin.;I need a new passport.;Új útlevélre van szükségem.
+Passini on vanhentunut.;My passport has expired.;Az útlevelem elavult.
+Tarvitsen viisumin Australiaan.;I need a visa for Australia.;Szükségem van egy vízumra Ausztráliába.
+Haluan hakea Suomen kansalaisuuden.;I want to apply for Finnish citizenship.;Jelentkezni akarok a finn állampolgárságra.
+Haluan tilata uuden ajokortin.;I want to apply for a new driver's license.;Új vezetői engedélyt akarok rendelni.
+Tarvitsen miehelleni lähestymiskiellon.;I need a restraining order for my husband.;Szükségem van a férjemnek.
+Täytä tämä lomake.;Fill in this form.;Töltse ki ezt az űrlapot.
+Täytä hakemus verkossa.;Fill in the application online.;Töltse ki az alkalmazást online.
+Tähän tarvitaan kaksi passikuvaa.;We need two passport pictures for this.;Ehhez két útlevél kép szükséges.
+Käy kuvattavana valokuvaamossa.;Go get your picture taken in a studio.;Látogasson el a fényképezésre váró fotóboltba.
+Tee rikosilmoitus.;Fill in a crime report.;Bűncselekményjelentés.
+Varaa aika netissä.;Reserve a time online.;Foglaljon egy találkozót online.

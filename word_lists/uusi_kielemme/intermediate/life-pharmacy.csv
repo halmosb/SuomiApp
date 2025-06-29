@@ -1,0 +1,269 @@
+Finnish;English;Hungarian
+potilas;patient;betege
+asiakas;customer;ügyfél
+farmaseutti;pharmacist;gyógyszerész
+apteekkari;chemist;patikaárus
+apteekki;pharmacy;patika
+farmakologinen;pharmacological;farmakológiai
+lääkemääräys;prescription rendelés;gyógyszerfelírás
+resepti;prescription recept;felírás
+e-resepti;e-prescription e-recept;elektronikus recept
+sähköinen resepti;electronic prescription digitális recept;elektronikus vény
+puhelinresepti;phone-in prescription telefonszámos recept;telefonos vény
+lääke;medicine szer;gyógyszer
+lääkitys;medication kezelés;gyógyszerelés
+lääkehoito;medical treatment terápia;gyógyszeres kezelés
+lääketiede;(field of) medicine orvostudomány;gyógyítás tudománya
+lääketieteellinen;medicinal orvosi;gyógyászati
+hoitomenetelmä;treatment method eljárás;kezelési mód
+lääkevalmiste;medicinal product készítmény;gyógyszerkészítmény
+lääkelaki;pharmaceutical law gyógyszertörvény;gyógyszertörvény
+pakkausseloste;package leaflet használati utasítás;betegtájékoztató
+KELA-kortti, kelakortti;Finnish health insurance card social security card;TAJ-kártya
+reseptivapaa lääke;over-the-counter medicine OTC medication;gyógyszer vény nélkül
+itsehoitolääke;non-prescription medicine; önkezelő szer, gyógyszer vény nélkül
+reseptilääke;prescription drug vényköteles gyógyszer;gyógyszer receptre
+kolmiolääke;controlled medication kontrollált gyógyszer;engedélyköteles szer
+rinnakkaisvalmisteet;parallel products generics;hasonló készítmények
+lääkkeen kauppanimi;trade name márkanév;kereskedelmi név
+vaikuttava aine;active substance hatóanyag;hatóanyag
+antibiootti;antibiotic fertőtlenítő szer;antibiotikum
+antihistamiinit;antihistamines allergiaellenes;antihisztaminok
+e-pilleri, ehkäisypilleri;birth control pill contraceptive;fogamzásgátló tabletta
+emulsio;emulsion emulzió;emulzió
+flunssalääke;flu medicine cold remedy;influenza gyógyszer
+ilmavaivalääke;flatulence remedy wind relief;puffadás elleni szer
+insuliini;insulin inzulin;inzulin
+kipugeeli;pain relief gel fájdalomcsillapító gél;fájdalomcsillapító zselé
+kipulääke, särkylääke;painkiller analgesic;fájdalomcsillapító
+kipuvoide;pain relief cream fájdalomkrém;fájdalomcsillapító krém
+kolesterolilääke;cholesterol medicine lipid medication;koleszterinszint-csökkentő szer
+kuumelääke;antipyretic lázcsillapító;lázzal szembeni szer
+kylmävoide;cold cream hűsítő krém;hideg krém
+kyypakkaus;snakebite kit mérgeskígyó-készlet;kígyómarás elleni csomag
+lihasrelaksantit;muscle relaxants izomlazítók;izomrelaxánsok
+lääkehiili;activated charcoal aktívszén;aktiv szén
+mahahappolääke;gastric acid medicine savlekötő;gyomorsav-ellenes szer
+maitohappobakteerit;lactic acid bacteria probiotikum;tejsavbaktériumok
+masennuslääke;antidepressant serotonin reuptake inhibitor;antidepresszáns
+matkapahoinvointilääke;travel sickness medicine motion sickness drug;utazásellenes gyógyszer
+mielialalääke;mood stabilizer hangulatjavító;hangulatstabilizátor
+migreenilääke;migraine medication fejfájás elleni szer;migrén gyógyszer
+monivitamiini;multivitamin vitamin complex;multivitamin
+nikotiinilaastari;nicotine patch nikotinos tapasz;nikotin tapasz
+närästyslääke;heartburn medicine reflux ellenes;gyomorégés elleni szer
+pahoinvointilääke;antinausea drug émelygésgátló;hányás ellenes gyógyszer
+parasetamol;paracetamol acetaminophen;paracetamol
+penisilliini;penicillin penicillin;penicillin
+perusvoide;base cream alapozó krém;alapkrém
+psykoosilääke;antipsychotic antipszichotikum;antipszichotikum
+rauhoittava lääke;sedative tranquillizer;nyugtató
+ravintolisä;dietary supplement supplement;étrend-kiegészítő
+ripulilääke;medicine for diarrhea dia- medicine;hasmenés elleni gyógyszer
+rokote;vaccine immunization;vakcina
+tulehduskipulääke;anti-inflammatory drug NSAID;gyulladáscsökkentő
+ulostuslääke, ummetuslääke;laxative purgatív;hashajtó
+unilääke;sleeping pill hypnotic;altatók
+verenohennuslääke;blood thinner anticoagulant;véralvadásgátló
+verenpainelääke;blood pressure medication antihypertensive;vérnyomáscsökkentő
+vitamiinit;vitamins nutrient tablets;vitaminok
+voide;cream lotion;krém
+yskänlääke;cough medicine antitussive;köhögés elleni szer
+antotapa;route of administration administration route;adagolási mód
+oraalinen antotapa;oral route of administration buccal route;orális alkalmazás
+nasaalinen antotapa;nasal route of administration nasal route;nazális alkalmazás
+rektaalinen antotapa;rectal route of administration suppository route;rektális alkalmazás
+suun kautta;orally by mouth;szájon át
+nenän kautta;nasally through nose;orron keresztül
+peräaukon kautta;anally via anus;végbélen át
+kielen alla;under the tongue sublingual;nyelv alatt
+ihon alla;under the skin subcutaneously;bőr alá
+suussa liukeneva tabletti;soluble tablet oro-dispersible tablet;szájban oldódó tabletta
+pureskeltava tabletti;chewable tablet mandulható tabletta;rágótabletta
+kalvopäällystetty tabletti;film-coated tablet coated pill;filmes bevonatú tabletta
+kalvopäällysteinen tabletti;film-coated tablet same as above;filmes tabletta
+ihonalainen lääke;subcutaneous drug sub-skin injection;bőr alá adott gyógyszer
+implantaatti;implant implantátum;beültetett eszköz
+sisäänhengitettävä lääke;inhalable drug inhalation medication;inhalációs gyógyszer
+kapseli;capsule gel-capsule;kapszula
+tabletti;tablet pill;tabletta
+suihke;spray aerosol;spray
+liuos;solution liquid;oldat
+jauhe;powder dust;türkőr
+pistos;injection shot;injekció
+injektio ihokudokseen;injection into skin tissue intradermal injection;intradermális injekció
+poretabletti;effervescent tablet carbon tablet;pezsgőtabletta
+silmätipat;eye drops ocular drops;szemcsepp
+korvatipat;ear drops auricular drops;fülcsepp
+nenäsuihke;nose spray nasal aerosol;orrspray
+lasiampulli;ampoule vial;ampulla
+suppo = peräpuikko;suppository rectal pellet;Kúp
+peräruiske;enema rectal douche;kúp
+annossumutin, inhalaattori;inhaler nebulizer;inhalátor
+emätinpuikko;vaginal sup;vaginális kúppal, emätinkúp
+emätinvoide;vaginal cream intimate cream;vaginális krém
+lääkelaastari;medicine patch medicated patch;gyógyszeres tapasz
+pitkävaikutteinen lääke;long-acting drug extended-release medication;hosszú hatású szer
+aurinkosuoja;sunscreen sun protection;napvédő
+desinfiointiaine;disinfectant sanitizer;fertőtlenítőszer
+dosetti;pill dispenser pill organizer;tablettaadagoló
+ensiapupakkaus;first aid kit emergency set;elsősegély-csomag
+haavanpuhdistusaine;wound cleanser wound cleanser;sebcsírozó
+hammastahna;toothpaste dentifrice;fogkrém
+harsotaitos;gauze dressing géz;gézlap
+kasvomaski;face mask surgical mask;arcmaszk
+kosmetiikka;cosmetics beauty products;kozmetikumok
+kuumemittari;thermometer temp gauge;hőmérő
+kynsisakset;nail scissors manicure scissors;körömolló
+käsidesi;hand sanitizer hand gel;kézfertőtlenítő
+laastari;band-aid plaster;tapasz
+matolääke kissalle/koiralle;worm medicine for pets antiparasitic;bélszéles elleni szer
+neula;needle syringe needle;tű
+pinsetit;tweezers forceps;csipesz
+punkkipihdit;tick pliers tick remover;tacsipipetta
+raskaustesti;pregnancy test pregnancy kit;terhességi teszt
+ruiskepullo;injection bottle vial;injekciós üveg
+ruisku;syringe medical syringe;injekciós tű
+side;bandage dressing;kötés
+siderulla;bandage roll gauze roll;kötésgöngyöl
+tabletinhalkaisija;pill splitter pill cutter;készletező
+tabletinmurskain;pill crusher pill grinder;tablettatörő
+verenpainemittari;blood pressure monitor BP meter;vérnyomásmérő
+käyttää lääkettä;to use medication take medicine;gyógyszert szed
+syödä lääkettä;to take medication ingest drug;gyógyszert bevenni
+käyttää lääkettä väärin;to misuse medication take incorrectly;gyógyszert helytelenül használ
+määrätä lääke;to prescribe a medication prescribe;felír gyógyszert
+antaa lääkemääräys;to give a prescription issue prescription;felír
+näyttää kelakortti;to show social security card present insurance card;TAJ-kártyát felmutat
+ostaa lääke apteekista;to buy medication from the pharmacy purchase drug;gyógyszert venni a patikában
+ottaa suun kautta;to take orally swallow;orálisan bevenni
+niellä lääke;to swallow a medicine swallow pill;meginni a gyógyszert
+murskata tabletti;to crush the tablet crush pill;tablettát összetör
+puolittaa tabletti;to halve the tablet split pill;tablettát félbe vág
+sekoittaa;to mix stir;kever
+laimentaa;to dilute dilute;hígít
+nostaa annosta;to increase the dose raise dosage;emelni az adagot
+aloittaa uusi lääke;to start a new medication initiate treatment;új gyógyszert elkezdeni
+lopettaa lääkkeen käyttö;to stop using a medication discontinue use;abbahagyja a gyógyszer szedését
+vähentää annosta;to reduce the dose lower dose;csökkenteni az adagot
+käyttää väärää lääkettä;to use wrong medication take wrong medicine;rossz gyógyszert használni
+lääke tehoaa;the medicine takes effect the drug works;a gyógyszer hat
+lääke vaikuttaa;the medicine affects the drug impacts;a gyógyszer hatással van
+lääke imeytyy;the medicine is absorbed absorption;a gyógyszer felszívódik
+annos;dose dosage;mennyiség
+annostus, annostelu;dosage dosing, dosing dispensing;adagolás
+kerta-annos;single dose one-off dose;egyszeri adag
+vuorokausiannos;daily dose daily intake;napi adag
+1-2 tippaa päivässä;1-2 drops a day one to two drops per day;naponta 1-2 csepp
+1-2 tippaa 4 kertaa päivässä;1-2 drops 4 times a day four times daily;1-2 csepp naponta 4-szer
+1-2 tablettia iltaisin;1-2 tablets in the evening evening dose;1-2 tabletta esténként
+1 tabletti aamuisin;1 tablet in the morning morning pill;1 tabletta reggelente
+1 tabletti kahdesti päivässä;1 tablet twice a day twice daily dose;1 tabletta kétnaponta
+1 tabletti 3 kertaa päivässä;1 tablet 3 times a day thrice daily;1 tabletta naponta 3-szor
+1 tabletti kerran vuorokaudessa;1 tablet once a day once daily;1 tabletta naponta egyszer
+2 tablettia 1-2 kertaa vuorokaudessa;2 tablets 1-2 times a day up to 2 tablets daily;2 tabletta 1-2-szer naponta
+3 tippaa päivässä;3 drops a day three drops a day;3 csepp naponta
+korkeintaan 3 kertaa päivässä;maximum 3 times a day at most three times daily;napi max 3 alkalommal
+10-30 millilitraa päivässä;10-30 milliliters per day 10-30 mL daily;10-30 milliliter naponta
+viikon ajan;for a week for one week;egy hétig
+10 päivän ajan;for 10 days ten-day period;10 napig
+tarvittaessa;if necessary as needed;szükség esetén
+aterian jälkeen;after a meal post-meal;étkezés után
+aterian yhteydessä;with a meal with food;étkezés közben
+ennen ateriaa;before a meal pre-meal;étkezés előtt
+nieltävä kokonaisena;needs to be swallowed whole swallow whole;egészen le kell nyelni
+pureskeltava;needs to be chewed must be chewed;rágni kell
+käytettävä loppuun;needs to be used completely finish full course;teljesen el kell használni
+otettava tyhjään mahaan;needs to be taken on an empty stomach on empty stomach;éhgyomorra kell bevenni
+säilytettävä huoneenlämmössä;store at room temperature room-temp storage;szobahőmérsékleten tárolandó
+säilytettävä jääkaapissa;store in fridge refrigerate;hűtőben tárolandó
+säilytettävä kylmässä;must be kept cold keep cold;hidegen tárolandó
+ravistettava ennen käyttöä;shake before use shake well;használat előtt fel kell rázni
+Missä on lähin apteekki?;Where is the nearest pharmacy/drugstore? nearest chemist?;Hol van a legközelebbi patika?
+Miten voin olla avuksi?;How can I help you? what can I do for you?;Miben segíthetek?
+Etsitkö jotain tiettyä?;Are you looking for something in particular? searching for anything?;Valamit keres esetleg?
+Ota vuoronumero, jos tarvitset reseptilääkkeitä.;Take a queue ticket if you need prescription drugs.;Vegye ki a sorszámot, ha vényköteles gyógyszert szeretne!
+Otitko jo vuoronumeron?;Did you already take a queue number?;Kivette már a sorszámot?
+Mistä voin ottaa vuoronumeron?;Where can I take a queue number?;Hol tudok sorszámot kérni?
+Minun pitäisi saada tämä resepti.;I would like to get this prescription.;Szeretném megkapni ezt a receptet.
+Lääke on loppu.;The medicine has run out.;A gyógyszer kifogyott.
+Lääke on tilapäisesti loppu.;The medicine is temporarily out of stock.;A gyógyszer ideiglenesen elfogyott.
+Tätä lääkettä ei saa Suomesta.;This medicine is not available in Finland.;Ez a gyógyszer nem kapható Finnországban.
+Lääkettä saa vain reseptillä.;The medicine can only be obtained with a prescription.;A gyógyszer csak receptre kapható.
+Kipulääkkeitä saa ilman reseptiä.;Painkillers are available without a prescription.;Fájdalomcsillapító recept nélkül kapható.
+Melatoniinia voi saada ilman reseptiä.;Melatonin can be obtained without a prescription.;A melatonint recept nélkül is be lehet szerezni.
+Näyttäisitkö kelakorttisi?;Could you show your Finnish social security card?;Meg tudná mutatni a TAJ-kártyáját?
+Onko sinulla kelakortti mukana?;Do you have your social security card with you?;Magánál van a TAJ-kártyája?
+Onko teillä kelakortti mukana?;Do you have your social security card with you? (polite);Náluk van a TAJ-kártyájuk?
+Mitä lääkettä olisit hakemassa?;What medicine would you like to get?;Milyen gyógyszert szeretne kérni?
+Lääkäri on määrännyt tätä lääkettä.;The doctor has prescribed this medicine.;Az orvos ezt a gyógyszert írta fel.
+Lääkäri on määrännyt teille antibioottikuurin.;The doctor has prescribed you a course of antibiotics.;Az orvos antibiotikumkúrát írt fel Önnek.
+Oletko ennen ottanut tätä lääkettä?;Have you taken this medicine before?;Szedi már korábban ezt a gyógyszert?
+Onko lääke entuudestaan tuttu?;Are you familiar with this medicine?;Ismeri már ezt a gyógyszert?
+Onko tämä ennestään tuttu lääke?;Is this a drug you are familiar with?;Ez a gyógyszer ismerős Önnek?
+Tyypillinen haittavaikutus on pahoinvointi.;A typical side effect is nausea.;Jellegzetes mellékhatás a hányinger.
+Lääkettä voi ostaa enintään 30 tablettia.;You can purchase up to 30 tablets.;Legfeljebb 30 tablettát vásárolhat.
+Kuinka monta pakettia haluaisit?;How many packs would you like?;Hány dobozzal szeretne?
+Otatko yhden paketin?;Will you take one pack?;Kér egy dobozzal?
+Resepti on loppu.;The prescription has run out.;A recept kifogyott.
+Resepti ei ole enää voimassa.;The prescription is no longer valid.;A recept már nem érvényes.
+Lääkärin täytyy uusia tämä resepti.;Your physician will need to renew this prescription.;Az orvosnak meg kell újítania ezt a receptet.
+Muista uusia resepti.;Remember to renew the prescription.;Ne felejtse el megújítani a receptet.
+Meillä ei ole tätä lääkettä varastossa.;We don't have this medicine in stock.;Nincs készleten ez a gyógyszer.
+Meidän täytyy tilata tämä lääke.;We need to order this medicine.;Megrendelést kell leadnunk erre a gyógyszerre.
+Voimme tilata lääke huomiseksi.;We can order the medicine by tomorrow.;Le tudjuk rendelni a gyógyszert holnapra.
+Tästä lääkkeestä ei saa Kela-korvausta.;This medicine isn't reimbursed by Kela.;Erre a gyógyszerre nem jár támogatás.
+Lääke ei ole enää Kela-korvattava.;The medicine is no longer reimbursable.;Ez a gyógyszer már nem támogatott.
+Lääke kannattaa ottaa illalla.;This medicine should be taken in the evening.;Ezt a gyógyszert este ajánlott bevenni.
+Ota lääke joka päivä samaan aikaan.;Take the medicine daily at the same time.;Vegye be a gyógyszert minden nap ugyanabban az időben.
+Älä ota lääkettä tyhjään vatsaan.;Don't take the medicine on an empty stomach.;Ne vegye be üres gyomorra.
+Ota lääke tyhjään mahaan.;Take the medicine on an empty stomach.;Üres gyomorra vegye be.
+Ota lääkettä 30 minuuttia ennen ateriaa.;Take the medicine 30 minutes before a meal.;Étel előtt 30 perccel vegye be.
+Ota lääke runsaan veden kera.;Take it with plenty of water.;Bő vízzel vegye be.
+Ota kuuri loppuun.;Complete the course.;Fejezze be a kúra szedését.
+Käytä lääke loppuun.;Use up all medication.;Használja el a teljes gyógyszert.
+Anna tabletti liueta kielen alla.;Allow the tablet to dissolve under the tongue.;Hagyja, hogy a tabletta feloldódjon a nyelv alatt.
+Anna tabletti liueta suussa.;Allow the tablet to dissolve in your mouth.;Hagyja, hogy a tabletta feloldódjon a szájában.
+Liuota jauhe veteen.;Dissolve the powder in water.;Oldja fel a port vízben.
+Älä käytä valmistetta jos olet allerginen.;Don't use this medicine if you're allergic.;Ne használja a készítményt, ha allergiás rá.
+Älä ota alkoholia tämän lääkkeen kanssa.;Don't take alcohol with this medicine.;Ne fogyasszon alkoholt ezzel a gyógyszerrel együtt.
+Älä juo alkoholia hoidon aikana.;Don't drink alcohol during the treatment.;A kezelés alatt ne igyon alkoholt.
+Lääke maistuu pahalta.;The medicine tastes bad.;A gyógyszer rossz ízű.
+Lääke maistuu mustaherukalle.;The medicine tastes like blackcurrants.;A gyógyszer feketeribizli ízű.
+Tämä on kolmiolääke.;This medicine affects the central nervous system.;Ez egy háromszög-jelzésű gyógyszer (KIR-re hat).
+Tämä lääke voi aiheuttaa tokkuraisuutta.;This medicine can cause drowsiness.;Ez a gyógyszer álmosságot okozhat.
+Näitä tabletteja ei saa murskata.;These tablets should not be crushed.;Ezeket a tablettákat nem szabad összetörni.
+Näitä tabletteja ei saa puolittaa.;These tablets should not be halved.;Ezeket a tablettákat nem szabad félbevágni.
+Näitä tabletteja ei saa halkaista.;These tablets should not be split.;Ezeket a tablettákat nem szabad szétosztani.
+Voinko muuten olla avuksi?;Is there something else I can help you with?;Tudok még valamiben segíteni?
+Tarvitsisitko jotain muuta?;Is there anything else you need?;Szüksége van még valamire?
+koostumus;composition;összetétel
+pakkaus;packaging;csomagolás
+jakelu;distribution;elosztás
+lääkkeen teho;drug efficacy;a gyógyszer hatékonysága
+lääkkeen vaikutus;effect of the drug;a gyógyszer hatása
+oire;symptom;tünet
+vieroitusoire;withdrawal symptom;elvonási tünet
+sivuvaikutus;side effect;mellékhatás
+haittavaikutus;adverse effect;káros mellékhatás
+vakava haittavaikutus;serious adverse reaction;súlyos mellékhatás
+odottamaton haittavaikutus;unexpected adverse drug reaction;váratlan gyógyszerreakció
+lääkkeiden yhteisvaikutus;drug interaction;gyógyszerkölcsönhatás
+hoidon kesto;duration of treatment;kezelés időtartama
+lääkkeiden käyttö;use of drugs;gyógyszerek használata
+oikea käyttö;correct use;helyes használat
+virheellinen käyttö;incorrect use;helytelen használat
+alikäyttö;underuse;elégtelen használat
+haitallinen yhteiskäyttö;co-medication;káros együttes használat
+ylikäyttö;overuse;túlhasználat
+väärinkäyttö (huumaustarkoituksessa);drug abuse;kábítószer-visszaélés
+yliannostus;overdose;túladagolás
+riippuvuus;addiction;függőség
+lääkeriippuvuus;addiction to medication;gyógyszerfüggőség
+allerginen reaktio;allergic reaction;allergiás reakció
+lääkevahinko;drug damage;gyógyszer okozta kár
+puoliintumisaika;half-life;felezési idő
+lääkeaineen pitoisuus elimistössä;concentration of the drug in the body;gyógyszer koncentrációja a szervezetben
+toleranssi, sietokyky;tolerance;tolerancia
+(bakteerin) vastustuskyky;(bacterial) resistance;(bakteriális) rezisztencia
+vasta-aine;antibody;ellenanyag

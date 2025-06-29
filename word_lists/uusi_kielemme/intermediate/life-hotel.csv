@@ -1,0 +1,91 @@
+Finnish;English;hungarian
+hotellissa;in a hotel;egy szállodában
+hissi;elevator;Lift
+huone;room;szoba
+kerros;floor;réteg
+kylpyamme;bath;fürdőkád
+kylpyhuone;bathroom;fürdőszoba
+lakanat;sheets;ágynemű
+pesuallas;sink;mosogató
+minibaari;mini bar;minibár
+puolihoito;half board;félpanzió
+täysihoito;full board;teljes ellátás
+pysäköintialue;parking area;parkolóhely
+aamiaistarjoilu;breakfast service;reggeli szolgáltatás
+aamiainen;breakfast;reggeli
+aamiaisbuffetti;breakfast buffet;reggeli svédasztalos
+ruokasali;dining room;ebédlő
+aamuherätys;morning wake-up;hajnal
+avain;key;kulcsfontosságú
+kulkukortti;pass card;hozzáférési kártya
+eteisaula;lobby;előcsarnok
+oleskelutila;lounge area;társalgó
+ovimies;usher;tevékeny
+parveke, terassi;balcony;erkély, terasz
+patja;mattress;matrac
+pistorasia;socket;kimenő kimenő
+pyyhe;towel;törülköző
+tyyny;pillow;párna
+hiljainen kausi;quiet season;alacsony szezon
+sesonki;season;évad
+huippusesonki;high season;csúcsidőszak
+hotelli;hotel;szálloda
+majoitus;accommodation;szállás
+perhemajoitus;family accommodation;családi szállás
+huoneenvaraus;room reservation;szobafoglalás
+vapaa huone;free room;tartalék szoba
+näköala merelle;view of the sea;Kilátás a tengerre
+kohtuuhintainen hotelli;a reasonably-priced hotel;megfizethető szálloda
+huone yhdeksi yöksi;room for one night;szoba egy éjszakára
+huone kahdeksi yöksi;room for two nights;szoba két éjszakára
+huone viikoksi;room for a week;Egy szoba egy hétig
+yhden hengen huone;room for one person;egyágyas szoba
+kahden hengen huone;room for two people;kétágyas szoba
+huone kahdella sängyllä;room with two beds;szoba két ággyal
+kahden hengen sänky, parisänky;two person bed;franciaágy, franciaágy
+vastaanotto;reception;recepció
+vastaanottotiski;front desk;recepciós pult
+vastaanottovirkailija;receptionist;recepciós
+saapumispäivä;day of arrival;érkezési dátum
+lähtöpäivä;day of departure;indulási nap
+wifi, langaton yhteys;wifi, wireless;WiFi, vezeték nélküli kapcsolat
+luottokortti;credit card;hitelkártya
+huonesiivooja;cleaning staff;szobaszörő
+ilmastointi;air conditioning;légkondicionálás
+kassakaappi;safe;biztonságos
+tallelokero;safety deposit box;értékmegőrző
+Haluaisin varata huoneen.;I want to reserve a room.;Szeretnék foglalni egy szobát.
+Haluaisin varata huoneen yhdelle.;I want to reserve a room for one.;Szeretnék egy szobát foglalni egynek.
+Haluaisin varata yhden hengen huoneen.;I want to reserve a one-person room.;Szeretnék egy szobát foglalni.
+Haluaisin varata kahden hengen huoneen.;I want to reserve a two-person room.;Szeretnék foglalni egy kétágyas szobát.
+Haluaisin varata huoneen kahdeksi yöksi.;I want to reserve a room for two nights.;Szeretnék foglalni egy szobát két éjszakára.
+Olen varannut huoneen.;I've reserved a room.;Foglaltam egy szobát.
+Olen varannut huoneen nimellä Smith.;I've reserved a room under the name Smith.;Foglaltam egy szobát Smith néven.
+Minulla on huonevaraus.;I have a reserved room.;Van egy szobafoglalásom.
+Minulla on varaus täksi yöksi.;I have a reservation for this night.;Fenntartásom van erre az éjszakára.
+Tein varauksen puhelimitse viime viikolla.;I made a reservation by phone last week.;A múlt héten telefonon foglaltam le.
+Mikä on huoneeni numero?;What's the number of my room?;Mennyi a szobám száma?
+Saisinko huoneeni avaimen?;Could I get the key of my room?;Megkaphatom a kulcsa a szobámnak?
+Saisinko huoneen 31 avaimen?;Could I get the key to room 31?;Kaphatok 31 kulcsot a szobában?
+Mistä löydän huoneeni?;Where can I find my room?;Hol találom a szobámat?
+Missä hissit ovat?;Where are the elevators?;Hol vannak a felvonók?
+Missä kerroksessa huoneeni on?;On what floor is my room?;Melyik emeleten van a szobám?
+Voinko jättää matkalaukkuni tänne?;Can I leave my baggage here?;Itt hagyhatom a bőröndömet?
+Onko täällä tallelokero?;Is there a safety deposit box here?;Van itt széf?
+Miten tämä kulkukortti toimii?;How does this pass card work?;Hogyan működik ez a hozzáférési kártya?
+Olisiko mahdollista saada lapselle lisävuoteen?;Would it be possible to get an extra bed for a child?;Lehetséges -e egy évre megszerezni a gyermeket?
+Voisinko saada lisäpeiton?;Could I get an extra blanket?;Kaphatok egy extra takarót?
+Onko hotellissa ravintola?;Is there a restaurant in the hotel?;Van a szállodában étterem?
+Onko täällä kuntosalia?;Is there a gym here?;Van itt tornaterem?
+Mihin aikaan aamupala on tarjolla?;At what time breakfast is served?;Mikor áll rendelkezésre a reggeli?
+Mihin aikaan huone pitää luovuttaa?;At what time do I have to check out?;Mikor kell elhagyni a szobát?
+Haluan pesettää paidan.;I want to have a shirt washed.;Meg akarom mosni az inget.
+Huoneeni suihku ei toimi.;My room's shower doesn't work.;A szobám zuhanyom nem működik.
+Huoneessa ei ole pyyhkeitä.;There are no towels in the room.;Nincsenek törülközők a szobában.
+Huonetta ei ole siivottu.;The room hasn't been cleaned.;A szobát nem tisztították meg.
+Huoneessa on tupakan haju.;There's the smell of tobacco in the room.;A szoba dohányszaggal rendelkezik.
+Lähden aikaisin aamulla. Voinko maksaa jo nyt?;I'm leaving early in the morning. Can I pay now?;Kora reggel távozom. Fizethetek már?
+Voisinko saada laskun?;Could I get the bill?;Kaphatok számlát?
+Voinko maksaa luottokortilla?;Can I pay with a credit card?;Fizethetek hitelkártyával?
+Voinko maksaa Visalla?;Can I pay with Visa?;Fizethetek vízumot?
+Voitteko tilata minulle taksin?;Could you call a cab for me?;Rendelhet nekem egy taxit?
