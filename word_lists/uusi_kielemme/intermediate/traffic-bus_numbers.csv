@@ -1,0 +1,40 @@
+Finnish (numero);Finnish (Mikä bussi?);Finnish (Millä bussilla menet?);Finnish (Mitä bussia odotat?)
+1;ykkönen;ykkösellä;ykköstä
+2;kakkonen;kakkosella;kakkosta
+3;kolmonen;kolmosella;kolmosta
+4;nelonen;nelosella;nelosta
+5;viitonen / vitonen;viitosella / vitosella;viitosta / vitosta
+6;kuutonen / kutonen;kuutosella / kutosella;kuutosta / kutosta
+7;seittemän / seiska;seittemällä / seiskalla;seittemää / seiskaa
+8;kaheksan / kasi;kaheksalla / kasilla;kaheksaa / kasia
+9;yheksän / ysi;yheksällä / ysillä;yheksää / ysiä
+10;kymmenen / kymppi;kymmenellä / kympillä;kymmentä / kymppiä
+11;ykstoist(a);yhellätoista, yheltoist;yhtätoista
+12;kakstoist(a);kahellatoista, kaheltoist;kahtatoista
+13;kolmetoist(a);kolmellatoista, kolmeltoist;kolmeatoista
+14;neljätoist(a);neljällätoist(a), neljältois;neljäätoista
+15;viistoist(a);viidellätoista, viieltoist;viittätoista
+16;kuustoist(a);kuudellatoista, kuueltoist;kuuttatoista
+17;seittemäntoist(a);seittemällätoista, seittemältoist;seittemäätoista
+18;kaheksantoist(a);kaheksallatoista / kaheksaltoist;kaheksaatoista
+19;yheksäntoist(a);yheksällätoista / yheksältoist;yheksäätoista
+20;kakskymppinen;kakskymppisellä;kakskymppistä
+21;kaksykkönen;kaksykkösellä;kaksykköstä
+22;kakskakkonen;kakskakkosella;kakskakkosta
+23;kakskolmonen;kakskolmosella;kakskolmosta
+24;kaksnelonen;kaksnelosella;kaksnelosta
+25;kaksvitonen;kaksvitosella;kaksvitosta
+26;kakskutonen;kakskutosella;kakskutosta
+27;kaksseiska;kaksseiskalla;kaksseiskaa
+28;kakskasi;kakskasilla;kakskasia
+29;kaksysi;kaksysillä;kaksysiä
+30;kolmekymppinen;kolmekymppisellä;kolmekymppistä
+31;kolmeykkönen;kolmeykkösellä;kolmeykköstä
+40;nelikymppinen;nelikymppisellä;nelikymppistä
+42;neljäkakkonen;neljäkakkosella;neljäkakkosta
+50;viiskymppinen;viiskymppisellä;viiskymppistä
+52;viiskakkonen;viiskakkosella;viiskakkosta
+60;kuuskymppinen;kuuskymppisellä;kuuskymppistä
+70;seitsenkymppinen;seitsenkymppisellä;seitsenkymppistä
+80;kasikymppinen;kasikymppisellä;kasikymppistä
+90;ysikymppinen;ysikymppisellä;ysikymppistä

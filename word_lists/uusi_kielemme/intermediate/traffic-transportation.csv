@@ -1,0 +1,47 @@
+Finnish;English;hungarian
+liikenne;traffic;szállítás
+ajoneuvo;vehicle;jármű
+auto;car;autó
+henkilöauto;passenger car;szedán
+maastoauto;jeep;dzsip
+kuorma-auto, rekka;lorry, truck;teherautó
+aura-auto;plow car;eke
+jakelurekka;delivery truck;elosztó teherautó
+juna;train;vonat
+veturi;locomotive;mozdony
+bussi;bus;busz
+ambulanssi;ambulance;mentőautó
+paloauto;fire engine;tűzoltóautó
+kaivuri;excavator;kotrógép
+maansiirtoauto;dump truck;földi mozgó jármű
+nosturiauto;crane car;daru teherautó
+betoniauto;concrete truck;betonautó
+kauhakuorma-auto;bucket truck;vödör teherautó
+raitiovaunu;tram;villamos
+traktori;tractor;traktor
+metro;metro;metró
+lentokone;airplane;repülőgép
+helikopteri;helicopter;helikopter
+kuumailmapallo;hot air balloon;hőlégballon
+polkupyörä;bicycle;kerékpár
+pyörä;bike;kerék
+rullaluistimet;roller skates;görkorcsolya
+rullalauta;skateboard;gördeszka
+julkinen liikenne;public transportation;tömegközlekedés
+bemari;spoken language for BMW;Bemari
+volkkari;spoken language for Volkswagen;vulkán
+pösö;spoken language for Peugeot;főnök
+mersu;spoken language for Mercedes Benz;Mersu
+sitikka;spoken language for Citroën;slágerek
+rellu;spoken language of Renault;rudu
+matukka;spoken language for Mazda;matrac
+paku;spoken language for pakettiauto (van);csomag
+Menen töihin autolla.;I go to work by car.;Autóval megyek.
+Kuljetan tavaraa kuorma-autolla.;I transport goods with a truck.;Teherautóval hordok cuccokat.
+Menen Kuopioon junalla.;I go to Kuopio by train.;Vonattal megyek Kuopio -ba.
+Matkustan Tampereelle bussilla.;I travel to Tampere by bus.;Busszal utazom Tamperbe.
+Menemme kauppaan metrolla.;We go to the store by metro.;Subway mellett megyünk a boltba.
+Matkustan usein lentokoneella.;I often travel by plane.;Gyakran utazom repülőgépen.
+Menen sairaalaan helikopterilla.;I go to the hospital by helicopter.;Helikopterrel megyek a kórházba.
+Mene pyörällä kauppaan!;Go to the store with your bike!;Menj biciklizni a boltba!
+Menen kotiin kävellen;I go home by foot.;Sétálás közben hazamegyek

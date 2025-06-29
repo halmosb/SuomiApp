@@ -1,0 +1,130 @@
+Finnish;English;hungarian
+linja-auto, bussi;bus;busz, busz
+bussikatos;bus shelter;busz lankás
+bussipysäkki;bus stop;buszmegálló
+bussiasema, linja-autoasema;bus station;buszpályaudvar, buszpályaudvar
+bussinkuljettaja;bus driver;buszvezető
+bussikuski;bus driver (spoken);buszvezető (beszélt)
+bussilippu;bus ticket;buszjegy
+bussimatka;bus trip;buszjárat
+aikataulu;time table;menetrend
+matkustaja;traveler;utas
+odottaa bussia;to wait for the bus;Várakozás a buszra
+nousta bussiin;to get in the bus;szálljon be egy buszra
+jäädä bussista, poistua bussista;to get off the bus;Maradjon ki a busztól, hagyja el a buszt
+istua bussissa;to sit in the bus;Üljön a buszon
+seisoa bussissa;to stand in the bus;álljon a buszon
+matkustaa bussilla;to travel by bus;busszal indul
+ostaa bussilippu;to buy a bus ticket;Vásároljon buszjegyet
+maksaa bussilippu;to pay a bus ticket;Fizessen a buszjegyet
+ehtiä bussiin;to be in time for the bus;elkapjon egy buszt
+myöhästyä bussista;to be late for the bus;hiányzik a busz
+etuovi;front door;bejárati ajtó
+keskiovi;middle door;középső ajtó
+takaovi;back door;hátsó ajtó
+liukuovet;sliding doors;tolóajtók
+istumapaikka;seat;ülés
+ikkunapaikka;window seat;ablak melletti ülés
+invalidipaikka;handicap seat;fogyatékkal élők
+penkki;bench;pad
+takapenkki;back seat;hátsó ülés
+käytävä;gangway;folyosó
+keskisilta;middle part;középső híd
+kaide;handrail;korlát
+tukitanko;support rod;dugó
+turvalenkki;safety hand loop;biztonsági hurok
+pysäytysnappi;stop button;stop gomb
+matkakortti, bussikortti;bus card;Utazási kártya, buszkártya
+kausilippu;season ticket;bérlet
+arvolippu;value ticket;jegy
+seutulippu;regional ticket;regionális jegy
+kertalippu;single trip ticket;egyirányú jegy
+yölisä;extra night fee;Éjszaka -felold
+vyöhyke;zone;zóna
+tarkastusmaksu;penalty fare;ellenőrzési díj
+vanhentunut lippu;expired ticket;elavult jegy
+opiskelijalippu;student ticket;hallgatói jegy
+koululippu;school ticket;iskolai jegy
+seniorilippu;senior ticket;vezető jegy
+lippuautomaatti;ticket machine;árusító automata
+kortinlukija;ticket reader;kártyaolvasó
+joukkoliikenne, julkinen liikenne;public transport;tömegközlekedés, tömegközlekedés
+bussiliikenne;bus transport;buszos közlekedés
+paikallisliikenne;local traffic;helyi forgalom
+yöliikenne;night buses;éjszakai forgalom
+bussikaista;bus lane;buszsáv
+lähtöasema;departure station;indulás
+päätepysäkki;terminus;végállomás
+ruuhkabussi;peak hour bus;torlódási busz
+bussireitti;bus route;buszútvonal
+bussilinja;bus line;buszvonal
+bussiyhteys;bus service;buszcsatlakozás
+reittiopas;trip planner;útmutató
+bussisovellus;bus app;autóbusz -alkalmazás
+äkkijarrutus;sudden braking;hirtelen fék
+nousta kyytiin;to get on;felkel
+ladata arvoa kortille;to add money to the card;Töltse be az értéket a kártyára
+hurahtaa ohi;to whiz past;felkap
+mahtua bussiin;to fit into the bus;szálljon be a buszra
+sulloutua täyteen bussiin;to slide into a full bus;szálljon be a teljes buszba
+ahtaa bussiin;to cram into the bus;ütközik a buszba
+matkustaa pummilla / jäniksenä;to travel without paying;Utazzon Pumm / Hare segítségével
+antaa käsimerkki;to give the hand signal;kézi
+heiluttaa kättä;to wave a hand;inog
+pysyä aikataulussa;to stay on schedule;Maradjon az ütemtervben
+kuljettaa matkaajia;to transport travelers;hordozókat hordoz
+varautua äkkijarrutuksiin;to be prepared for braking;Legyen felkészülve hirtelen
+ottaa tukea kaiteesta;to take hold of the railing;Támogassa a korlátot
+pitää kiinni tukitangosta;to hold on to the support rod;Tartsa be a támogató sávot
+Mikä bussi toi on? Mikä ratikka toi on?;What bus is that? What tram is that?;Melyik busz hozott? Milyen kerék ez?
+Toi on kakkonen.;That's [bus number 2].;A TOI a második számú.
+Toi on viiskymppinen.;That's [bus number 50].;Toi az ötvenes éveiben van.
+Toi on seiska.;That's [bus number 7].;Toi egy hét.
+Mikä bussi sinne menee?;What bus goes there?;Melyik busz megy oda?
+Vitonen menee sinne.;[Number 5] goes there.;A vitonen odamegy.
+Kolmonen kulkee siellä.;[Number 3] goes there.;A harmadik ott fut.
+Kaksseiska ajaa sinne.;[Number 27] drives there.;A párosok odahajtanak.
+Kolmonen ajaa Hervannasta Lielahteen.;[Bus 3] goes from Hervanta to Lielahti.;Kolmonen Hervanta -tól Lielahtiig hajt.
+Pääseekö sillä bussilla keskustaan?;Can you get to the city center with that bus?;Eljuthat -e az a busz a belvárosba?
+Meneekö tämä bussi keskustaan?;Does this bus go to the city center?;Ez a busz a belvárosba megy?
+Viiskutonen ei mene keskustaan.;[Number 56] doesn't go to the city center.;A Viiskatonen nem megy a belvárosba.
+Vitonen kiertää Vuoreksen kautta.;[Number 5] circles via Vuores.;A vitonen átmegy a vuores -en.
+Millä bussilla sä menet?;With what bus are you going?;Milyen buszon megy?
+Millä bussilla sinne pääsee?;With what bus can you get there?;Milyen buszra juthat oda?
+Sinne pääsee seiskalla.;You can get there [with bus number 7].;Hétnel eljuthatsz oda.
+Sinne pääsee kakskymppisellä.;You can get there [with bus number 20].;A húszas éveiben odajuthat.
+Hervantaan pääsee kolmekolmosella.;You can get to Hervanta [with bus 33].;A Hervanta háromszor érhető el.
+Päästäänkö kakkosella Rauhaniemeen?;Can we get to Rauhaniemi [with bus 2]?;Eljuthatok Rauhaniemi -be Kakkonenbe?
+Kakkosella pääsee Rauhaniemeen.;You can get to Rauhaniemi [with bus 2].;Másodszor érhető el Rauhaniemi -hez.
+Mene vaikka kasinelosella.;Go [with number 84] for example.;Menj a kaszinóba.
+Mitä bussia odotat?;What bus are you waiting for?;Milyen buszra vársz?
+Odotan ykköstä.;I'm waiting [for number 1].;Várom az első számot.
+Odotan viisnollakutosta.;I'm waiting [for number 506].;Alig várom az ötödiket.
+Odotan seiskaseiskaa.;I'm waiting [for number 77].;Várom a stagnálást.
+Odotan kolme-aa:ta.;I'm waiting [for 3A].;Várom a három-AA AA-t.
+Odotatko sinäkin kaksykköstä?;Are you waiting [for number 21] as well?;Ön is ikerre számít?
+Ysi on aina myöhässä.;[Number 9] is always late.;Az YSI mindig késik.
+Onko kasi jo mennyt?;Has [number 8] gone already?;A kaszt már eltűnt?
+Millä bussilla tuut (tulet)?;With what bus are you coming?;Milyen busz vagy (jössz)?
+Tulen kaksykkösellä.;I'm coming [with bus number 21].;Kakykkönennel jövök.
+Tulen viiskasilla.;I'm coming [with number 58].;Gonoszul jövök.
+Tulen satakaks-teellä.;I'm coming [with 102T].;Sataakaks -ból jöttem.
+Sinne ei pääse kolme-hoolla.;You can't get there [with number 3H].;Nem juthat el oda három hoo.
+Nyt se tulee. (Tampere: Nysse tulee.);There it is (the bus is approaching).;Most jön. (Tampere: Nysse jön.)
+Seittemänkaksneljä on tulossa.;[Number 724] is coming.;Jön Seittemänkennel.
+Monelta kaksiseiska menee?;At what time does [number 27] go?;Sokak számára a két mag?
+Monelta lähtee kakskakkonen?;At what time does [number 22] leave?;Sokan hagynak kettőt?
+Bussi tulee.;The bus is coming.;Jön a busz.
+Bussi on täynnä.;The bus is full.;A busz tele van.
+Bussiin ei mahdu enää ketään.;Nobody can fit on the bus anymore.;Senki sem fér el a buszon.
+Siirtykää taaksepäin!;Move closer to the back (of the bus)!;Mozogj vissza!
+Tiivistäkää!;Move closer to one another!;Pecsét!
+Tiivistäkää että muutkin mahtuu.;Squeeze up so other can fit!;Zárja be, hogy mások illeszkedjenek.
+Tekisitkö vähän tilaa?;Would you make some space?;Keressen egy kis helyet?
+Pääsisinkö tästä ohi?;Could I get past here?;Eljuthatok?
+Pääsisinkö tästä pois?;Could I get away from here?;Kijuthatok ebből?
+Jäisin tässä.;I'm getting off here.;Itt maradnék.
+Jäisin seuraavalla (pysäkillä).;I'm getting off at the next stop.;A következőnél maradnék (stop).
+Haluaisin ladata kortille 20 euroa.;I would like to charge 20 euros to my card.;Szeretnék letölteni 20 dollárt a kártyára.
+Haluaisin ladata kortille 30 päivää.;I would like to charge 30 days to my card.;Szeretném letölteni a kártyát 30 napra.
+Ollaanko perillä?;Have we arrived?;Ott vagyunk?

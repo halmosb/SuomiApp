@@ -1,0 +1,167 @@
+Finnish;English;hungarian
+katu;street;utca
+tie;road;út
+kuja;alley;sikátor
+kaista;lane;sáv
+valtatie, moottoritie;highway, motorway;autópálya
+maatie;country road;föld
+kiertotie;detour;kerülőút
+oikotie;shortcut;parancsikon
+ohikulkuväylä;bypass;átmenő sáv
+yksisuuntainen;one-way;egyirányú
+suojatie;zebra crossing;zebra kereszteződés
+jalkakäytävä;pavement;járda
+pyörätie;bicycle lane;kerékpáros út
+risteys;crossroads;útkereszteződés
+huoltoasema;service station;benzinkút + szolgáltások
+bensa-asema;gas station;benzinkút
+bussipysäkki;bus stop;buszmegálló
+autonkuljettaja, autoilija;car driver;sofőr, autós
+bussinkuljettaja;bus driver;buszvezető
+jalankulkija;pedestrian;gyalogos
+lappuliisa;meter maid;címke
+matkustaja;traveler;utas
+pyöräilijä;cyclist;kerékpáros
+rekankuljettaja;truck driver;teherautó
+rattijuoppo;drunk driver;részeg sofőr
+taksinkuljettaja;taxi driver;taxisofőr
+auto;car;autó
+henkilöauto;passenger car;szedán
+pakettiauto;van;kisteherautó
+taksi;taxi, cab;Taxi
+bussi, linja-auto;bus;busz, busz
+juna;train;vonat
+raitiovaunu;tram;villamos
+metro;subway;metró
+ajaa;to drive;hajtás
+ajaa kolari;to have an accident;ütközik autóval
+haavoittua;to be wounded;megsebesül
+jarruttaa;to brake;akadályoz
+kaahata;to drive recklessly;felelőtlenül vezetni
+kiihdyttää, kaasuttaa;to accelerate;Gyorsítsa fel, gázosítsa
+kävellä;to walk;séta
+käynnistää;to start;lerúg
+kääntyä;to turn;fordulat
+matkustaa;to travel;utazási
+loukkaantua;to be injured;megsérül
+noudattaa;adhere to;követ
+odottaa;to wait;elvár
+ohittaa;to overtake;kitérő
+parkeerata;to park;park
+pysähtyä;to stop;Stop
+pyöräillä;to ride a bike;bicikli
+tankata;to refuel;tankol
+törmätä;to hit something;bemegy
+vaihtaa kaistaa;to change lanes;csere
+valvoa liikennettä;to control traffic;ellenőrző forgalom
+vaurioitua;to be damaged;sérült
+ylittää katu;to cross the street;Keresse meg az utcát
+ajoneuvo;means of transport;jármű
+ilmastointi;air conditioning;légkondicionálás
+joukkoliikenne;public transport;tömegközlekedés
+kakkosvaihde;second gear;második fokozat
+katulamppu;street light;utcai lámpa
+kolari;car crash;Kolari
+kuolonkolari;fatal car accident;gombóc
+kypärä;helmet;sisak
+liikenne;traffic;szállítás
+liikennemerkki;traffic sign;közlekedési jel
+liikennesäännöt;traffic regulations;közlekedési szabályok
+liikennevalot;traffic lights;közlekedési lámpák
+liikenneympyrä;roundabout;körforgalom
+nopeus;speed;sebesség
+nopeusrajoitus;speed limit;sebességhatár
+nokkakolari;head-on collision;CAM -ütközés
+onnettomuus;accident;baleset
+ratti;steering wheel;kormánykerék
+ruuhka-aika;rush-hour;csúcsidő
+rengas;tire;gyűrű
+sakko;fine;finom
+törmäys;collision;ütközés
+vakuutus;insurance;biztosítás
+ykkösvaihde;first gear;első számú
+ylinopeus;speeding;gyorshajtás
+Autot ovat kadulla.;The cars are on the street.;Az autók az utcán vannak.
+Tämä tie on leveä.;This road is wide.;Ez az út széles.
+Kujat ovat yleensä kapeita.;Alleys are usually narrow.;A sikátorok általában keskenyek.
+Pysy oikealla kaistalla!;Stay on the right lane!;Maradjon a jobb sávon!
+Ajan 100 km/h valtatiellä.;I drive 100 km/h on the highway.;100 km/h -t vezetek az autópályán.
+Moottoritie on kuuma.;The motorway is hot.;Az autópálya forró.
+Ajan maatietä pitkin.;I drive across the country road.;Az út mentén.
+Kiertotie ei ollut turvallinen.;The detour wasn't safe.;A kitérő nem volt biztonságos.
+Oikotie oli nopeampi.;The shortcut was faster.;A parancsikon gyorsabb volt.
+Ohikulkuväylän varrella on talo.;There's a building next to the bypass.;Van egy ház az elhaladó busz mentén.
+Tämä on yksisuuntainen katu.;This is a one-way street.;Ez egy egyirányú utca.
+Ylitän kadun suojatietä pitkin.;I cross the street via the crosswalk.;Átmentem az utcán a kereszteződés mentén.
+Kävelen jalkakäytävällä.;I'm walking on the pavement.;Sétálok a járdán.
+Pyöräilija ajaa pyörätiellä.;The biker rides in the bicycle lane.;A kerékpáros a kerékpárúton halad.
+Käänny risteyksessä oikealle.;Turn right at the crossroads.;Forduljon jobbra a kereszteződésnél.
+Aja huoltoasemalle!;Drive to the service station!;Haladjon a benzinkúthoz!
+Tankkaan bensa-asemalla.;I tank up at the gas station.;Tank a benzinkútnál.
+Odotan bussipysäkillä.;I wait at the bus stop.;Várok a buszmegállóban.
+Autoilija katsoi tietä.;The car driver looked at the road.;Az autós az útra nézett.
+Autonkuljettaja pysähtyi.;The car driver stopped.;A sofőr megállt.
+Bussinkuljettaja hymyili.;The bus driver smiled.;A buszsofőr elmosolyodott.
+Jalankulkija pysähtyi.;The pedestrian stopped.;A gyalogos megállt.
+Lappuliisa kirjoitti sakon.;The meter maid wrote a fine.;Lappuliisa bírságot írt.
+Matkustaja oli varovainen.;The traveler was careful.;Az utas óvatos volt.
+Pyöräilijä ylitti kadun.;The cyclist crossed the street.;A kerékpáros átlépte az utcát.
+Rekankuljettaja ajoi hitaasti.;The truck driver drove slowly.;A teherautó sofőr lassan hajtott.
+Rattijuoppo ajoi nopeasti.;The drunk driver drove fast.;A részeg gyorsan sodródott.
+Taksinkuljettaja odotti.;The taxi driver waited.;A taxisofőr várt.
+Ajan autolla töihin.;I drive to work by car.;Autóval vezetek dolgozni.
+Henkilöauto pysähtyi.;The passenger car stopped.;Az autó megállt.
+Vuokrasin pakettiauton.;I rented a van.;Béreltem egy kisteherautót.
+Tilasin taksin.;I ordered a cab.;Rendeltem egy taxit.
+Menen kouluun bussilla.;I go to school by bus.;Busszal járok iskolába.
+Matkustan junalla.;I travel by train.;Vonattal utazom.
+Istun raitiovaunissa.;I'm sitting in the tram.;Ülök a villamosban.
+Menen metrolla kotiin.;I'm going home on the subway.;Hazamegyek a metró mellett.
+Osaan ajaa autoa.;I know how to drive a car.;Tudok vezetni egy autót.
+Ajoin kolarin sunnuntaina.;I had a car accident on Sunday.;Vasárnap ütközést vezettem.
+Poika haavoittui.;The boy was wounded.;A fiú megsebesült.
+Jarrutin ajoissa.;I braked on time.;Időben fékeztem.
+Älä kaahaa!;Don't drive recklessly!;Ne mászjon!
+Auto kaasutti karkuun.;The car speeded up to escape.;Az autó felsóhajtott.
+Auto kiihdytti nopeasti.;The car accelerated quickly.;Az autó gyorsan felgyorsult.
+Käynnistin auton.;I started the car.;Elkezdtem az autót.
+Käänny oikealle!;Turn right!;Forduljon jobbra!
+Matkustan bussilla.;I travel by bus.;Busszal utazom.
+En loukkaantunut kolarissa.;I wasn't injured in the accident.;Nem sérültem meg egy balesetben.
+Noudatan liikennesäännöt.;I adhere to the traffic regulations.;Követem a forgalmi szabályokat.
+Odotan bussia / linja-autoa.;I'm waiting for the bus.;Buszt / buszt keresek.
+Ohitin toisen auton.;I overtook another car.;Átadtam egy másik autót.
+Parkeeraan parkkipaikalle.;I park in the parking place.;Eljutok a parkolóba.
+Pysähdy suojatien kohdalla!;Stop at the zebra crossing!;Álljon meg a kereszteződésen!
+En osaa pyöräillä.;I don't know how to drive a bike.;Nem tudok kerékpározni.
+Unohdin tankata.;I forgot to refuel.;Elfelejtettem a tankolást.
+Auto törmäsi puuhun.;The car hit a tree.;Az autó ütközött egy fával.
+Vaihdoin kaistaa heti.;I immediately changed lanes.;Azonnal megváltoztattam a sávot.
+Poliisi valvoo liikennettä.;The police controls traffic.;A rendõrség figyeli a forgalmat.
+Auto vaurioitui kolarissa.;The car was damaged in the crash.;Az autó megsérült egy ütközés során.
+Ylitin kadun hitaasti.;I crossed the street slowly.;Lassan átléptem az utcát.
+Bussi on hieno ajoneuvo.;The bus is a great means of transport.;A busz egy nagyszerű jármű.
+Ilmastointi ei toimi.;The air conditioning doesn't work.;A légkondicionálás nem működik.
+Vihaan joukkoliikennettä.;I hate public transportation.;Utálom a tömegközlekedést.
+Hän lähti kakkosvaihteella.;He left in second gear.;Második sebességgel ment.
+Katulamppu sammui.;The street light went out.;Az utcai lámpa kialudt.
+Ajoin kolarin.;I got in a car crash.;Vezettem egy ütközést.
+Eilen tapahtui kuolonkolari.;Yesterday a fatal car accident happened.;Tegnap halálos baleset történt.
+Onko sinulla kypärä?;Do you have a helmet?;Van sisakod?
+Liikenne ruuhkautuu.;The traffic is congested.;A forgalom torlódott.
+Katso liikennemerkkejä!;Look at the traffic signs!;Lásd a közlekedési táblákat!
+Tunnetko liikennesäännöt?;Do you know the traffic regulations?;Ismeri a közlekedési szabályokat?
+Liikennevalot vaihtuivat.;The traffic lights changed color.;A közlekedési lámpák megváltoztak.
+Saavuin liikenneympyrään.;I arrived at the roundabout.;Megérkeztem a körforgalomba.
+Millä nopeudella ajoit?;At what speed did you drive?;Milyen sebességgel ütemezett?
+Nopeusrajoitus on tärkeä.;The speed limit is important.;A sebességkorlátozás fontos.
+Kolme kuoli nokkakolarissa.;Three died in the head-on collision.;Három egy CAM -ütközés során halt meg.
+Tiellä sattui onnettomuus.;An accident happened on the road.;Volt egy baleset az úton.
+Pidä kiinni ratista.;Hold on to the steering wheel.;Tartsa meg a kereket.
+Ajan kotiin ruuhka-aikana.;I drive home during rush-hour.;Csúszási órákban hazamegyek.
+Renkaat pyörivät.;The tires turn.;A gumiabroncsok forognak.
+Sain sakon eilen.;I got a fine yesterday.;Tegnap bírom.
+Törmäys oli lievä.;The collision was mild.;Az ütközés enyhe volt.
+Minulla on autovakuutus.;I have car insurance.;Van egy gépjármű -biztosításom.
+Laita ykkösvaihde päälle.;Turn on the first gear.;Tegye fel az első fogaskeréket.
+Älä ajaa ylinopeutta!;Don't drive too fast!;Ne vezesse a gyorshajtást!
