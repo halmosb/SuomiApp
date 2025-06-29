@@ -1,0 +1,106 @@
+Finnish;English;hungarian
+elokuvateatteri;cinema;mozi
+elokuva, leffa;movie;Egy film, egy film
+näytös;show;megmutat
+ensi-ilta;premiere;bemutató
+elokuvasali;cinema hall;moziterem
+istumapaikka;seat;ülés
+traileri;trailer;utánfutó
+dubbaus, jälkiäänitys;dubbing;szinkronizálás, utóhatás
+käsikirjoitus;script;kézirat
+tekstitys;subtitles;felirat
+valkokangas;movie screen;képernyő
+elokuva-arvostelu;movie review;film áttekintése
+näyttelijä;actor;színész
+näyttelijätär;actress;színésznő
+filmitähti;movie star;filmsztár
+päänäyttelijä;main lead;filmsztár, főszereplő
+ohjaaja;director;felügyelő
+tuottaja;producer;termelő
+kuvaaja;cameraman;operatőr
+ääniteknikko;sound engineer;hangtechnikus
+käsikirjoittaja;scriptwriter;forgatókönyvíró
+avustaja;extra;helyettes
+sijaisnäyttelijä;stuntman;kaszkadőr
+yleisö;audience;közönség
+dokumenttielokuva;documentary;dokumentumfilm
+jännityselokuva, trilleri;thriller;Izgalmas film, thriller
+kauhuelokuva;horror movie;horrorfilm
+toimintaelokuva;action movie;akciófilm
+seikkailuelokuva;adventure movie;kaland
+rikoselokuva;crime movie;bűnügyi film
+animaatioelokuva;animated movie;animációs film
+piirretty elokuva;animated movie (drawn);rajzfilm
+perhe-elokuva;family movie;családi film
+scifi-elokuva, tieteiselokuva;sci-fi movie;sci-fi film, tudományos fantasztikus
+sotaelokuva;war movie;háborús film
+komedia;comedy;komédia
+draama;drama;dráma
+musikaali;musical;zenei
+lyhytelokuva;short film;rövidfilm
+elämäkertaelokuva;biographical movie;életrajz
+kotimainen elokuva;domestic movie;háztartási film
+romanttinen elokuva;romantic movie;romantikus film
+historiallinen elokuva;historical movie;történelmi film
+palkittu elokuva;award-winning movie;díjnyertes film
+jymymenestys;blockbuster;lekvár
+kermakakkukomedia;slapstick comedy;krémtortakomédia
+hauska elokuva;funny movie;vicces film
+tylsä elokuva;boring movie;unalmas film
+jännittävä elokuva;exciting movie;izgalmas film
+pelottava elokuva;scary movie;ijesztő film
+yllättävä elokuva;surprising movie;Meglepő film
+mielenkiintoinen elokuva;interesting movie;érdekes film
+väkivaltainen elokuva;violent movie;erőszakos film
+käydä elokuvissa;to go to the movies;Menj moziba
+varata liput;to reserve tickets;Könyvjegyek
+ostaa liput;to buy tickets;Vásároljon jegyeket
+valita istumapaikat;to choose the seats;felvesz
+ostaa herkkuja;to buy snacks;Vásároljon finomságokat
+näytellä;to act;játék
+esiintyä;to perform;előfordul
+dubata;to dub;dub
+filmata;to shoot;film
+Haluatko käydä elokuvissa?;Do you want to go to the movies?;Moziba akar menni?
+Tulisitko mukaan elokuviin?;Would you come to the movies with me?;Jöjnél a moziba?
+Haluatko käydä katsomassa tätä elokuvaa?;Do you want to go see this movie?;Szeretné meglátogatni ezt a filmet?
+Oletko nähnyt tämän elokuvan?;Have you seen this movie?;Láttad már ezt a filmet?
+Oletko jo nähnyt sen leffan?;Have you seen this movie already?;Láttad már azt a filmet?
+Oletko kuullut tästä elokuvasta?;Have you heard of this movie?;Hallottál már erről a filmről?
+Oletko nähnyt tämän elokuvan trailerin?;Have you seen the trailer of this movie?;Láttad már ezt a film előzetesét?
+En halua nähdä tuota elokuvaa.;I don't want to see that movie.;Nem akarom látni azt a filmet.
+Olen nähnyt tuon elokuvan jo.;I've seen that movie already.;Láttam már azt a filmet.
+Elokuvan ensi-ilta on huomenna.;The movie premieres tomorrow.;A film holnap premierje.
+Varasin meille jo liput.;I already reserved tickets for us.;Már foglaltam nekünk jegyeket.
+Voitko varata meille liput?;Can you reserve tickets for us?;Tudna foglalni nekünk jegyeket?
+Ostetaan liput paikan päällä.;Let's buy the tickets on site.;Jegyeket vásároljon a helyszínen.
+Missä on elokuvateatteri?;Where is the cinema?;Hol van a mozi?
+Tavataan elokuvateatterin edessä.;Let's meet in front of the cinema.;Találkozzon a mozi előtt.
+Tavataan aulassa.;Let's meet in the entrance hall.;Találkozz az előcsarnokban.
+Tavataan aulassa kolmelta.;Let's meet in the entrance hall at three.;Találkozzon az előcsarnokban háromkor.
+Missä haluaisit istua?;Where would you like to sit?;Hová szeretne ülni?
+En tykkää istua eturivissä.;I don't like to sit on the front row.;Nem szeretem ülni az első sorban.
+Haluan istua suht takana.;I want to sit fairly far back.;Közvetlenül hátul akarok ülni.
+Haluan istua mahdollisimman takana.;I want to sit as far back as possible.;A lehető legtávolabb akarok ülni.
+Istun mieluummin edessä kuin takana.;I rather sit in the front than the back.;Az elülső, nem pedig a vissza ülök.
+Olisiko vielä tilaa takariveillä?;Would there still be space in the back rows?;Még mindig lenne hely a hátsó sorokon?
+Haluan istumapaikan keskellä riviä.;I want a seat in the middle of the row.;Szeretnék egy ülőhelyet egy sor közepén.
+Kaksi lippua puoli neljän näytökseen.;Two tickets for the 15:30 show.;Két jegy a fél négy előadásra.
+Näytös alkaa puoli neljältä.;The screening starts at 15:30.;A show fél négynél kezdődik.
+Ostetaanko irtokarkkeja?;Shall we buy pick and mix candy?;Vásárolsz laza cukorkákat?
+Haluatko popcornia?;Do you want popcorn?;Szeretne pattogatott kukoricát?
+Onpas karkit täällä kalliita.;Wow the candy is expensive here.;Milyen édesség itt drága.
+Kaksi isoa popparia, kiitos.;Two big popcorns, please.;Két nagy popper, köszönöm.
+Millaisista elokuvista pidät?;What kind of movies do you like?;Milyen filmeket szeretsz?
+Tykkäätkö musikaaleista?;Do you like musicals?;Tetszik a zenék?
+Tykkäätkö kauhuelokuvista?;Do you like horror movies?;Tetszik a horrorfilmek?
+Onko sinulla lempinäyttelijä?;Do you have a favorite actor?;Van kedvenc színészed?
+Kuka on sinun lempinäyttelijäsi?;Who is your favorite actor?;Ki a kedvenc színésznőd?
+Onko tämä kotimainen elokuva?;Is this a Finnish movie?;Ez egy hazai film?
+Oletko nähnyt monia kotimaisia elokuvia?;Have you seen many Finnish movies?;Láttál sok hazai filmet?
+Me pidämme samantyylisistä elokuvista.;We like similar movies.;Szeretjük ugyanazokat a stílusú filmeket.
+Olipa hyvä leffa!;Wow that was a great movie!;Jó film volt!
+Tämä oli ihan hyvä elokuva.;This was a pretty good movie.;Ez egy nagyon jó film volt.
+Tämä oli kamala elokuva.;This was a terrible movie.;Ez egy szörnyű film volt.
+Tämä elokuva oli liian pelottava minulle.;This movie was too scary for me.;Ez a film túl félelmetes volt számomra.
+En tykännyt ollenkaan tuosta leffasta.;I didn't like that movie at all.;Egyáltalán nem tetszett ez a film.

@@ -1,0 +1,152 @@
+Finnish;English;hungarian
+pankki;bank;bank
+konttori;office;hivatal
+asuntolaina;mortgage;jelzálog
+henkivakuutus;life insurance;életbiztosítás
+kassakaappi;safe;biztonságos
+korko;interest;kamat
+käyttötili;current account, checking account;beszámoló
+lainanlyhennys;repayment on a loan;kölcsön -visszafizetés
+lasku;bill;esik
+liikepankki;commercial bank;kereskedelmi bank
+luotto;credit;hitel
+luottotiedot;credit information;hitel információ
+luottokortti;credit card;hitelkártya
+luottokorttimaksu;credit card payment;hitelkártya -fizetés
+luottoraja;credit limit;hitelkeret
+lähimaksu;contactless payment;bezár
+mobiilimaksu;mobile payment;mobil fizetés
+nostoraja;withdrawal limit;emelési határ
+osuuspankki;cooperative bank;szövetkezeti bank
+pankinjohtaja;bank manager;bankvezető
+pankkiautomaatti;cash dispenser;ATM
+pankkiholvi;bank vault;boltozat
+pankkiiri;banker;bankár
+pankkipalvelut;banking services;banki szolgáltatások
+pankkisiirto, tilisiirto;bank transfer;Bank átutalás, bankátutalás
+pankkikortti;bank card;betéti kártya
+pankkilaina;bank loan;bankhitel
+pankkitalletus;bank deposit;bankfizetés
+pankkitili;bank account;bankszámla
+pankkivirkailija;bank clerk;bankminiszter
+perintä;debt collection;gyógyulás
+saldo;balance on an account;egyensúly
+shekki;cheque;ellenőrzés
+säästöpankki;savings bank;takarékpénztár
+säästötili;savings account;takarékszámla
+talletuskorko;deposit rate;betéti ráta
+talletustili;deposit account;betéti számla
+tilinumero;bank account number;számlaszám
+tiliote;bank statement;nyilatkozat
+tunnusluku, PIN-koodi;pin number;Tű, tű
+vakuutus;insurance;biztosítás
+vakuutusyhtiö;insurance company;biztosítótársaság
+valuutta;currency;valuta
+valuuttakurssi, vaihtokurssi;exchange rate;árfolyam, árfolyam
+velan lyhennys;debt repayment;adósság -visszafizetés
+velka;debt;adósság
+asioida pankissa;to do business at the bank;bankügyek
+avata tili;to open an account;Nyisson meg egy számlát
+erääntyä;to become due;érett
+kasvaa korkoa;to grow interest;növekszik az érdeklődés
+käyttää luottokorttia;to use a credit card;Használjon hitelkártyát
+käyttää pankkikorttia;to use a bank card;Használjon bankkártyát
+käyttää verkkopankkia;to use online banking;Használjon online banki szolgáltatást
+lainata pankista;to borrow from the bank;hitelt kölcsönöz
+lähettää rahaa ulkomaille;to send money abroad;Küldjön pénzt külföldre
+maksaa lasku;to pay a bill;Vedd fel a fület
+nostaa käteistä;to withdraw cash;készpénzt gyűjt
+näppäillä tunnusluku;to enter the pin code;Írja be a jelzőt
+saada laina;to get a loan;hitelt szerez
+siirtää rahaa;to transfer money;átutal
+sulkea, kuolettaa pankkikortti;to freeze a bankcard;A bezáráshoz becsapja a betéti kártyáját
+säästää rahaa;to save money;pénzt takaríthat meg
+tallettaa rahaa;to deposit money;befizetési pénz
+tilata uusi kortti;to order a new card;Rendeljen új kártyát
+täyttää lainahakemus;to fill out a loan application;A hitelkérelem kitöltése
+vaihtaa valuuttaa;to exchange currency;árut pénznem
+Minun pitää käydä pankissa.;I have to go to the bank.;Meg kell látogatnom a bankot.
+Minun on pakko käydä konttorissa.;I must go to the bank office.;El kell mennem az irodába.
+Haluaisin avata tilin.;I would like to open an account.;Szeretnék egy fiókot megnyitni.
+Haluaisin avata säästötilin.;I would like to open a savings account.;Szeretnék megnyitni egy megtakarítási számlát.
+Tarvitsen pankkitilin.;I need a bank account.;Szükségem van egy bankszámlára.
+Tarvitsen käyttötilin.;I need a checking account.;Szükségem van egy működési fiókra.
+Vaimoni ja minä tarvitsemme yhteisen tilin.;My wife and I need a joint account.;A feleségemmel és nekünk van szükségünk egy közös számlára.
+Mikä on säästötilin korko?;What's the interest rate of the savings account?;Mi a kamatláb a megtakarítási számlán?
+Säästötili tarjoaa 0,75 % korkoa.;The savings account offers an interest rate of 0.75%.;A megtakarítási számla 0,75 % kamatot kínál.
+Asun pysyvästi Suomessa.;I permanently live in Finland.;Véglegesen Finnországban élek.
+Miten voin käyttää verkkopankkia?;How can I use online banking?;Hogyan használhatom az online banki szolgáltatást?
+Verkkopankki ei toimi.;Online banking doesn't work;Az online bank nem működik.
+Haluan tallettaa nämä rahat säästötililleni.;I want to deposit this money in my savings account.;Szeretném letétbe helyezni ezeket a pénzt a megtakarítási számlámra.
+Haluaisin tallettaa nämä rahat tililleni.;I would like to deposit this money into my account.;Szeretném letétbe helyezni ezeket a pénzt a számlámra.
+Haluaisin lähettää rahaa ulkomaille.;I would like to send money abroad.;Szeretnék pénzt küldeni külföldön.
+Miten maksan ulkomaanmaksun?;How do I pay a cross-border payment?;Hogyan fizethetek külföldi fizetést?
+Haluan siirtää rahaa ystävän tilille.;I want to transfer money to a friend's account.;Pénzt akarok átutalni egy barátom számlájára.
+Haluaisin nostaa 1000 euroa.;I would like to withdraw 1000 euros.;Szeretnék 1000 eurót gyűjteni.
+Haluaisin vaihtaa valuuttaa.;I would like to exchange currency.;Szeretném megváltoztatni a valutát.
+Mikä on Yhdysvaltain dollarin vaihtokurssi?;What's the exchange rate for USD?;Mi az amerikai dollárárfolyam?
+Tarvitsen laajan kotivakuutuksen.;I need extensive home insurance.;Szükségem van kiterjedt otthoni biztosításra.
+Tarvitsen lainaa autoon.;I need a loan for a car.;Hitelre van szükségem egy autóhoz.
+Tarvitsen apua asuntolainan hakemisessa.;I need help applying for a mortgage.;Segítségre van szükségem a jelzálogkölcsön igényléséhez.
+Haluaisin puhua jonkun kanssa asuntolainoista.;I would like to talk to someone about mortgages.;Szeretnék beszélni valakivel a jelzálogkölcsönökről.
+Miksi lainahakemukseni hylättiin?;Why was my loan application rejected?;Miért utasították el a hitelkérelmet?
+Tarvitsen tiliotteen.;I need a bank statement.;Szükségem van egy számla kimutatásra.
+Unohdin pankkikorttini PIN-koodin.;I forgot my bank card's pin code.;Elfelejtettem a betéti kártya PIN -kódomat.
+Haluaisin tilata uuden tunnusluvun.;I'd like to order a new pin code.;Szeretnék megrendelni egy új kulcsfigurát.
+Kadotin pankkikorttini.;I lost my bank card.;Elvesztettem a betéti kártyámat.
+Haluan sulkea korttini välittömästi.;I want to freeze my card immediately.;Azonnal el akarom zárni a kártyámat.
+Pankkikorttini pitää kuolettaa heti.;My debit card must be frozen right away.;A betéti kártyámnak azonnal halottnak kell lennie.
+Sain maksukehotuksen, vaikka maksoin jo.;I received a payment request, though I already paid.;Kaptam egy fizetési kérelmet, bár már fizettem.
+Sain aiheettoman maksumuistutuksen.;I received an undue payment reminder.;Felesleges emlékeztetőt kaptam a fizetésről.
+Olen jo maksanut tämän laskun.;I have already paid this bill.;Már megfizettem ezt a számlát.
+Tililtäni veloitettiin sama maksu kaksi kertaa.;My account was charged twice for the same fee.;Ugyanezt a díjat kétszer számítottam a számlámra.
+Tarvitsen lisää maksuaikaa.;I need more payment time.;Több fizetési időre van szükségem.
+Tilinne on ylitetty.;Your account has been overdrawn.;Fiókját túllépték.
+Nostovara ei riitä.;Insufficient funds.;Az emelési tartalék nem elég.
+Olen unohtanut verkkopankin tunnuslukuni.;I've forgotten my pin for online banking.;Elfelejtettem az online bankkulcsomat.
+Olen unohtanut pankkikortin tunnuslukuni.;I've forgotten my bank card's pin code.;Elfelejtettem a betéti kártyámat.
+e-lasku;e-bill, e-invoice;e-áruit
+e-laskusopimus;e-invoicing agreement;E-áruit
+eräpäivä;due date;esedékesség időpontja
+erääntyvät maksut;payments due;fizetendő kifizetések
+hyväksyä maksu;to approve a payment;Fogadja el a fizetést
+hyväksyä tunnistuspyyntö;to accept an authentication request;jóváhagyja az azonosítási kérelmet
+katevaraus;covering funds, cushion;margó
+kirjautua verkkopankkiin;to log in to online banking;Jelentkezzen be az online banki tevékenységbe
+kirjautua sisään;to sign in;bejelentkezik
+kirjautua ulos;to sign out;kijelentkezik
+käyttäjätunnus;username;felhasználónév
+käyttövara;money available;hatókör
+maksu;payment;fizetés
+maksupäivä;day of payment;kifejezés
+maksun saaja;payment receiver, beneficiary;fizetési címzett
+menot;expenses;kiadás
+mobiilivarmenne;mobile certificate;mobil bizonyítvány
+määrä;amount;szám
+pankkisovellus;banking application;bankkérelem
+saajan tilinumero;beneficiary's account number;a címzett számlaszáma
+salasana;password;jelszó
+suoraveloitus;direct debit;közvetlen terhelés
+tehdä maksu, maksaa;to make a payment, to pay;fizetni, fizetés
+tilitapahtuma;account transaction;számlaügylet
+toistuva maksu;recurring payment;ismétlődő díj
+tulot;income;bevétel
+tunnistuspyyntö;identification request;kér
+tunnistussovellus;authentification application;azonosító alkalmazás
+turvakortti;security card;biztonsági kártya
+veloitustili;debit account;díjszámla
+verkkopankki;online bank;online banki szolgáltatás
+viitenumero;reference number;referencia szám
+Käytän yleensä verkkopankkia.;I usually use online banking.;Általában online banki szolgáltatást használok.
+Hoidan pankkiasiani verkossa.;I handle my banking online.;Online gondoskodom a banki tevékenységemről.
+Hoidan pankkiasiat tietokoneella.;I handle my banking on the computer;Bankálom a bankot egy számítógépen.
+Hoidan pankkiasiat älypuhelimellani.;I handle my banking on my smartphone.;Az okostelefonommal kezelem a banki tevékenységemet.
+Suoritan maksun verkkopankissa.;I make the payment in online banking.;Fizettem az online banki szolgáltatásokban.
+Kirjaudun verkkopankkiin.;I log in to online banking.;Bejelentkezem az online banki tevékenységbe.
+Siirsin rahat sinun tilillesi.;I transferred the money to your account.;Átutaltam a pénzt a számlájára.
+Siirrän rahaa säästötililleni.;I transfer money to my savings account.;Pénzt adok át a megtakarítási számlámra.
+Käyn pankkiautomaatilla.;I go to the ATM.;Megyek az ATM -re.
+Nostan rahaa pankkitililtä.;I withdraw money from my bank account.;Pénzt vonok ki egy bankszámláról.
+Sinulle on tullut e-lasku.;You have received an e-invoice.;Kapsz egy e-áruit.
+Sinulle on tullut uusi viesti verkkopankkiin.;You have received a new message in online banking.;Új üzenetet kapott az online banki szolgáltatásoknak.
+Maksu ei ole veloitettu tililtä.;The payment hasn't been debited from your account.;A fizetést nem számították fel a számlára.
