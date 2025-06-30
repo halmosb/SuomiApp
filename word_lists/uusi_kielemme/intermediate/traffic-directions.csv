@@ -1,0 +1,138 @@
+Finnish;English;hungarian
+katu;street;utca
+pääkatu;main street;főutca
+tie;road;út
+kuja;alley;sikátor
+kaista;lane;sáv
+valtatie, moottoritie;highway, motorway;autópálya
+maatie;country road;föld
+kiertotie;detour;kerülőút
+oikotie;shortcut;parancsikon
+ohikulkuväylä;bypass;átmenő sáv
+yksisuuntainen;one-way;egyirányú
+suojatie;zebra crossing;zebra kereszteződés
+jalkakäytävä;pavement;járda
+pyörätie;bicycle lane;kerékpáros út
+risteys;crossroads;útkereszteződés
+bussipysäkki;bus stop;buszmegálló
+bussiasema, linja-autoasema;bus station;buszpályaudvar, buszpályaudvar
+juna-asema, rautatieasema;train station;vasútállomás, vasútállomás
+kortteli;city block;tömb
+liikennevalot;traffic lights;közlekedési lámpák
+pankkiautomaatti;ATM;ATM
+pankki;bank;bank
+hotelli;hotel;szálloda
+sairaala;hospital;kórház
+eläintarha;zoo;állatkert
+ruokakauppa;grocery store;élelmiszerbolt
+posti;post office;postai
+poliisiasema;police station;rendőrség
+satama;harbor;kikötő
+lähellä;close by;közel
+vieressä;next to;mellett
+edessä;in front of;elöl
+kohdalla;at;alatt, nál
+takana;behind;dupla ruhával
+vastapäätä;across;szemben
+ohi;past;elmúlt
+ali;under;alatt
+yli;over;felett
+kohti;towards;felé
+pitkin;along;mentén
+eteenpäin;ahead;előre
+asti, saakka;until;-ig
+kaukana;far away;messze
+Kotini on (lähellä kirkkoa / kirkon lähellä).;My home is close to the church.;Az otthonom (a templom közelében / a templom közelében).
+Apteekki on (pankin vieressä).;The pharmacy is next to the bank.;A gyógyszertár (a bank mellett).
+Postilaatikko on (pankin edessä).;The mailbox is in front of the bank.;A postaláda (a bank előtt).
+Se sijaitsee (risteyksen kohdalla).;It's located at the crossroads.;Található (a kereszteződésnél).
+Pankki on (hotellin takana).;The bank is behind the hotel.;A bank (a szálloda mögött) van.
+Pankki on (hotellin vastapäätä).;The bank is across the road from the hotel.;A bank (a szállodával szemben).
+Aja (kirkon ohi).;Drive past the church.;Hajtás (a templom mellett).
+Kävele (sillan ali).;Walk under the bridge.;Séta (a híd alatt).
+Aja (sillan yli).;Drive over the bridge.;Hajtás (a hídon).
+Aja (kohti bussiasemaa).;Drive towards the bus station.;Hajtás (a buszpályaudvar felé).
+Kävele (katua pitkin).;Walk down/along the street.;Séta (az utca mentén).
+Aja (suoraan eteenpäin).;Drive straight ahead.;Hajtás (egyenesen előre).
+Seuraa tietä (risteykseen saakka / asti).;Follow the road up to the crossroads.;Kövesse az utat (egészen a kereszteződésig).
+Asun (kaukana keskustasta).;I live far from the city center.;Élek (távol a központtól).
+tässä;here (small space, nearby);itt (kis hely közel)
+täällä;here (bigger space, nearby);itt (nagy hely közel)
+tuossa;over there (small space, close enough to see);ott (kis hely, lehet látni)
+tuolla;over there (bigger space, close enough to see);ott (nagy hely, lehet látni)
+siinä;there (small space, too far to see);ott (kis hely, nem lehet látni)
+siellä;there (bigger space, too far to see);ott (nagy hely, nem lehet látni)
+Anteeksi, mutta missä on..?;Excuse me, but where is..?;Sajnálom, de hol van ..?
+Anteeksi, mutta missä on lähin ruokakauppa?;Excuse me, but where is the nearest grocery store?;Sajnálom, de hol van a legközelebbi élelmiszerbolt?
+Osaatko sanoa, missä lähin posti on?;Can you tell me where the nearest post office is?;Meg tudod mondani, hol van a legközelebbi levél?
+Osaatko neuvoa, missä rautatieasema on?;Can you explain where the train station is?;Tudna tanácsot adni, hol van a vasútállomás?
+Tiedätkö, missä täällä on lähin pankki?;Do you know where the closest bank is here?;Tudja, hol van itt a legközelebbi bank?
+Anteeksi, mutta missä on bussiasema?;Excuse me, but where is the bus station?;Sajnálom, de hol van a buszpályaudvar?
+Anteeksi, mutta missä on lähin bussipysäkki?;Excuse me, but where is the closest bus stop?;Sajnálom, de hol van a legközelebbi buszmegálló?
+Onko tässä lähellä supermarkettia?;Is there a supermarket near here?;Ez közel van a szupermarkethez?
+Onko tässä lähellä pankkiautomaattia?;Is there an ATM near here?;Van egy közeli ATM?
+Miten pääsen täältä linja-autoasemalle?;How can I get to the bus station from here?;Hogyan juthatok ide a buszpályaudvarra?
+Miten pääsen täältä rautatieasemalle?;How can I get to the train station from here?;Hogyan juthatok ide a vasútállomásra?
+Voisitko näyttää kartalta, missä olemme?;Could you show on the map where we are?;Kereshetne úgy, mint egy térkép, ahol vagyunk?
+Kuinka pitkä matka sinne on?;How long of a trip is it to there?;Meddig van?
+Onko sinne pitkä matka?;Is it a long way there?;Van még hosszú út?
+Onko se kaukana täältä?;Is it far away from here?;Messze van innen?
+Kuinka kaukana se on?;How far is it?;Milyen messze van?
+Pääsenkö sinne kävellen?;Can I get there by foot?;Sétálhatok oda?
+Pääsenkö sinne bussilla?;Can I get there by bus?;Busszal juthatok oda?
+Pääsenkö sinne tällä bussilla?;Can I get there with this bus?;Eljuthatok odajutni ezen a buszon?
+Millä bussilla pääsen sinne?;With what bus can I get there?;Milyen buszra juthatok oda?
+Mikä bussi menee Hervantaan?;Which bus goes to Hervanta?;Melyik busz megy Hervanta -hoz?
+Missäpäin linja-autoasema on?;Whereabout is the bus station?;Hol van a buszpályaudvar?
+Etsin tätä osoitetta.;I'm looking for this address.;Ezt a címet keresem.
+Olemmeko oikealla tiellä rautatieasemalle?;Are we on the right track to the train station?;A vasútállomás jó úton haladunk?
+Onko tämä oikea tie rautatieasemalle?;Is this the right road to the train station?;Ez a megfelelő út a vasútállomáshoz?
+Mene suoraan eteenpäin.;Go straight ahead.;Menj egyenesen előre.
+Jatka matkaa suoraan eteenpäin.;Continue straight ahead.;Folytassa egyenesen előre.
+Käänny oikealle.;Turn right.;Forduljon jobbra.
+Käänny oikealle Kotikadulle.;Turn right onto Kotikatu.;Forduljon jobbra Kotikatu felé.
+Käänny oikealle uimahallin jälkeen.;Turn right after the swimming hall.;Forduljon jobbra az uszoda után.
+Käänny vasemmalle.;Turn left.;Forduljon balra.
+Käänny vasemmalle Kotikadulle.;Turn left onto Kotikatu.;Forduljon balra Kotikatu -ra.
+Käänny vasemmalle kirkon jälkeen.;Turn left after the church.;Forduljon balra a templom után.
+Käänny seuraavasta risteyksestä oikealle.;Turn right at the next intersection.;Forduljon jobbra a következő kereszteződéstől.
+Käänny toisesta risteyksestä oikealle.;Turn right at the second intersection.;Forduljon jobbra egy másik kereszteződéstől.
+Käänny liikennevaloista vasemmalle.;Turn left at the traffic lights.;Forduljon balra a lámpáktól.
+Käänny ensimmäisestä liittymästä oikealle.;Turn right at the first exit.;Forduljon az első előfizetésről jobbra.
+Mene tuonne päin.;Go that way.;Menj oda.
+Aja tuon kadun kautta.;Drive via that street.;Haladjon az utcán.
+Mene tätä katua pitkin 500 metriä.;Go along this street for 500 meters.;Menj erre az utcára 500 méterre.
+Mene suoraan eteenpäin risteykseen asti.;Go straight ahead until the intersection.;Menj egyenesen a kereszteződéshez.
+Jatka suoraan liikennevalojen jälkeen.;Continue straight ahead after the lights.;Folytassa közvetlenül a közlekedési lámpák után.
+Aja Aleksanterinkatua pitkin.;Drive along Aleksanterinkatu.;Haladjon az Aleksanterin utca mentén.
+Aja suoraan liikennevaloihin asti.;Drive straight until the traffic lights.;Haladjon egyenesen a közlekedési lámpákhoz.
+Aja risteykseen asti.;Drive to the intersection.;Haladjon a kereszteződésig.
+Aja kunnes näet kirkon oikealla.;Drive until you see the church on the right.;Haladjon, amíg a jobb oldalon nem látja a templomot.
+Kävele suoraan kunnes tulet sillalle.;Walk straight ahead until you get to the bridge.;Sétáljon egyenesen, amíg el nem érkezik a hídhoz.
+Seuraa päätietä 500 metriä.;Follow the main road for 500 meters.;Kövesse a főút 500 métert.
+Aja noin 500 metriä.;Drive about 500 meters.;Vezetjen kb. 500 méter.
+Seuraa opasteita.;Follow the signposts.;Kövesse a jeleket.
+Ylitä silta.;Cross the bridge.;Keresse meg a hídot.
+Mene sillan ali.;Go under the bridge.;Menj a híd alá.
+Ylitä katu.;Cross the street.;Keressen át az utcán.
+Se on suoraan edessäsi.;It's right in front of you.;Közvetlenül előtted van.
+Olet perillä.;You've arrived.;Ott vagy.
+Se ei ole kaukana.;It's not far away.;Nem messze van.
+Se on (ihan) lähellä.;It's (pretty) close.;Ez (csak) a közelben.
+Se on aika lähellä.;It's quite close.;Nagyon közel van.
+Satama sijaitsee aika lähellä.;The harbor is located quite close.;A port meglehetősen közel van.
+Se on toinen katu oikealla.;It's the second street on the right.;Ez egy újabb utca a jobb oldalon.
+Se on ensimmäinen katu oikealla.;It's the first street on the right.;Ez az első utca a jobb oldalon.
+Se on kävelymatkan päässä.;It's within walking distance.;Sétatávolságra van.
+Sinne on kymmenen minuutin kävelymatka.;It's a ten-minute walk away.;Tíz perces séta van.
+Sinne kävelee viidessä minuutissa.;It takes five minutes to walk there.;Öt perc múlva sétálsz oda.
+Se on aika kaukana.;It's quite far away.;Nagyon messze van.
+Sinne ei kannata kävellä.;It's not worth walking there.;Nem érdemes odamenni.
+Ota bussi.;Take the bus.;Vegyünk busszal.
+Kannattaa mennä bussilla.;You should take the bus.;Érdemes busszal menni.
+Kannattaa mennä bussilla numero 25.;You should go by bus number 25.;Jó ötlet a 25. számú buszon menni.
+Ikävä kyllä en tiedä.;Unfortunately I don't know.;Sajnos nem tudom.
+Anteeksi, en tiedä.;Sorry, I don't know.;Sajnálom, nem tudom.
+Anteeksi, en tunne tätä kaupunginosaa.;Sorry, I don't know this neighborhood.;Sajnálom, nem ismerem ezt a környéket.
+Olen pahoillani, mutta en tiedä.;I'm sorry but I don't know.;Sajnálom, de nem tudom.
+En ole täältäpäin kotoisin.;I'm not from here.;Nem vagyok innen.
