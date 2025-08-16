@@ -11,6 +11,9 @@ content = content.replace('  ', ' ')
 content = content.replace('\n\n', '\n')
 content = content.replace(' ', ' ')
 content = content.replace('’', "'")
+content = content.replace("/", " / ")
+content = content.replace("  ", " ")
 
 with open(filepath, 'w', encoding='utf-8') as f:
     f.write(content)
+print(f"File saved.")

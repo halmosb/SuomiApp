@@ -1,0 +1,172 @@
+Finnish;English;Hungarian
+antenni;aerial;antenna
+auton akku;car battery;akkumulátor
+alusta;chassis;alváz
+bensakanisteri;gas can, jerrycan;benzinkanna
+hansikaslokero;glove compartment;kesztyűtartó
+kattoteline;roof rack;tetőcsomagtartó
+kierroslukumittari;tachometer;fordulatszámmérő
+kojelauta;dashboard;műszerfal
+kojetaulu;instrument panel;műszeregység
+konepelti;hood, bonnet;motorháztető
+käynnistysakku;starting, lighting, ignition battery;indítóakkumulátor
+lämmitin;heater;fűtőberendezés
+moottori;engine;motor
+niskatuki;headrest;fejtámla
+nopeusmittari;speedometer, speed indicator;sebességmérő
+pakoputki;exhaust pipe;kipufogócső
+puskuri;bumper;lökárító
+pölykapseli;hub cap, wheel disc;dísztárcsa
+rekisterikilpi;number plate;rendszámtábla
+rekisterinumero;license number;rendszám
+ratti, ohjauspyörä;steering wheel;kormánykerék
+säleikkö;grille, grill;hűtőrács
+takaluukku;tailgate;csomagtérajtó
+tavaratila;boot;csomagtartó
+trippimittari;trip meter, trip odometer;út-számláló
+tupakansytytin;cigarette lighter;szivargyújtó
+turvavyö;safety belt;biztonsági öv
+tuulilasi;windscreen, windshield;szélvédő
+tuulilasipyyhin, tuulilasinpyyhkijä;windscreen wiper, windshield wiper;ablaktörlő
+virta-avain;car key, ignition key;gyújtáskulcs
+virtalukko;ignition lock;gyújtáskapcsoló
+äänitorvi;horn;kürt
+töötti;horn (spoken);duda
+peili;mirror;tükör
+peruutuspeili, taustapeili;rear view mirror;visszapillantó tükör
+sivupeili;wing mirror;oldalsó tükör
+Valo/Valot;Light/Lights;Fény/Fények
+ajovalot, lähivalot, etuvalot;headlights;fényszórók
+päivävalot;daytime running lights;nappali menetfény
+jarruvalot;brake lights;féklámpa
+kaukovalo;full beam, driving beam;távolsági fényszóró
+parkkivalot;parking lights;helyzetjelző
+peruutusvalot;reversing lights;tolatólámpa
+seisontavalot;park lights;állólámpa
+sumuvalot;fog lights;köd lámpa
+sivuvalot;side lights;oldalfények
+takavalo;rear light, tail light;hátsó lámpa
+Vilkku;Blinker;Irányjelző
+vilkku;blinker;villogó
+suuntavilkku;turn signal;irányjelző
+suuntavalot;indicator lights;indexlámpák
+hätävilkku;emergency light, hazard light;vészvillogó
+Merkkivalot;Indicator lights;Visszajelző fények
+käsijarrun merkkivalo;brake warning light;kézifék jelzőfény
+varoitusvalo;warning light;figyelmeztető lámpa
+vikavalo;fault light, malfunction light;hiba jelzőfény
+Renkaat;Tires;Gumik
+rengas;tire, tyre;gumiabroncs
+kesärengas;summer tire;nyári gumi
+talvirengas;winter tire, snow tire;téli gumi
+kitkarengas;mud and snow tire;négyévszakos gumi
+nastarengas;studded tire;tüskés gumi
+vararengas;spare tire;pótkerék
+Istuimet;Seats;Ülések
+etupenkki, etuistuin;front seat;első ülés
+kuljettajan paikka;driver's seat;vezetőülés
+matkustajan paikka;passenger seat;utasülés
+pelkääjän / repsikan paikka;shotgun;anyósülés
+takapenkki, takaistuin;back seat;hátsó ülés
+turvaistuin;child's car seat;gyerekülés
+turvakaukalo;infant carrier;bébihordozó
+lastenistuin;child seat;gyermekülés
+Jarrut ja Polkimet;Brakes and Pedals;Fékek és Pedálok
+jarru;brake;fék
+jalkajarru;(foot) brake;lábfék
+käsijarru;handbrake;kézifék
+hätäjarru;emergency brake;vészfék
+seisontajarru;parking brake;állófék
+kaasupoljin;accelerator pedal;gázpedál
+jarrupoljin;brake pedal;fékkpedál
+kytkinpoljin;clutch pedal;kuplungpedál
+kytkin;clutch;kuplung
+kytkinkori;clutch basket;kuplungkosár
+kytkinvipu;clutch level;kuplungkar
+hidastin;retarder;lassítófék
+moottorijarru;engine brake;motorfék
+pakokaasujarru;exhaust brake;kipufék
+levyjarru;disc brake;tárcsafék
+etujarru;front brake;első fék
+jarruhihna;brake lining;fékbetét
+jarruneste;brake fluid;fékolaj
+Vaihteisto;Gearbox;Sebességváltó
+vaihde, vaihteet;gear, gears;sebesség, fokozat
+manuaali;manual;kézi váltó
+automaattinen;automatic;automata váltó
+ykkösvaihde;first gear;első fokozat
+vapaavaihde;second gear;üres (fokozat)
+peruutusvaihde;reverse gear;hátrameneti fokozat
+vaihdelaatikko;gear box;váltómű
+automaattinen vaihdelaatikko;automatic transmission;automata sebességváltó
+vaihteisto;gearbox, transmission;sebességváltó
+vaihdekeppi, vaihdevipu;gear stick;váltókar
+vaihdepoljin;shift lever;váltópedál
+vaihdetanko;gear shift lever;váltórúd
+Polttoaine;Fuel;Üzemanyag
+polttoaine;fuel, petrol;üzemanyag
+bensiini;gasoline, petrol;benzin
+bensa (spoken);gas(oline);benya (köznyelv)
+diesel;diesel;dízel
+lyijyllinen;leaded;ólmozott
+lyijytön;unleaded;ólommentes
+polttoainesäiliö;gas tank;üzemanyagtartály
+bensatankki;fuel tank;benzintank
+polttoainemittari;fuel indicator, fuel gauge, gas gauge;üzemanyag-mérő
+bensiinimittari;gas gauge;benzinmérő
+bensamittari;gas gauge (spoken);benzinszintmérő
+pakkasneste;anti-freeze coolant;fagyálló folyadék
+lasinpesuneste;screenwash;ablakmosó folyadék
+ruostesuojaus;anti-corrosion;rozsdagátlás
+vaha;wax;viasz
+Auton Runko ja Moottori;Car Frame and Engine;Autó váz és motor
+auton kori;body;karosszéria
+auton runko;car frame;autóváz
+akseli;axle, shaft;tengely
+akselipaino;axle load;tengelyterhelés
+akseliväli;wheelbase;tengelytáv
+kampiakseli;crankshaft;főtengely
+nivelakseli;drive shaft;kardántengely
+nokka-akseli;camshaft;vezérműtengely
+nostoakseli;lift axle;emelő tengely
+ohjaava akseli;drive axle;kormányzott tengely
+taka-akseli;rear axle;hátsó tengely
+vetoakseli;driveshaft, axle shaft;hajtótengely
+jousi;spring;rugó
+jousitus;suspension;felfüggesztés
+ilmajousi;air spring;légpárna
+ilmajousitus;air suspension;légfelfüggesztés
+kierrejousi;coil spring;csavarrugó
+vääntöjousi;torsion spring;torziós rugó
+paraabelijousi;parabolic spring;parabola rugó
+laakeri;bearing;csapágy
+runkolaakeri;main bearing;főtengelycsapágy
+ahdin;supercharger;feltöltő
+pakokaasuahdin, turboahdin;turbo charger;turbo feltöltő
+pakoputkisto, pakosarja;exhaust system;kipufogórendszer
+paineaaltoahdin;pressure wave supercharger;nyomáshullám-feltöltő
+mekaaninen ahdin;mechanical supercharger;mechanikus feltöltő
+ilmansuodatin;air filter;légszűrő
+polttomoottori;internal combustion engine;belső égésű motor
+sylinteri;cylinder;henger
+sylinterikansi;cylinder head;hengerfej
+kannentiiviste;head gasket;hengerfejtömítés
+sylinteriryhmä;cylinder block;hengertömb
+jarrutusnestesäiliö;brake fluid reservoir;fékolajtartály
+jäähdytysnestesäiliö;coolant reservoir;hűtőfolyadék-tartály
+sytytysjärjestelmä;ignition system;gyújtásrendszer
+sytytystulppa;spark plug;gyújtógyertya
+ventiili;valve;szelep
+venttiilikoneisto;valve gear;vezérmű
+virranjakaja;distributor;elosztó
+öljypohja;oil pan;olajteknő
+öljytikku;dipstick;olajpálca
+alakuolokohta (akk);bottom dead centre (BDC);alsó holtpont
+yläkuolokohta (ykk);top dead centre (TDC);felső holtpont
+iskunvaimennin;shock absorber;lökéscsillapító
+äänenvaimennin;silencer;hangtompító
+jäähdytin;radiator;hűtő
+kaasutin;carburetor;karburátor
+laturi;alternator;generátor
+levypyörä;disc wheel;tárcsás kerék
+voimansiirto;transmission;hajtáslánc

@@ -118,7 +118,7 @@ import re
 # For writing utf-8 characters to file
 import codecs
 
-FONT_SIZE = 14
+FONT_SIZE = 18
 
 # The different font settings (font family, size, weight)
 FONTS = {
