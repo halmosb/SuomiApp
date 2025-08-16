@@ -1,0 +1,146 @@
+Finnish;English;Hungarian
+Soitinten lajit;Types of instruments;Hangszertípusok
+kosketinsoitin;keyboard instrument;billentyűs hangszer
+kielisoitin;string instrument;húros hangszer
+puhallinsoitin;wind instrument;fúvós hangszer
+puupuhallin;woodwind instrument;fa-fúvós hangszer
+vaskipuhallin;brass instrument;rézfúvós hangszer
+lyömäsoitin;percussion instrument;ütőhangszer
+sähkösoitin;electrophone;elektromos hangszer
+Soitin;Instrument;Hangszer
+akustinen kitara;acoustic guitar;akusztikus gitár
+alttoviulu;viola;brácsa
+bassokitara;bass guitar;basszusgitár
+bassorumpu;bass drum;bőgődob
+cembalo;harpsichord;csembaló
+fagotti;bassoon;fagott
+flyygeli;grand piano;nagy zongora
+haitari / hanuri;accordion;harmonika
+harppu;harp;hárfa
+huilu;flute;fuvola
+huuliharppu;harmonica;szájharmonika
+hi-hat;hi-hat;Hi-hat
+kantele;kantele;kantele
+kitara;guitar;gitár
+klarinetti;clarinet;klarinét
+kongi;gong;gong
+kornetti;cornet;kornett
+kontrabasso;double-bass;nagybőgő
+kontrafagotti;contrabassoon;kontrafagott
+ksylofoni;xylophone;xylofon
+lattiarumpu;floor tom;lábdob
+lautanen, lautaset / symbaali, symbaalit;cymbal(s);cintányér(ok)
+Lisää soittimia;More instruments;További hangszerek
+mandoliini;mandoline;mandolin
+marakassit;maracas;marakas
+oboe;oboe;oboa
+pasuuna;trombone;harsona
+patarumpu;kettledrum;kettledob
+(pelimanni)viulu;violin, fiddle;hegedű
+piano;piano;zongora
+pikkolohuilu;piccolo;piccoló
+poikkihuilu;traverse flute;furulya
+rummut;drums;dobok
+rumpu;drum;dob
+rumpusetti;drum kit;dobkészlet
+saksofoni;saxophone;szaxofon
+sello;cello;cselló
+syntetisaattori;synthesizer;szintetizátor
+sähkökitara;electric guitar;elektromos gitár
+sähköurut;electric organ;elektromos orgona
+säkkipilli;bagpipe;duda
+tamburiini;tambourine;tamburin
+triangli;triangle;triángel
+trumpetti;trumpet;harsona / trombita
+tuuba;tuba;tuba
+urut;organ;orgona
+vetopasuuna;slide trombone;csúszós harsona
+vibrafoni;vibraphone;vibrafon
+virvelirumpu;snare drum;kisdob
+johto;cord;kábel
+jousi;bow;vonó
+kielet;strings;húrok
+kaikukoppa;body;test
+kaikusuppilo;bell;harang
+kaula;neck;nyak
+kitarahihna;guitar strap;gitárpánt
+kosketin;key;billentyű
+metronomi;metronome;metronóm
+nauhat;frets;bundok
+nuppi;knob;gomb
+otelauta;fretboard;húrlap
+pedaali;pedal;pedál
+plektra;pick;pengető
+rumpukapula;drumstick;ütő
+rumpuvispilä;drum brush;dobkefe
+satula;saddle;nyereg
+suukappale;mouthpiece;szájszög
+talla;bridge;híd
+vahvistin;amplifier;erősítő
+virityskoneisto;machine heads;hangolómechanika
+viritystapit;tuning pegs;hangolócsapok
+ääniaukko;sound hole;hanglyuk
+hanuristi, harmonikansoittaja;accordionist;harmonikás
+harpisti, harpunsoittaja;harpist;hárfás
+huilisti, huilunsoittaja;flutist;fuvolás
+kitaristi, kitaransoittaja;guitarist;gitáros
+klarinetisti, klarinetinsoittaja;clarinetist;klarinétos
+kontrabasisti, kontrabasson soittaja;double bassist;nagybőgős
+kontafagotisti, kontrafagotin soittaja;contra bassoonist;kontrafagottos
+kornetisti, kornetinsoittaja;cornetist;kornettos
+oboisti, oboensoittaja;oboist;oboás
+pasunisti, pasuunansoittaja;bassoonist;harsonás
+perkussionisti;percussionist;ütős
+pianisti, pianonsoittaja;pianist;zongorista
+rumpali, rumpujen soittaja;drummer;dobos
+sellisti, sellonsoittaja;cellist;csellista
+säkkipillinsoittaja;bagpiper;dudás
+trumpetisti, trumpetinsoittaja;trumpet player;harsonás / trombitás
+urkuri, urkujensoittaja;organist;orgonista
+viulisti, viulunsoittaja;violinist;hegedűs
+soittaa (+partitive);to play an instrument;hangszert játszani
+soittaa kitaraa;to play the guitar;gitározni
+soittaa rumpuja;to play the drums;dobon játszani
+soittaa huilua;to play the flute;fuvolázni
+harjoitella soittamista;to practice playing;játszani gyakorolni
+tuottaa ääni;to produce sound;hangot előállítani
+vahvistaa ääntä;to amplify the sound;hangot erősíteni
+painaa kieltä;to press a string;húrt lenyomni
+liikuttaa sormea;to move a finger;ujjat mozgatni
+näppäillä kieltä;to pluck a string;húrt pengetni
+rämpyttää;to strum;pengetni
+säätää;to adjust;beállítani
+säätää äänenkorkeutta;to adjust the pitch;hangmagasságot állítani
+virittää;to tune;hangolni
+pitää jousta;to hold the bow;vonót tartani
+polkea pedaalia;to pump the pedal;pedált nyomni
+lyödä kapuloilla;to hit with drumsticks;ütni az ütővel
+lyödä kalvoa;to strike the drumhead;ütni a dobfejet
+rummuttaa;to drum;dobolni
+pitää yllä tempoa;to maintain the tempo;tempót tartani
+puhaltaa;to blow;fújni
+värähdellä;to vibrate;rezegni
+resonoida;to resonate;rezonálni
+Toteamuksia;Statements;Állítások
+Minä soitan kitaraa.;I play the guitar.;Gitározom.
+Minä osaan soittaa kitaraa.;I know how to play the guitar.;Tudok gitározni.
+Minä soitan rumpuja.;I play the drums.;Dobolok.
+Minä soitan viulua.;I play the violin.;Hegedülök.
+Minä soitan viulua aika huonosti.;I play the violin pretty badly.;Elég rosszul hegedülök.
+Minä soitan trumpettia.;I play the trumpet.;Harsonázom.
+Minä en soita mitään.;I don't play anything.;Semmit sem játszom.
+Minä en osaa soittaa mitään.;I don't know how to play any instrument.;Nem tudok semmit játszani.
+Minä haluan oppia soittamaan kitaraa.;I want to learn to play the guitar.;Meg akarok tanulni gitározni.
+Minä osasin soittaa kitaraa lapsena.;I knew how to play the guitar as a child.;Gyerekkoromban tudtam gitározni.
+Kysymyksiä;Questions;Kérdések
+Mitä soitinta sinä osaat soittaa?;What instrument can you play?;Milyen hangszert tudsz játszani?
+Soitatko kitaraa?;Do you play the guitar?;Gitározol?
+Soitatko bassoa?;Do you play the bass?;Basszust játszol?
+Osaatko soittaa huilua?;Do you know how to play the flute?;Tudsz fuvolázni?
+Soittaisit minulle?;Could you play for me?;Eljátszanád nekem?
+Mitä soitinta haluaisit soittaa?;What instrument would you like to play?;Milyen hangszert szeretnél játszani?
+Soitetaanko yhdessä?;Shall we play instruments together?;Játszunk együtt?
+Minkäikäisenä opit soittamaan kitaraa?;At what age did you learn to play guitar?;Mennyi idős korodban tanultál gitározni?
+Onko sinulla oma piano Suomessa?;Do you have your own piano in Finland?;Van saját zongorád Finnországban?
+Missä voisin oppia soittamaan pianoa?;Where could I learn to play the piano?;Hol tanulhatnék zongorázni?
+Mistä saisin yksityistunteja?;Where could I get private lessons?;Hol vehetnék magánórákat?
