@@ -1415,6 +1415,13 @@ class GUI:
             label.grid(column = 0, row = row)
         # Gets the list
         tree, scrollbar = self.get_list(headers, indecies, parent)
+        
+        # Create a new style for the Treeview with larger font
+        style = ttk.Style()
+        style.configure("Custom.Treeview", font=FONTS["table"], rowheight=30)  # bigger font for rows
+        style.configure("Custom.Treeview.Heading", font=FONTS["table_header"])  # bigger font for headings
+        tree.configure(style="Custom.Treeview")
+
         # Puts the tree onto the window
         tree.grid(row =row + 1, column = 0, sticky = 'nsew', columnspan=columnspan)
         # Puts the scrollbar onto the window
