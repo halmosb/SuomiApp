@@ -11,23 +11,17 @@ Matkustan Ouluun joulun jälkeen.;I will travel to Oulu after Christmas.;Karács
 Luen kirjat tunnissa.;I will finish reading them in one hour.;Egy óra alatt elolvasom a könyveket
 Luen kirjat kahdessa tunnissa.;I will finish reading them in two hours.;Két óra alatt elolvasom a könyveket
 Luen kirjat puolessa tunnissa.;I will finish reading them in half an hour.;Fél óra alatt elolvasom a könyveket
-Luen kirjat tunniksi.;I will read for the duration of an hour.;Egy órára olvasom a könyveket
-Luen kirjat tunnin ajan.;I will read for the duration of an hour.;Egy órán át olvasom a könyveket
+Luen kirjat tunnin ajan / tunniksi / tunnin.;I will read for the duration of an hour.;Egy órán át olvasom a könyveket
 Luen kirjat vajaan tunnin ajan.;I will read for a bit less than an hour.;Kicsivel kevesebb mint egy órán át olvasom a könyveket
-Luen kirjat tunnin.;I will read for the duration of an hour.;Egy óráig olvasom a könyveket
 Luen kirjat tunnin sisällä.;I will finish reading them within one hour.;Egy órán belül elolvasom a könyveket
-Luen kirjat tunnin kuluttua.;I will start reading them in an hour.;Egy óra múlva kezdem elolvasni a könyveket
+Luen kirjat tunnin päästä / kuluttua.;I will start reading them in an hour.;Egy óra múlva kezdem elolvasni a könyveket
 Luen kirjat kahden tunnin kuluttua.;I will start reading them two hours from now.;Két óra múlva kezdem elolvasni a könyveket
-Luen kirjat tunnin päästä.;I will start reading them in an hour.;Egy óra múlva kezdem elolvasni a könyveket
 Luin kirjat puoli tuntia sitten.;I read the books half an hour ago.;Fél órája olvastam el a könyveket
 Luin kirjat tunti sitten.;I read the books an hour ago.;Egy órája olvastam el a könyveket
 En lukenut tuntiakaan.;I didn't read for even an hour.;Még egy órát sem olvastam
 En lukenut moneen tuntiin.;I didn't read in many hours.;Sok órán keresztül nem olvastam
-Se alkaa kello kolme.;It starts at three o'clock.;Háromkor kezdődik
-Se alkaa kolmelta.;It starts at three o'clock.;Három órakor kezdődik
-Se alkaa kolmen maissa.;It starts around three o'clock.;Három körül kezdődik
-Se alkaa kolmen aikaan.;It starts around three o'clock.;Három körül kezdődik
-Se alkaa kolmen aikoihin.;It starts around three o'clock.;Három körül kezdődik
+Se alkaa kolmelta / kello kolme.;It starts at three o'clock.;Háromkor kezdődik
+Se alkaa kolmen maissa / aikaan / aikoihin.;It starts around three o'clock.;Három körül kezdődik
 Se alkaa kolmeen mennessä.;It will start by three o'clock.;Háromig kezdődik
 Se ei ala kolmelta.;It won't start at three o'clock.;Háromkor nem kezdődik
 Se ei ala kolmeltakaan.;It won't start at three o'clock either.;Háromkor sem kezdődik
@@ -39,7 +33,7 @@ Se kestää tämän viikon.;It will take this whole week.;Ezen a héten tart
 Se kestää koko viikon.;It will take the whole week.;Egész héten tart
 Se kestää viikkoja.;It will take weeks.;Hétig tart
 Opiskelen suomea viikon.;I will study Finnish for a week.;Egy hétig tanulok finnül
-Opiskelen suomea viikon ajan.;I will study Finnish for the duration of a week.;Egy hétig tanulok finnül
+Opiskelen suomea viikon ajan.;I will study Finnish for the duration of a week.;Egy hét ideig tanulok finnül
 Opiskelen suomea koko viikon.;I will study Finnish the whole week.;Egész héten tanulok finnül
 Opiskelen suomea kaksi viikkoa.;I will study Finnish for two weeks.;Két hétig tanulok finnül
 Olen opiskellut suomea viikon.;I have been studying Finnish for a week.;Egy hete tanulok finnül
@@ -50,26 +44,22 @@ Opiskelen suomea ensi viikolla.;I will study Finnish next week.;Jövő héten ta
 Opiskelin suomea viime viikolla.;I studied Finnish last week.;Múlt héten tanultam finnül
 Opiskelin suomea viikko sitten.;I studied Finnish a week ago.;Egy hete tanultam finnül
 Opiskelin suomea kolme viikkoa sitten.;I studied Finnish three weeks ago.;Három hete tanultam finnül
-Opiskelen suomea viikon päästä.;I will study Finnish a week from now.;Egy hét múlva tanulok finnül
+Opiskelen suomea viikon päästä / kuluttua.;I will study Finnish a week from now.;Egy hét múlva tanulok finnül
 Opiskelen suomea kahden viikon päästä.;I will study Finnish two weeks from now.;Két hét múlva tanulok finnül
-Opiskelen suomea viikon kuluttua.;I will study Finnish a week from now.;Egy hét múlva tanulok finnül
 Opiskelen suomea kolmen viikon kuluttua.;I will study Finnish three weeks from now.;Három hét múlva tanulok finnül
 Opiskelen suomea kerran viikossa.;I study Finnish once a week.;Hetente egyszer tanulok finnül
 Opiskelen suomea kolme kertaa viikossa.;I study Finnish three times a week.;Hetente háromszor tanulok finnül
-Opiskelen suomea ensi viikosta alkaen.;I will study Finnish starting next week.;Jövő héttől kezdve tanulok finnül
-Opiskelen suomea ensi viikosta lähtien.;I will study Finnish starting next week.;Jövő héttől kezdve tanulok finnül
+Opiskelen suomea ensi viikosta alkaen / lähtien.;I will study Finnish starting next week.;Jövő héttől kezdve tanulok finnül
 Opiskelen suomea joka viikko.;I study Finnish every week.;Minden héten tanulok finnül
 Opiskelen suomea joka toinen viikko.;I study Finnish every other week.;Minden második héten tanulok finnül
 Opin suomea viikossa.;I learned Finnish in a week.;Egy hét alatt tanultam finnül
 Opin suomea kahdessa viikossa.;I learned Finnish in two weeks.;Két hét alatt tanultam finnül
-Olen lomalla maanantaina.;I'm on vacation on Monday.;Hétfőn szabadságon vagyok
+Olen lomalla maanantaina / maanantaisin.;I'm on vacation on Monday.;Hétfőn szabadságon vagyok
 Olen lomalla ensi maanantaina.;I'm on vacation next Monday.;Jövő hétfőn szabadságon vagyok
 Olen lomalla tulevana maanantaina.;I'm on vacation coming Monday.;A következő hétfőn szabadságon vagyok
-Olen lomalla maanantaisin.;I'm on vacation on Mondays.;Hétfőnként szabadságon vagyok
 Olin lomalla viime maanantaina.;I was on vacation last Monday.;Múlt hétfőn szabadságon voltam
 Olen lomalla ensi maanantaista.;I'm on vacation starting next Monday.;Jövő hétfőtől szabadságon vagyok
-Olen lomalla maanantaista lähtien.;I'm on vacation starting from Monday.;Hétfőtől kezdve szabadságon vagyok
-Olen lomalla maanantaista alkaen.;I'm on vacation starting from Monday.;Hétfőtől kezdve szabadságon vagyok
+Olen lomalla maanantaista alkaen / lähtien.;I'm on vacation starting from Monday.;Hétfőtől kezdve szabadságon vagyok
 Olen lomalla joka toinen maanantai.;I'm on vacation every other Monday.;Minden második hétfőn szabadságon vagyok
 Olen lomalla maanantaiaamuna.;I'm on vacation during Monday morning.;Hétfő reggel szabadságon vagyok
 Olen lomalla koko maanantain.;I'm on vacation Monday the whole day.;Egész hétfőn szabadságon vagyok

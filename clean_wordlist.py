@@ -11,6 +11,7 @@ content = content.replace('  ', ' ')
 content = content.replace('\n\n', '\n')
 content = content.replace(' ', ' ')
 content = content.replace('’', "'")
+content = content.replace('…', "...")
 content = content.replace("/", " / ")
 content = content.replace("  ", " ")
 
