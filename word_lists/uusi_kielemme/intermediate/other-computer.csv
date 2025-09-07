@@ -1,0 +1,82 @@
+Finnish;English;Hungarian
+tietokone;computer;számítógép
+pöytätietokone;desktop computer;asztali számítógép
+kannettava tietokone;laptop;hordozható számítógép
+läppäri;laptop (spoken);laptop (köznyelvi)
+tabletti;tablet;tablet
+Tietokoneen osat;Parts of a computer;Számítógép részei
+cd-asema;cd-drive;CD-meghajtó
+emolevy;motherboard;alaplap
+hiiri;mouse;egér
+kaiutin;loudspeaker;hangszóró
+keskusmuisti;RAM;memória
+keskusyksikkö;CPU;processzor (központi egység)
+kiintolevy;hard disk;merevlemez
+kosketusnäyttö;touch screen;érintőképernyő
+levykeasema;floppy disk drive;floppy-meghajtó
+modeemi;modem;modem
+muistikortti;memory card;memóriakártya
+näppäimistö;keyboard;billentyűzet
+näyttö;screen;képernyő
+näytönohjain;graphics card;videokártya
+suoritin;processor;processzor
+tuuletin;fan;ventilátor
+tv-kortti;tv card;tévékártya
+virtalähde;power supply;tápellátás
+virtanappula;power button;bekapcsológomb
+Oheislaitteet;Related products;Perifériák
+printteri, tulostin;printer;nyomtató
+mustavalkotulostin;black and white printer;fekete-fehér nyomtató
+kuulokkeet;headphones;fülhallgató
+mikrofoni;microphone;mikrofon
+muistitikku;memory stick;pendrive
+palvelin;server;szerver
+piirtotabletti;drawing tablet;rajztábla
+reititin;router;router
+ulkoinen kiintolevy;external harddrive;külső merevlemez
+USB-muisti;USB memory;USB-tárhely
+USB-portti;USB port;USB-port
+web-kamera;web camera;webkamera
+Ohjelmisto;Software;Szoftver
+ajuri;driver;illesztőprogram
+ikkuna;window;ablak
+kansio;folder;mappa
+kuvake;icon;ikon
+kuvankäsittelyohjelma;picture manipulation program;képkezelő program
+käyttöjärjestelmä;operating system;operációs rendszer
+palomuuri;firewall;tűzfal
+pikakuvake;shortcut;parancsikon
+selain;browser;böngésző
+sähköpostiohjelma;email program;levelezőprogram
+taustakuva;background image;háttérkép
+tehtäväpalkki;the taskbar;feladat sáv
+tekstinkäsittelyohjelma;word processing program;szövegszerkesztő
+tekstitiedosto;text file;szövegfájl
+tiedosto;document;dokumentum
+tietokonepeli;computer game;számítógépes játék
+työpöytä;desktop;asztal (virtuális)
+valikko;menu;menü
+virustentorjuntaohjelma;antivirus program;vírusirtó
+Verbejä;Verbs;Igék
+etsiä tiedosto;to search for a document;fájl keresése
+hakea;to search;keresni
+kaksoisklikata;to double click;dupla kattintás
+klikata;to click;kattintani
+kirjoittaa;to type;gépelni
+kopioida;to copy;másolni
+käynnistää ohjelma;to start a program;programot indítani
+käyttää hiirtä;to use the mouse;egeret használni
+liittää;to paste;beilleszteni
+maalata teksti;to select text;szöveget kijelölni
+painaa enteriä;to press enter;enter megnyomása
+palauttaa tiedosto roskakorista;to restore a document from the trash;fájlt visszaállítani a kukából
+pienentää ikkuna;to make a window smaller;ablakot lekicsinyíteni
+poistaa tiedosto;to delete a document;fájlt törölni
+raahata;to drag (and drop);húzni (és ejteni)
+sammuttaa;to shut down;leállítani
+sulkea ohjelma;to close a program;programot bezárni
+surffailla netissä;to surf the net;netezni
+tallentaa;to save;menteni
+tallentaa nimellä;to save as;menteni másként
+tulostaa;to print;kinyomtatni
+tyhjentää roskakori;to empty the trash can;kuka kiürítése

@@ -1,0 +1,255 @@
+Finnish;English;Hungarian
+koronavirus;coronavirus, COVID-19;koronavírus
+korona;COVID;kovid
+virus;virus;vírus
+tauti;disease;kór
+oire;symptom;tünet
+lievä oire;mild symptom;enyhe jel
+vakava oire;serious symptom;súlyos tünet
+herkästi tarttuva;highly contagious;könnyen fertőző
+kuume;fever;láz
+yskä;cough;köhögés
+kurkkukipu;throat ache;torokfájás
+hengenahdistus;shortness of breath;légszomj
+hengitysvaikeuksia;breathing problems;légzési nehézségek
+lihaskivut;muscle pains;izomfájdalmak
+väsymys;fatigue;kimerültség
+nuha;the sniffles, head cold;nátha
+nenä tukossa;blocked nose;bedugult orr
+nenä vuotaa;runny nose;orrfolyás
+pahoinvointi;nausea;hányinger
+ripuli;diarrhea;hasmenés
+suu-nenäsuojus;surgical mask;orvosi maszk
+kasvomaski;face mask;arcmaszk
+suojavisiiri;face shield;védőpajzs
+hygienia;hygiene;tisztaság
+hyvä käsihygienia;good hand hygiene;jó kézmosási szokás
+käsidesi;hand disinfectant;kézfertőtlenítő
+käsihuuhde;hand sanitizer;alkoholos kézmosó
+saippua;soap;szappan
+lähikontakti;close contact;közeli érintkezés
+turvaväli;safety distance;biztonsági távolság
+karanteeni;quarantine;karantén
+kotikaranteeni;home quarantine;házi karantén
+sairasloma;sick leave;betegszabadság
+eristys;isolation;elkülönítés
+kotiinkuljetus;delivery;házhozszállítás
+etätyö;telecommuting;távmunka
+etäopiskelu;distance learning;távoktatás
+sairaalahoito;hospitalization;kórházi ellátás
+tehohoito;intensive care;intenzív terápia
+koronatesti;coronavirus test;koronavírusteszt
+virustestaus;virus testing;vírusvizsgálat
+koronapiste;coronavirus service point;koronapont
+positiivinen testitulos;positive test result;pozitív eredmény
+negatiivinen testitulos;negative test result;negatív eredmény
+maksuton;free of charge;ingyenes
+näytteenotto;sampling;minta vétel
+PCR-testiin;PCR test;PCR-vizsgálat
+pikatesti;rapid test;gyorsteszt
+antigeenitesti;antigen test;antigén teszt
+vasta-ainetesti;antibody test;ellenanyagteszt
+vasta-aine;antibody;ellenanyag
+väärä positiivinen;false positive;álpozitív
+näytteenottotikku;sample stick;minta pálcika
+nenänielu;nasopharynx;orrgarat
+sierain;nostril;orrlyuk
+rokote;vaccine;oltóanyag
+rokotus;vaccination;oltás
+rokotettu;vaccinated;oltott
+rokottamaton;unvaccinated;oltatlan
+yksi rokoteannos;one dose of the vaccine;egy oltás
+kaksi rokoteannosta;two doses of the vaccine;két oltás
+ensimmäinen rokoteannos;first dose of the vaccine;első adag
+toinen rokoteannos;second dose of the vaccine;második adag
+täysin rokotettu;fully vaccinated;teljesen oltott
+rokotetodistus;vaccination certificate;oltási igazolvány
+tehosterokote;booster vaccine;emlékeztető oltás
+rokoteyksikkö;vaccination unit;oltóhely
+rokotekattavuus;vaccine coverage;átoltottság
+tartuntatauti;infectious disease;fertőző betegség
+virustartunta;viral infection;vírusfertőzés
+pisaratartunta;droplet infection;cseppfertőzés
+epidemia;epidemic;járvány
+pandemia;pandemic;pandémia
+kuolema;death;halál
+kuolleisuus;mortality rate;halálozási arány
+tartuntaluvut;infection rates, case numbers;fertőzési adatok
+tiedotus;announcement;közlemény
+suositus;recommendation;ajánlás
+ohjeistus;instruction;utasítás
+määräys;regulation;rendelet
+rajoitus;restriction;korlátozás
+pakote;sanction;szankció
+tiukka rajoitus;strict restriction;szigorú korlátozás
+varotoimet;preventive measures;óvintézkedések
+varotoimenpide;precaution;elővigyázat
+poikkeusolot;emergency conditions;rendkívüli állapot
+toinen aalto;second wave;második hullám
+riskiryhmä;risk group;veszélyeztetett csoport
+riskimaa;risk country;veszélyes ország
+tartuntariski;risk of infection;fertőzésveszély
+neuvontanumero;hotline;tanácsadó szám
+neuvontapuhelin;helpline;segélyvonal
+terveydenhuolto;health care;egészségügy
+valtioneuvosto;council of state;kormány
+viranomaiset;authorities;hatóságok
+valmiuslaki;Emergency Powers Act;rendkívüli törvény
+koronapassi;COVID passport;védettségi igazolvány
+deltamuunnos, deltavariantti;Delta variant;Delta mutáció
+taudinkantaja;carrier;beteg hordozó
+supertartuttaja;superspreader;szuperfertőző
+immuniteettim vastustuskyky;immunity;immunitás
+laumaimmuniteetti;herd immunity;nyájimmunitás
+laumasuoja;herd protection;csoportvédelem
+uhka;threat;fenyegetés
+turvallisuus;safety;biztonság
+turvallisuudentunne;feeling of security;biztonságérzet
+altistua koronavirukselle;to be exposed to the coronavirus;kitettség a koronavírusnak
+asettaa (rajoituksia);to impose (restrictions);korlátozásokat bevezet
+eristää (alue);to isolate (an area);területet elkülönít
+estää (viruksen leviämistä);to stop, prevent (the spreading of the virus);megakadályozza a terjedést
+hakeutua hoitoon;to seek medical assistance;orvosi segítséget kér
+hidastaa (viruksen leviämistä);to slow the spread of the virus;lomhítja a terjedést
+hellittää rajoituksia;to ease restrictions;enyhít a szabályokon
+joutua sairaalaan;to have to be admitted to the hospital;kórházba kerül
+joutua karanteeniin;to have to be quarantined;karanténba kerül
+julistaa poikkeusolot;to declare a state of emergency;rendkívüli állapotot hirdet
+kuolla (virukseen, koronaan);to die (of the virus, of corona);meghal (vírusban)
+kuulua riskiryhmään;to belong to a risk group;veszélyeztetett csoporthoz tartozik
+levitä (Suomessa, ilmassa);to spread (in Finland, through the air);terjed (Finnországban, levegőben)
+levittäytyä (Eurooppaan, ympäri maailmaa);to spread (to Europe, around the world);szétterjed (Európába, világban)
+levittää virusta;to spread the virus;vírust terjeszt
+lomauttaa työntekijöitä;to lay-off employees;munkásokat elbocsát
+luopua / purkaa rajoituksista;to lift restrictions;feloldja a korlátozásokat
+madaltaa käyrää;to flatten the curve;kilapítja a görbét
+määrätä karanteeniin;to impose quarantine;karantént rendel el
+määrätä liikkumisrajoituksia;to impose restrictions on movement;utazási tilalmat vezet be
+noudattaa (ohjeita, rajoituksia);to obey, observe (instructions, restrictions);betartja a szabályokat
+ohjeistaa, antaa ohjeita;to give instructions;utasítást ad
+pakottaa (maskin käyttöön);to force, oblige (to use a mask);kényszerít (maszkviselésre)
+sairastua (koronaan);to get sick (with corona);megbetegszik (koronával)
+suojata (itseäsi, läheisiäsi);to protect (yourself, relatives);megvéd (magát, rokonait)
+suosittaa;to recommend;ajánl
+tarttua (ihmisestä toiseen);to transmit (from person to person);átterjed emberről emberre
+tartuttaa muita;to infect others;másokat megfertőz
+tiedottaa;to report;tájékoztat
+tiukentaa sääntöjä;to tighten the rules;szigorítja a szabályokat
+tiukentaa rajoituksia;to tighten restrictions;szigorítja a korlátozásokat
+toipua (taudista);to recover (from the disease);felépül a betegségből
+välttää lähikontakteja;to avoid close contact;elkerüli a közeli érintkezést
+Pese kätesi (kunnolla)!;Wash your hands (properly)!;Mosd meg alaposan a kezed!
+Pese kätesi vedellä ja saippualla.;Wash your hands with water and soap.;Kézzel és szappannal moss kezet!
+Muista pestä kätesi!;Remember to wash your hands!;Ne felejts kezet mosni!
+Huolehdi hygieniasta!;Take care of hygiene!;Ügyelj a tisztaságra!
+Käytä käsidesiä!;Use a hand disinfectant!;Használj fertőtlenítőt!
+Älä kosketa kasvojasi koko ajan!;Don't touch your face all the time!;Ne nyúlj állandóan az arcodhoz!
+Vältä kasvojen koskettelua!;Avoid touching your face!;Kerüld az arc érintését!
+Käytä kasvomaskia!;Wear a face mask!;Viselj maszkot!
+Käytä maskia joukkoliikenteessä!;Use a mask on public transportation!;Hordj maszkot tömegközlekedésen!
+Käytä maskia oikein!;Use the mask correctly!;Használd helyesen a maszkot!
+Älä kättele ihmisiä!;Don't shake hands!;Ne fogj kezet!
+Älä halaa ihmisiä!;Don't hug people!;Ne ölelj másokat!
+Älä suutele ihmisiä!;Don't kiss people!;Ne csókolj másokat!
+Älä tartuta muita!;Don't infect others!;Ne fertőzz meg másokat!
+Pidä turvaväli!;Keep a safe distance!;Tartsd a távolságot!
+Vältä lähikontaktia!;Avoid close contact!;Kerüld a közeli kontaktust!
+Pysy kotona! Jää kotiin!;Stay at home!;Maradj otthon!
+Vältä julkista liikennettä!;Avoid public transportation!;Kerüld a tömegközlekedést!
+Vältä matkustamista!;Avoid traveling!;Kerüld az utazást!
+Älä matkusta tarpeettomasti!;Don't travel needlessly!;Ne utazz feleslegesen!
+Älä mene kouluun oireisena!;Don't go to school if you have symptoms!;Ne menj iskolába betegen!
+Älä mene töihin sairaana!;Don't go to work sick!;Ne menj dolgozni betegen!
+Ethän tule kipeänä parturiin!;Please don't come to the barber's sick!;Kérlek, ne gyere fodrászhoz betegen!
+Vältä tarpeetonta matkustamista!;Avoid non-essential travel!;Kerüld a szükségtelen utazást!
+Tee etätöitä, jos mahdollista.;Work from home if possible.;Dolgozz otthonról, ha tudsz!
+Kannattaa tehdä etätöitä.;It's a good idea to work from home.;Érdemes otthonról dolgozni.
+Kannattaa pysyä kotona.;It's a good idea to stay home.;Érdemes otthon maradni.
+Kannattaa välttää lähikontakteja.;It's a good idea to avoid close contact.;Érdemes kerülni a kontaktust.
+Noudata suosituksia!;Follow the recommendations!;Tartsd be az ajánlásokat!
+Noudata ohjeita!;Follow the instructions!;Kövesd az utasításokat!
+Seuraa tilannetta!;Follow the situation!;Kövesd a helyzetet!
+Seuraa tiedotusta!;Follow the news!;Figyeld a híreket!
+Ota yhteyttä lääkäriin!;Contact your doctor!;Lépj kapcsolatba az orvossal!
+Ilmoita esimiehelle!;Inform your supervisor!;Szólj a főnöködnek!
+Soita neuvontanumeroon!;Call the helpline!;Hívd a segélyszámot!
+Korona on vaarallinen virus.;COVID is a dangerous virus.;A COVID veszélyes vírus.
+Virus leviää nopeasti.;The virus spreads / is spreading quickly.;A vírus gyorsan terjed.
+Olen sairastanut.;I've gotten ill.;Már beteg voltam.
+Minulla on korona.;I have COVID.;COVID-om van.
+Sairastuneita on paljon.;There are many sick people.;Sok a beteg.
+Vessapaperi on loppu.;The toilet paper is out.;Elfogyott a WC-papír.
+Käsidesi on loppu. (pic);Hand disinfectant has run out.;Elfogyott a kézfertőtlenítő.
+Olen huolissani oireista.;I'm worried about the symptoms.;Aggódom a tünetek miatt.
+En halua saada tartuntaa.;I don't want to get infected.;Nem akarok megfertőződni.
+En halua tartuttaa muita.;I don't want to infect others.;Nem akarok másokat megfertőzni.
+Haluan suojella perheenjäseniä.;I want to protect family members.;Meg akarom védeni a családomat.
+Minut on määrätty karanteeniin.;I've been quarantined.;Karanténba helyeztek.
+Yleisötilaisuudet perutaan.;Public events are canceled.;A nyilvános rendezvényeket lemondják.
+Matka on peruttu.;The trip is canceled.;A utazást törölték.
+Koulut suljetaan.;The schools get closed.;Az iskolákat bezárják.
+Lentoja perutaan.;Flights are canceled.;A járatokat törlik.
+Moni tekee nyt etätöitä.;Many are now doing telework.;Sokan most otthonról dolgoznak.
+Karanteeni kestää 2 viikkoa.;The quarantine lasts for 2 weeks.;A karantén két hétig tart.
+Koko Suomi on kiinni. (pic);The whole of Finland is closed.;Egész Finnország zárva van.
+Noudatamme ohjeistuksia.;We are following the instructions.;Követjük az utasításokat.
+Seuraamme tilannetta.;We are following the situation.;Figyeljük a helyzetet.
+Virus tarttuu ihmisestä toiseen.;The virus is transmitted from person to person.;A vírus emberről emberre terjed.
+Oireet ovat useimmiten lieviä.;The symptoms are usually mild.;A tünetek általában enyhék.
+Moni saa vain lieviä oireita.;Many only get mild symptoms.;Sokan csak enyhe tüneteket kapnak.
+Minulla on ollut vain lieviä oireita.;I've only had mild symptoms.;Csak enyhe tüneteim voltak.
+Oireet ovat harvoin vakavia.;The symptoms are rarely severe.;A tünetek ritkán súlyosak.
+Ohjeita ei noudateta.;Instructions aren't being obeyed.;Az utasításokat nem tartják be.
+Moni tekee etätöitä.;Many work from home.;Sokan otthonról dolgoznak.
+Moni joutuu karanteeniin.;Many are quarantined.;Sokan karanténba kerülnek.
+Henkilökunta on altistunut koronavirukselle.;Staff have been exposed to the coronavirus.;A személyzet ki volt téve a koronavírusnak.
+Epäilen saaneeni tartunnan.;I suspect I've been infected.;Gyanítom, hogy megfertőződtem.
+Minulla todettiin koronavirusinfektio.;I was diagnosed with a coronavirus infection.;Koronavírus-fertőzést diagnosztizáltak nálam.
+Hänellä on todettu koronatartunta.;He's been diagnosed with a corona infection.;Nálam koronavírus-fertőzést diagnosztizáltak.
+Koronatestin tulos oli negatiivinen.;The result of the corona test was negative.;A koronavírus-teszt eredménye negatív volt.
+Joku perheessäni kuuluu riskiryhmiin.;Someone in my family belongs to a risk group.;Valaki a családomban veszélyeztetett csoporthoz tartozik.
+Miten voi hidastaa viruksen leviämistä?;How can the spreading of the virus be slowed down?;Hogyan lehet lassítani a vírus terjedését?
+Viruksen leviämistä yritetään hidastaa.;They're trying to slow down the spread of the virus.;Próbálják lassítani a vírus terjedését.
+Etätyötä suositellaan.;Working from home is recommended.;Otthoni munkát javasolnak.
+Maskin on peitettävä nenä ja suu.;The mask must cover the nose and mouth.;A maszknak az orrot és a szájat fednie kell.
+Maski vähentää mikrobien leviämistä muihin.;A mask reduces the spread of microbes to others.;A maszk csökkenti a mikrobák terjedését másokra.
+Maskin käyttöä suositellaan.;The use of a mask is recommended.;A maszk használata javasolt.
+Maahan tuli maskipakko.;Use of a mask has become obligatory in the country.;Országszerte kötelezővé vált a maszkviselés.
+Otetaan kasvomaskit käyttöön busseissa.;Let's start using face masks on buses.;Kezdjünk el maszkot használni a buszokon.
+Oireettomia ei testata.;Asymptomatic (people) aren't tested.;A tünetmenteseket nem tesztelik.
+Taudista toipuminen voi kestää kuukausia.;Recovery from the disease can take months.;A betegségből való felépülés hónapokig tarthat.
+Lievän koronan voi sairastaa kotona.;One can be sick at home if the infection is mild.;Enyhe COVID-ot otthon is lehet kezelni.
+Hän sairasti koronan tietämättään.;He was ill with corona without knowing.;Tudta nélkül betegedett meg COVID-ban.
+Koronavirusnäytteitä tutkitaan.;Coronavirus samples are examined.;Koronavírus-mintákat vizsgálnak.
+Epidemia voi kestää vielä kauan.;The epidemic may still take a long time.;A járvány még hosszú ideig tarthat.
+Rokotussuoja vaatii kaksi rokotuskertaa.;Vaccination protection requires two vaccinations.;Az oltás védelméhez két oltás szükséges.
+Koronatapauksien määrä kasvaa.;The number of COVID cases is increasing.;A COVID-esetek száma növekszik.
+Tapausmäärät ovat kasvussa.;The number of cases is increasing.;Az esetek száma emelkedik.
+Siellä on todettu 30 uutta koronatartuntaa.;30 new corona infections have been found there.;Ott találtak 30 új COVID-fertőzést.
+Siellä on vahvistettu 30 uutta tartuntaa.;30 new corona infections have been confirmed there.;Ott 30 új fertőzés megerősítve.
+Siellä on raportoitu 30 uutta tartuntaa.;30 new corona infections have been reported there.;Ott 30 új fertőzésről számoltak be.
+Siellä on rekisteröity 30 uutta tartuntaa.;30 new corona infections have been registered there.;Ott 30 új fertőzés került nyilvántartásba.
+Siellä on kuollut 30 ihmistä koronavirukseen.;30 people died from the coronavirus there.;Ott 30 ember halt meg a koronavírus miatt.
+Tartuntojen kokonaismäärä on nyt 70 000.;The total number of infections is now 70 000.;A fertőzések teljes száma most 70 000.
+Tautiin on kuollut satoja tuhansia ihmisiä.;Hundreds of thousands of people have died of the disease.;A betegségben több százezer ember halt meg.
+Sairaalahoidossa on tällä hetkellä 116 ihmistä.;There are 116 people in hospital care right now.;Jelenleg 116 ember van kórházi kezelés alatt.
+116 ihmistä tarvitsee sairaalahoitoa.;116 people need hospital treatment.;116 embernek van szüksége kórházi ellátásra.
+Uusia tartuntoja tulee päivittäin.;There are new infections daily.;Naponta új fertőzések vannak.
+Virukseen on kuollut paljon ihmisiä.;Many people have died of the virus.;Sok ember halt meg a vírus miatt.
+Toinen aalto on alkanut.;The second wave has started.;A második hullám elkezdődött.
+Koronatilanne kiristyy taas.;The corona situation is escalating “tightening” again.;A járványhelyzet újra szigorodik.
+Koronatilanne on taas kiristynyt.;The corona situation has escalated “tightened” again.;A járványhelyzet ismét szigorodott.
+Ihmiset kiertävät karanteenisuositusta.;People are circumventing the quarantine recommendation.;Az emberek kijátsszák a karantén ajánlást.
+Terveydenhuolto on ylikuormittunut.;Healthcare is overloaded.;Az egészségügy túlterhelt.
+Poliisi valvoo kokoontumisia.;The police monitor gatherings.;A rendőrség ellenőrzi a gyűléseket.
+Yleisötapahtumia perutaan.;Public events are being canceled.;A közönségtalálkozókat lemondják.
+Poliisi hajottaa väkijoukkoja.;The police disperse the crowds.;A rendőrség feloszlatja a tömeget.
+Yli 10 hengen kokoontumiset on kielletty.;Gatherings of more than 10 people are prohibited.;10 főnél nagyobb összejövetelek tilosak.
+Monet maat ovat sulkeneet rajansa.;Many countries have closed their borders.;Sok ország lezárta a határait.
+Pidetään rajat suljettuina.;Let's keep the borders shut.;Tartsuk zárva a határokat.
+Rajat pidetään suljettuina.;The borders are being kept shut.;A határokat zárva tartják.
+Matkustajat ohjataan koronatesteihin.;Passengers are directed to corona tests.;Az utasokat COVID-tesztekhez irányítják.
+Matkustajat määrätään karanteeniin.;Travelers are directed to quarantine.;Az utasokat karanténba helyezik.
+Osa matkustajista kieltäytyi testistä.;Some of the passengers refused the test.;Néhány utas megtagadta a tesztet.
+Valtaosa tartunnan saaneista on parantunut.;The majority of those infected have recovered.;A fertőzöttek többsége felépült.
+Koronaterveysasemat ovat ruuhkautuneet.;COVID health stations are congested.;A COVID egészségügyi állomások túlzsúfoltak.

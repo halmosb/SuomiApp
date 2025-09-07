@@ -1,0 +1,190 @@
+Finnish;English;Hungarian
+puhelin;telephone, phone;telefon
+lankapuhelin;landline phone;vezetékes telefon
+matkapuhelin;mobile phone (dated);mobiltelefon (régi szóhasználat)
+kännykkä;mobile phone;mobil
+luuri, känny;phone (spoken);teló (köznyelvi)
+älypuhelin;smartphone;okostelefon
+Android-puhelin;Android phone;Android-telefon
+tekstiviesti;text message;szöveges üzenet
+tekstari;text message (spoken);sms (köznyelvi)
+puhelu;phone call;telefonhívás
+työpuhelu;business call;munkahelyi hívás
+(puhelin)vastaaja;answering machine;hangrögzítő
+puhelinnumero;phone number;telefonszám
+suuntanumero;area code;körzetszám
+hätänumero;emergency number;segélyhívószám
+salattu numero;ex-directory number;rejtett szám
+puhelinkeskus;switchboard;telefonközpont
+sovellus;application;alkalmazás
+appi, appsi, apsi;app (spoken);app (köznyelvi)
+soittoääni;ringtone;csengőhang
+varoitusääni;warning tone;figyelmeztető hang
+hälytysääni;alarm tone;riasztó hang
+herätyskello;alarm clock;ébresztőóra
+äänenvoimakkuus;volume;hangerő
+aloitusnäyttö;home screen;kezdőképernyő
+uusi viesti;new message;új üzenet
+vastaamaton puhelu;missed call;nem fogadott hívás
+varattu;engaged, busy;foglalt
+tuntematon numero;unknown number;ismeretlen szám
+puhelu pidossa;call on hold;várakoztatott hívás
+valmiustila;standby mode;készenléti mód
+älä häiritse -tila;do not disturb mode;ne zavarjanak mód
+signaali;signal;jel
+soittaa äidille;to call (to) mother;felhívni anyát
+soittaa ystävälle;to call (to) a friend;felhívni barátot
+soittaa numeroon 0451234567;to call the number 0451234567;felhívni a 0451234567-es számot
+soittaa takaisin;to call back;visszahívni
+puhua puhelimessa;to talk on the phone;telefonon beszélni
+olla puhelimessa;to be on the phone (in a call);telefonálni
+vastata puhelimeen;to answer the phone;felvenni a telefont
+vastata puheluun;to answer a call;hívásra válaszolni
+lopettaa puhelu;to hang up (end a call);befejezni a hívást
+lyödä luuri kiinni;to hang up (spoken);leteszi a telefont
+hylätä puhelu;to reject a call;hívást elutasítani
+vastaanottaa puhelu;to accept a call;hívást fogadni
+jättää vastaamatta;to leave unanswered, to not answer;nem fogadni a hívást
+asettaa puhelu pitoon;to put a call on hold;hívást várakoztatni
+soida;to ring;csörögni
+ladata akku;to charge the battery;feltölteni az akkumulátort
+latautua;to get charged;töltődni
+kytkeä laturi puhelimeen;to connect the charger to the phone;csatlakoztatni a töltőt
+irrottaa laturi;to disconnect a charger;kihúzni a töltőt
+kytkeä puhelin päälle;to turn on the phone;bekapcsolni a telefont
+sammuttaa puhelin, katkaista virta;to turn off the phone;kikapcsolni a telefont
+käynnistää uuudelleen;to restart, reboot;újraindítani
+syöttää PIN-koodi;to enter a PIN code;PIN-kódot beírni
+painaa näppäintä;to press a key;megnyomni a gombot
+napauttaa painiketta;to tap a button;megérinteni a gombot
+pyyhkäistä vasemmalle;to swipe left;balra húzni
+pyyhkäistä oikealle;to swipe right;jobbra húzni
+valita numero;to choose (dial) a number;számot tárcsázni
+syöttää puhelinnumero;to enter a phone number;telefonszámot beírni
+tallentaa puhelinnumero;to save a phone number;telefonszámot elmenteni
+estää numero;to block a number;számot letiltani
+kumota esto;to unblock, to undo the block;tiltást feloldani
+mykistää puhelu;to mute a call;hívást lenémítani
+poistaa mykistys;to unmute;némítást feloldani
+aktivoida kaiutintila;to activate speaker mode;hangszórót bekapcsolni
+lähettää viesti;to send a message;üzenetet küldeni
+tallentaa video;to record a video;videót felvenni
+ottaa valokuva;to take a photo;fotót készíteni
+jättää viesti;to leave a message;üzenetet hagyni
+tekstata;to text;sms-t írni
+laittaa puhelu kaiuttimeen;to put the phone on loudspeaker;hangszóróra tenni a hívást
+ladata sovellus;to download an application;alkalmazást letölteni
+asentaa sovellus;to install an application;alkalmazást telepíteni
+avata sovellus;to open an application;alkalmazást megnyitni
+ottaa käyttöön;to start using;használatba venni
+poistaa sovellus;to remove an application;alkalmazást eltávolítani
+korjata puhelin;to repair, fix a phone;telefont megjavítani
+värähtää, väristä;to vibrate;rezegni
+räplätä puhelinta;to fiddle with phone;nyomkodni a telefont
+puhelinmalli;phone model;telefonmodell
+näyttö;display, screen;képernyő
+kosketusnäyttö;touch screen;érintőképernyő
+kaiutin, kaiuttimet;speaker, speakers;hangszóró(k)
+akku;battery;akkumulátor
+kuulokeliitäntä;headphone jack;fülhallgató-csatlakozó
+kamera;camera;kamera
+takakamera;rear camera;hátsó kamera
+selfiekamera;selfie camera;szelfikamera
+etukamera;front camera;előlapi kamera
+neloiskamera;quad camera;négykamerás rendszer
+Ultra Wide -kamera;Ultra Wide camera;ultraszéles kamera
+siru;chip;chip
+prosessori, suoritin;processor;processzor
+mobiiliprosessori;mobile processor;mobil processzor
+salama;flash;vaku
+SIM-kortti;SIM card;SIM-kártya
+Dual SIM;dual SIM;kettős SIM
+Nano-SIM;nano SIM;nano SIM
+takakansi;back cover;hátsó burkolat
+näppäin;button;billentyű
+laturi;charger;töltő
+liitoskaapeli;connecting cable;csatlakozókábel
+adapteri;adapter;adapter
+suojalasi;protective glass;védőüveg
+näytönsuoja;screen protector;kijelzővédő
+suojakalvo;protective film;védőfólia
+suojakotelo;protective case;tok
+Soita minulle!;Call me!;Hívj fel!
+Voinko soittaa sinulle?;Can I call you?;Felhívhatlak?
+Soitellaan!;Let's keep in touch! “Let's call”;Majd hívjuk egymást!
+Oletko yrittänyt soittaa?;Have you been trying to call (me)?;Próbáltál hívni?
+Miksi et vastaa puhelimeen?;Why aren't you answering the phone?;Miért nem veszed fel a telefont?
+Puhelimen akku on lähes tyhjä.;The phone's battery is almost empty.;A telefon akkumulátora majdnem lemerült.
+Kännykästäni on akku melkein loppu.;The battery of my mobile is almost empty.;A mobilom aksija majdnem lemerült.
+Akun virta on vähissä.;The battery is low;Kevés az akku töltöttsége.
+Akku on ladattu täyteen.;The battery is fully charged.;Az akku teljesen feltöltve.
+Akku latautuu.;The battery is charging.;Töltődik az akku.
+Puhelin on latauksessa.;The phone is being charged.;A telefon töltőn van.
+Jätin puhelimeni lataukseen.;I left my phone to charge.;Töltőn hagytam a telefonom.
+Haloo, kuuluuko?;Hello, can you hear me?;Halló, hallasz?
+Oho, puhelu katkesi.;Oh, the call was cut off.;Hoppá, megszakadt a hívás.
+Sait uuden viestin.;You got a new message.;Új üzenetet kaptál.
+En saanut viestiäsi.;I didn't get your message.;Nem kaptam meg az üzeneted.
+En huomannut viestiäsi.;I didn't notice your message.;Nem vettem észre az üzeneted.
+Laita viestiä, kun olet tulossa.;Send me a message when you're on your way.;Írj, ha úton vagy.
+Puhelin värähtää.;The phone vibrates.;Rezeg a telefon.
+Lataa xyz-sovellus sovelluskaupasta!;Download the xyz app from the app store!;Töltsd le az xyz appot az áruházból!
+Puhelin on äänettömällä.;My phone is in silent mode.;Némítva van a telefonom.
+Laita se äänettömälle.;Put it in silent mode.;Tedd némára!
+Puhelimeni on soinut koko päivän;My phone has been ringing the whole day;Egész nap csörgött a telefonom.
+Olen riippuvainen kännykästäni.;I'm addicted to my mobile phone;Függök a mobilomtól.
+Räplään kännykkääni jatkuvasti.;I'm constantly playing with my phone;Folyton nyomkodom a mobilom.
+En muista PIN-koodiani enää.;I can't remember my PIN code anymore;Már nem emlékszem a PIN-kódomra.
+En löydä kännykkääni.;I can't find my phone;Nem találom a telefonom.
+Unohdin puhelimeni kotiin.;I forgot my phone at home;Otthon hagytam a telefonom.
+Kännykkäni jäi kotiin.;My phone “stayed” (was left, forgotten) at home;A mobilom otthon maradt.
+Voinko lainata kännykkäsi?;Can I borrow your phone?;Kölcsönkérhetem a mobilod?
+Puhelimesi soi.;Your phone is ringing;Csörög a telefonod.
+Ostin puhelimen noin vuosi sitten.;I bought the phone about a year ago;Kb. egy éve vettem a telefont.
+Tämä on hyvä peruspuhelin.;This is a good basic phone;Ez egy jó alaptelefon.
+Puhelin riittää peruskäyttöön paremmin kuin hyvin.;This phone is more than good enough for basic use;Ez a telefon több mint elég alaphasználatra.
+Olen ollut (todella) tyytyväinen tähän puhelimeen.;I have been (very) satisfied with this phone;Nagyon elégedett vagyok ezzel a telefonnal.
+Akku kestää todella pitkään.;The battery lasts a really long time;Az akku nagyon sokáig bírja.
+Akku kestää neljäkin päivää.;The battery can last even four days;Az akku akár négy napig is bírja.
+Tämä on paras puhelin ikinä!;This is the best phone ever!;Ez a valaha volt legjobb telefonom!
+Pidän erityisesti suuresta näytöstä.;I especially like the large screen;Különösen szeretem a nagy kijelzőt.
+Kameran laatu on todella huono.;The quality of the camera is really bad;A kamera minősége nagyon rossz.
+Kameran laatu on aika huono.;The quality of the camera is kind of bad;A kamera minősége elég gyenge.
+Suosittelen tehokkaampaa puhelinta.;I recommend (getting) a more powerful phone;Erősebb telefont ajánlok.
+En suosittele tätä puhelinta.;I don't recommend this phone;Nem ajánlom ezt a telefont.
+En (todellakaan) suosittelisi tätä puhelinta.;I (definitely) wouldn't recommend this phone;Ezt a telefont (egyáltalán) nem ajánlanám.
+hinta;price;ár
+hintaluokka;price range;árkategória
+laatu;quality;minőség
+hinta-laatusuhde;value for money;ár-érték arány
+nopeus;speed;sebesség
+koko;size;méret
+akun kesto;battery life;akkumulátor élettartam
+kestävyys;durability;tartósság
+suorituskyky;performance rate;teljesítmény
+tallennustila;storage space;tárhely
+muisti;memory;memória
+RAM-muisti;RAM;RAM
+tarkkuus;accuracy;pontosság
+resoluutio;resolution;felbontás
+pikseli;pixel;pixel
+2400 x 1080 pikseliä;2400 x 1080 pixels;2400 x 1080 pixel
+megapikseli;megapixel;megapixel
+12 megapikseliä;12 megapixels;12 megapixel
+6 tuumaa;6 inches;6 hüvelyk
+kuvasuhde;aspect ratio;képarány
+käyttöjärjestelmä;operating system;operációs rendszer
+käyttöliittymä;user interface;felhasználói felület
+kasvojen tunnistus;facial recognition;arcfelismerés
+sormenjälkilukija;fingerprint reader;ujjlenyomat-olvasó
+iirisskanneri;iris scanner;írisz szkenner
+vedenkestävä;waterproof;vízálló
+pölyn kestävä;dust resistant;pornak ellenálló
+pikalataus;quick charge;gyorstöltés
+langaton lataus;wireless charging;vezeték nélküli töltés
+Wi-Fi / wifi;Wi-Fi;Wi-Fi
+verkkoyhteys;network connection;hálózati kapcsolat
+paikannusjärjestelmä;positioning system;helymeghatározó rendszer
+GPS-järjestelmä;GPS system;GPS-rendszer
+Bluetooth;Bluetooth;Bluetooth
+päivitys;update;frissítés
