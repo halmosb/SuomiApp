@@ -1,0 +1,285 @@
+Finnish;English;Hungarian
+aavikko;desert;sivatag
+keidas;oasis;oázis
+alakerta;downstairs;alsó szint
+yläkerta;upstairs;felső szint
+alatiesynnytys;vaginal delivery;hüvelyi szülés
+keisarileikkaus;caesarean section;császármetszés
+alku;beginning;kezdés
+loppu;end;befejezés
+arkkuhautaus;coffin burial;koporsós temetés
+polttohautaus;cremation;hamvasztás
+aviovaimo;wife;feleség
+aviomies;husband;férj
+dialogi;dialogue;párbeszéd
+monologi;monologue;monológ
+eksä;ex;ex
+nyksä (informal);current partner;jelenlegi partner
+elämä;life;élet
+kuolema;death;halál
+enemmistö;majority;többség
+vähemmistö;minority;kevesek
+epilogi;epilogue;utóirat
+prologi;prologue;előszó
+epäröinti;hesitation;habozás
+varmuus;certainty;bizonyosság
+etkot;preparty;előbulizás
+jatkot (informal);afterparty;utóbulizás
+etupuoli;front side;elülső oldal
+takapuoli;back side;hátsó oldal
+fiktio;fiction;fikció
+tosiasia / fakta;fact;tény
+hallitsija;ruler;uralkodó
+alainen;subordinate;alárendelt
+harrasteurheilu;recreational sports;szabadidős sport
+kilpaurheilu;competitive sports;versenysport
+harrastus;hobby;hobbi
+työ;work;munkavégzés
+hellyys;tenderness;gyengédség
+julmuus;cruelty;kegyetlenség
+helppous;ease;könnyedség
+vaikeus;difficulty;nehézség
+henkilökuljetus;passenger transport;utas szállítás
+tavarankuljetus;goods transport;áruszállítás
+henkilövaaka;personal scale;súlymérő
+tavaravaaka;goods scale;áru mérleg
+herra;sir;úr
+rouva;madam;asszony
+hiljaisuus;silence;csend
+melu;noise;zaj
+hyökkäys;attack;támadás
+puolustus;defense;védelem
+hyökkääjä;attacker;támadó
+puolustaja;defender;védő
+hyöty;benefit;előny
+haitta;disadvantage;hátrány
+häät;wedding;esküvő
+avioero;divorce;válás
+ilo;happiness;öröm
+suru;sadness;szomorúság
+introvertti;introvert;introvertált
+ekstrovertti;extrovert;extrovertált
+isäntä;host;házigazda
+emäntä;hostess;háziasszony
+itsevarmuus;confidence;önbizalom
+epävarmuus;uncertainty;bizonytalanság
+johtaja;leader;vezető
+seuraaja;follower;követő
+joukko;group;csoport
+yksilö;individual;egyén
+järjestys;order;rendszer
+kaaos;chaos;káosz
+jätti;giant;óriás
+kääpiö;dwarf;törpe
+kaikki;everyone;mindenki
+ei kukaan;nobody;senki
+kasvissyöjä;vegetarian;vegetáriánus
+lihansyöjä;meat eater;húsevő
+kaunokirjallisuus;fiction literature;szépirodalom
+tietokirjallisuus;non-fiction;szakirodalom
+kaupunki;city;város
+maaseutu;countryside;vidék
+kaupunkilainen;townie;városi lakos
+kyläläinen;villager;falusi
+kehitysmaa;developing country;fejlődő ország
+teollisuusmaa;developed country;fejlett ország
+keinovalo;artificial light;mesterséges fény
+luonnonvalo;natural light;természetes fény
+keskusta;city center;városközpont
+lähiö;suburb;előváros
+kesä;summer;nyár
+talvi;winter;tél
+kesäurheilu;summer sports;nyári sportok
+talviurheilu;winter sports;téli sportok
+kolikko;coin;érme
+seteli;bank note;pénzjegy
+korkeus;height;magasság
+syvyys;depth;mélység
+kotimaa;home country;szülőföld
+ulkomaa;foreign country;külföld
+kukko;rooster;kakas
+kana;chicken;tyúk
+kuljettaja;driver;sofőr
+matkustaja;passenger;utas
+kuningas;king;király
+kuningatar;queen;királynő
+kuunvalo;moonlight;holdfény
+auringonvalo;sunlight;napsütés
+käsinohjaus;manual steering;kézi kormányzás
+automaattiohjaus;automatic steering;automatikus kormányzás
+käsinpesu;hand wash;kézi mosás
+konepesu;machine wash;gépi mosás
+käsisaha;hand saw;kézifűrész
+moottorisaha;chainsaw;motorfűrész
+käteismaksu;cash payment;készpénzes fizetés
+korttimaksu;card payment;kártyás fizetés
+käyttöesine;utility item;hasznos tárgy
+koriste-esine;decorative item;dísztárgy
+köyhyys;poverty;szegénység
+rikkaus;wealth;gazdagság
+laitteisto;hardware;hardver
+ohjelmisto;software;szoftver
+lankapuhelin;landline;vezetékes telefon
+matkapuhelin;mobile phone;mobiltelefon
+lapsi;child;gyermek
+aikuinen;adult;felnőtt
+laskuvesi;low tide;apály
+nousuvesi;high tide;dagály
+lauluääni;singing voice;énekhang
+puheääni;speaking voice;beszédhang
+lommo;dent;horpadás
+kyhmy;lump;csomó
+lukko;lock;zár
+avain;key;kulcs
+luonnonaine;natural substance;természetes anyag
+tekoaine;artificial substance;mesterséges anyag
+luonnonjää;natural ice;természetes jég
+tekojää;artificial ice;mesterséges jég
+lupa;permission;engedély
+kielto;prohibition;tilalom
+lämpö;heat;meleg
+kylmyys;cold;hideg
+länsimaat;western countries;nyugati országok
+itämaat;eastern countries;keleti országok
+maallikko;layperson;laikus
+ekspertti;expert;szakértő
+mahdollisuus;possibility;lehetőség
+mahdottomuus;impossibility;lehetetlenség
+massatavara;bulk goods;nagytétel
+kappaletavara;piece goods;darabárú
+menomatka;outbound journey;odaút
+paluumatka;return journey;visszaút
+merimies;sailor;tengerész
+maakrapu;landlubber;földlakó
+mieli;mind;elme
+keho;body;test
+morsian;bride;menyasszony
+sulhanen;groom;vőlegény
+mukavuus;comfort;kényelem
+epämukavuus;discomfort;kellemetlenség
+muuttolintu;migratory bird;vándormadár
+paikkalintu;local bird;helyi madár
+myrkky;poison;mérgező
+vastalääke;antidote;ellenanyag
+myyjä;salesperson;eladó
+asiakas;customer;vevő
+myötätuuli;tailwind;hátszél
+vastatuuli;headwind;ellen szél
+naaraskoira;female dog;szuka
+uroskoira;male dog;kan
+nuoruus;youth;ifjuság
+vanhuus;old age;öregség
+osuma;hit;találat
+huti;miss;hibázás
+palasaippua;bar soap;szappan
+nestesaippua;liquid soap;folyékony szappan
+pelkuri;coward;gyáva
+sankari;hero;hős
+pessimisti;pessimist;pesszimista
+optimisti;optimist;optimista
+pimeys;darkness;sötétség
+valo;light;fény
+pituus;length;hossz
+leveys;width;szélesség
+pohja;bottom;alap
+kansi;cover;fedél
+pinta;surface;felszín
+poliisivaltio;police state;rendőrállam
+oikeusvaltio;legal state;jogállam
+puhekieli;spoken language;beszélt nyelv
+kirjakieli;written language;írott nyelv
+pula;scarcity;hiány
+yltäkylläisyys;abundance;bőség
+puunlatva;treetop;fa teteje
+puunjuuri;tree root;fa gyökere
+pystysuora;vertical;függőleges
+vaakasuora;horizontal;vízszintes
+päivä;day;nap
+yö;night;éjszaka
+pääasia;main thing;fő dolog
+sivuseikka;side point;mellékes dolog
+päähenkilö;main character;főszereplő
+sivuhenkilö;side character;mellékszereplő
+rikollinen;criminal;bűnöző
+uhri;victim;áldozat
+saalis;prey;zsákmány
+saalistaja;predator;ragadozó
+silta;bridge;híd
+tunneli;tunnel;alagút
+sisäpuoli;interior;belső
+ulkopuoli;exterior;külső
+sisäänkäynti;entrance;bejárat
+uloskäynti;exit;kijárat
+sota;war;háború
+rauha;peace;békesség
+sotilas;soldier;katuvédő
+siviili;civilian;polgári személy
+synonyymi;synonym;szinonima
+antonyymi;antonym;antonima
+syntymä;birth;születés
+syy;cause;oka
+seuraus;consequence;következmény
+syyllisyys;guilt;bűnösség
+syyttömyys;innocence;ártatlanság
+sähköposti;email;e-mail
+etanaposti (informal);snail mail;hagyományos levél
+taide;art;művészet
+tiede;science;tudomány
+taivas;heaven;menny
+helvetti;hell;pokol
+teoria;theory;elmélet
+käytäntö;practice;gyakorlat
+totuus;the truth;igazság
+valhe;a lie;hazugság
+tulevaisuus;future;jövő
+menneisyys;past;múlt
+tulo;arrival;érkezés
+meno;departure;indulás
+tuonti;import;import
+vienti;export;export
+tuottaja;producer;termelő
+kuluttaja;consumer;fogyasztó
+tutkintavankeus;pretrial detention;előzetes letartóztatás
+rangaistusvankeus;penal detention;börtönbüntetés
+tyytyväisyys;satisfaction;elégedettség
+tyytymättömyys;dissatisfaction;elégedetlenség
+työnantaja;employer;munkaadó
+työntekijä;employee;alkalmazott
+ulkopuolinen;outsider;külső személy
+sisäpiiriläinen;insider;belső személy
+ulkovalo;exterior light;külső fény
+sisävalo;interior light;belső fény
+ullakko;attic;padlás
+kellari;basement;pince
+uskovainen;believer;hívő
+ateisti;atheist;ateista
+vahvuus;strength;erősség
+heikkous;weakness;gyengeség
+vasara;hammer;kalapács
+naula;nail;szög
+vesi;water;víz
+tuli;fire;tűz
+viha;hate;gyűlölet
+rakkaus;love;szeretet
+vihollinen;enemy;ellenség
+liittolainen;ally;szövetséges
+viisaus;wisdom;bölcsesség
+tyhmyys;stupidity;butaság
+voitto;victory;győzelem
+tappio;defeat;vereség
+vokaali;vowel;magánhangzó
+konsonantti;consonant;mássalhangzó
+vuokra-asunto;rental apartment;bérlakás
+omistusasunto;owner-occupied apartment;tulajdonos lakás
+vuokralainen;tenant;bérlő
+vuokranantaja;landlord;bérbeadó
+vuori;mountain;hegy
+laakso;valley;völgy
+yksikkö;singular;egyes szám
+monikko;plural;többes szám
+yksilöurheilu;individual sports;egyéni sport
+joukkueurheilu;team sports;csapatsport
+yksinpeli;single player game;egyéni játék
+yhteispeli;cooperative game;kooperatív játék
+ympyrä;circle;kör
+neliö;square;négyszög
