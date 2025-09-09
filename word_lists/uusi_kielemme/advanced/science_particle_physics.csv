@@ -1,0 +1,67 @@
+Finnish;English;Hungarian
+hiukkanen;particle;részecske
+antihiukkanen;antiparticle;antirészecske
+fermioni;fermion;fermion
+bosoni;boson;bozon
+kvarkki;quark;kvark
+leptoni;lepton;lepton
+elektroni;electron;elektron
+positroni;positron;pozitron
+neutriino;neutrino;neutrínó
+muoni;muon;műon
+tau;tau;tau
+gluoni;gluon;gluon
+foton;photon;foton
+W-bosoni;W boson;W-bozon
+Z-bosoni;Z boson;Z-bozon
+Higgsin bosoni;Higgs boson;Higgs-bozon
+protoni;proton;proton
+neutroni;neutron;neutron
+mesoni;meson;mezon
+hadroni;hadron;hadron
+leptoniluku;lepton number;leptonszám
+värilataus;color charge;színtöltés
+spin;spin;spin
+energia;energy;energia
+kineettinen energia;kinetic energy;kinektikus energia
+momentti;momentum;impulzus
+liikemäärä;linear momentum;mozgási mennyiség
+hiukkaskiihdytin;particle accelerator;részecskegyorsító
+lineaarikiihdytin;linear accelerator;lineáris gyorsító
+syklotroni;cyclotron;ciklotron
+synkrotroni;synchrotron;szinkrotron
+kääntömagneetti;bending magnet;elhajító mágnes
+fokussointimagneetti;focusing magnet;fókuszáló mágnes
+RF-kammio;RF cavity;RF-üreg
+vakuumputki;vacuum pipe;vákuumcső
+ionilähde;ion source;ionforrás
+hiukkassuihku;particle beam;részecskenyaláb
+hiukkassuihkun tiheys;beam intensity;nyalábintenzitás
+energiaspektri;energy spectrum;energiás spektrum
+hajonta;scattering;szóródás
+suurenergiahiukkastutkimus;high-energy physics;nagyenergiájú fizika
+Standardimalli;Standard Model;standard modell
+vahva vuorovaikutus;strong interaction;erős kölcsönhatás
+heikko vuorovaikutus;weak interaction;gyenge kölcsönhatás
+sähkömagneettinen vuorovaikutus;electromagnetic interaction;elektromágneses kölcsönhatás
+CERN;CERN;CERN
+LHC;Large Hadron Collider;Nagy Hadronütköztető
+ATLAS;ATLAS detector;ATLAS detektor
+CMS;CMS detector;CMS detektor
+ALICE;ALICE detector;ALICE detektor
+LHCb;LHCb detector;LHCb detektor
+hiukkastörmäys;particle collision;részecskeütközés
+törmäysenergia;collision energy;ütközési energia
+hiukkastunnistus;particle detection;részecske detektálás
+hiukkaspolku;particle trajectory;részecske pálya
+detektori;detector;detektor
+ilmaisin;sensor;érzékelő
+piiridetektori;tracking detector;nyomkövető detektor
+kalorimetri;calorimeter;kaloriméter
+luminositeetti;luminosity;fényerősség
+törmäyssimulaatio;collision simulation;ütközés szimuláció
+hiukkastutkimus;particle physics;részecskefizika
+synkrotronvalo;synchrotron light;szinkrotronfény
+vakuuimi;vacuum;vákuum
+magnettikenttä;magnetic field;mágneses tér
+superjohde;superconductor;szupervezető
