@@ -1,67 +1,144 @@
 Finnish;English;Hungarian
-hiukkanen;particle;részecske
-antihiukkanen;antiparticle;antirészecske
+hiukkaskiihdytin;particle accelerator;részecskegyorsító
+synkrotroni;synchrotron;synchrotron
+syklotroni;cyclotron;ciklotron
+lineaarikiihdytin (linakki);linear accelerator (linac);lineáris gyorsító
+protoni-synkrotroni;proton synchrotron;protonszinkrotron
+rengaskiihdytin;storage ring;tárológyűrű
+injektori;injector;injektor
+säde;beam;nyaláb
+kiihdytysjärjestelmä;acceleration system;gyorsítórendszer
+RF-kaviteetti;RF cavity;RF-rezonátor
+magneettikenttä;magnetic field;mágneses tér
+dipolimagneetti;dipole magnet;dipólmágnes
+kvadrupolimagneetti;quadrupole magnet;kvadrupólmágnes
+oktopolimagneetti;octupole magnet;oktopólmágnes
+kiihdytyspiiri;accelerator ring;gyorsítógyűrű
+hiukkasilmaisin;particle detector;részecskeérzékelő
+kalorimetri;calorimeter;kaloriméter
+hadronikalorimetri;hadronic calorimeter;hadronkaloriméter
+elektromagneettinen kalorimetri;electromagnetic calorimeter;elektromágneses kaloriméter
+seuranta-ilmaisin;tracking detector;pályakövető detektor
+piilidiodi-ilmaisin;silicon detector;szilíciumdetektor
+TPC (ajoaikakammio);time projection chamber;időprojekciós kamra
+myoni-ilmaisin;muon detector;muondetektor
+Cerenkov-ilmaisin;Cherenkov detector;Cserenkov-detektor
+fotomonistinputki;photomultiplier tube;fotoelektronsokszorozó cső
+verkkokammio;drift chamber;driftkamra
+geigerputki;Geiger counter;Geiger-számláló
+risteämäpinta-ala;cross section;ütközési szelvény
+luminoisuus;luminosity;luminozitás
+törmäysenergia;collision energy;ütközési energia
+impulssi;momentum;impulzus
+liikemäärä;linear momentum;lendület
+kulmaliikemäärä;angular momentum;perdület
+spin;spin;spin
+varaus;charge;töltés
+massa;mass;tömeg
+lepomassa;rest mass;nyugalmi tömeg
+hiukkasen elinaika;particle lifetime;részecske élettartam
+vuorovaikutus;interaction;kölcsönhatás
+heikko vuorovaikutus;weak interaction;gyenge kölcsönhatás
+vahva vuorovaikutus;strong interaction;erős kölcsönhatás
+sähkömagneettinen vuorovaikutus;electromagnetic interaction;elektromágneses kölcsönhatás
+gravitaatio;gravity;gravitáció
+kvanttikenttä;quantum field;kvantummező
+alkeishiukkanen;fundamental particle;elemi részecske
 fermioni;fermion;fermion
 bosoni;boson;bozon
 kvarkki;quark;kvark
+ylöskvarkki;up quark;felkvark
+alaskvarkki;down quark;lekvark
+lumokvarkki;charm quark;bájkvark
+outokvarkki;strange quark;különös kvark
+huippukvarkki;top quark;tetőkvark
+pohjakvarkki;bottom quark;aljkvark
 leptoni;lepton;lepton
 elektroni;electron;elektron
-positroni;positron;pozitron
-neutriino;neutrino;neutrínó
-muoni;muon;műon
-tau;tau;tau
-gluoni;gluon;gluon
-foton;photon;foton
+myoni;muon;muon
+tauhiukkanen;tau particle;tau-részecske
+neutrino;neutrino;neutrínó
+Higgsin bosoni;Higgs boson;Higgs-bozon
+gluonig;gluon;gluon
+fotoni;photon;foton
 W-bosoni;W boson;W-bozon
 Z-bosoni;Z boson;Z-bozon
-Higgsin bosoni;Higgs boson;Higgs-bozon
-protoni;proton;proton
-neutroni;neutron;neutron
-mesoni;meson;mezon
-hadroni;hadron;hadron
-leptoniluku;lepton number;leptonszám
-värilataus;color charge;színtöltés
-spin;spin;spin
-energia;energy;energia
-kineettinen energia;kinetic energy;kinektikus energia
-momentti;momentum;impulzus
-liikemäärä;linear momentum;mozgási mennyiség
-hiukkaskiihdytin;particle accelerator;részecskegyorsító
-lineaarikiihdytin;linear accelerator;lineáris gyorsító
-syklotroni;cyclotron;ciklotron
-synkrotroni;synchrotron;szinkrotron
-kääntömagneetti;bending magnet;elhajító mágnes
-fokussointimagneetti;focusing magnet;fókuszáló mágnes
-RF-kammio;RF cavity;RF-üreg
-vakuumputki;vacuum pipe;vákuumcső
-ionilähde;ion source;ionforrás
-hiukkassuihku;particle beam;részecskenyaláb
-hiukkassuihkun tiheys;beam intensity;nyalábintenzitás
-energiaspektri;energy spectrum;energiás spektrum
-hajonta;scattering;szóródás
-suurenergiahiukkastutkimus;high-energy physics;nagyenergiájú fizika
-Standardimalli;Standard Model;standard modell
-vahva vuorovaikutus;strong interaction;erős kölcsönhatás
-heikko vuorovaikutus;weak interaction;gyenge kölcsönhatás
-sähkömagneettinen vuorovaikutus;electromagnetic interaction;elektromágneses kölcsönhatás
 CERN;CERN;CERN
-LHC;Large Hadron Collider;Nagy Hadronütköztető
-ATLAS;ATLAS detector;ATLAS detektor
-CMS;CMS detector;CMS detektor
-ALICE;ALICE detector;ALICE detektor
-LHCb;LHCb detector;LHCb detektor
-hiukkastörmäys;particle collision;részecskeütközés
-törmäysenergia;collision energy;ütközési energia
-hiukkastunnistus;particle detection;részecske detektálás
-hiukkaspolku;particle trajectory;részecske pálya
-detektori;detector;detektor
-ilmaisin;sensor;érzékelő
-piiridetektori;tracking detector;nyomkövető detektor
-kalorimetri;calorimeter;kaloriméter
-luminositeetti;luminosity;fényerősség
-törmäyssimulaatio;collision simulation;ütközés szimuláció
-hiukkastutkimus;particle physics;részecskefizika
-synkrotronvalo;synchrotron light;szinkrotronfény
-vakuuimi;vacuum;vákuum
-magnettikenttä;magnetic field;mágneses tér
-superjohde;superconductor;szupervezető
+Euroopan hiukkasfysiikan tutkimuskeskus;European Organization for Nuclear Research;Európai Nukleáris Kutatási Szervezet
+LHC (suuri hadronitörmäytin);LHC (Large Hadron Collider);LHC (Nagy Hadronütköztető)
+ATLAS-ilmaisin;ATLAS detector;ATLAS-detektor
+CMS-ilmaisin;CMS detector;CMS-detektor
+ALICE-ilmaisin;ALICE detector;ALICE-detektor
+LHCb-ilmaisin;LHCb detector;LHCb-detektor
+ISOLDE;ISOLDE (Isotope Separator On Line Device);ISOLDE (izotópszétválasztó)
+SPS (superprotoni-synkrotroni);SPS (Super Proton Synchrotron);SPS (szuperprotonszinkrotron)
+PS (protoni-synkrotroni);PS (Proton Synchrotron);PS (protonszinkrotron)
+tieteen infrastruktuuri;scientific infrastructure;tudományos infrastruktúra
+hiukkasfysiikan kokeet;particle physics experiments;részecskefizikai kísérletek
+supranjohtava magneetti;superconducting magnet;szupravezető mágnes
+kryogeeninen järjestelmä;cryogenic system;kriogén rendszer
+nestemäinen helium;liquid helium;folyékony hélium
+nestemäinen typpi;liquid nitrogen;folyékony nitrogén
+tyhjiöjärjestelmä;vacuum system;vákuumrendszer
+pumppuasema;pumping station;szivattyúállomás
+sädeoptiikka;beam optics;nyaláboptika
+fokusoiva magneetti;focusing magnet;fókuszáló mágnes
+kierros;revolution;keringés
+kiihdytyspiiri;acceleration cycle;gyorsítási ciklus
+säteen halkaisija;beam emittance;nyalábemittancia
+sädekuvio;beam profile;nyalábprofil
+sädehäviö;beam loss;nyalábveszteség
+verkkokammiot;wire chambers;drótkamrák
+ilmaisinhila;detector array;detektorrács
+monikanava-analysoija;multichannel analyzer;multicsatornás analizátor
+aikasynkronointi;time synchronization;időszinkronizálás
+ajastinresoluutio;timing resolution;időfelbontás
+pseudorapidius;pseudorapidity;pseudorapiditás
+osumapaikka;hit position;ütközési pont
+raita;track;pálya
+raitanrekonstruktio;track reconstruction;pályarekonstrukció
+signaali-kohinasuhde;signal-to-noise ratio;jelszaj arány
+purkaus;readout;kiolvasás
+suursimulaatio;large-scale simulation;nagyszabású szimuláció
+Monte Carlo -simulaatio;Monte Carlo simulation;Monte Carlo-szimuláció
+tietojen keruu;data acquisition;adatgyűjtés
+DAQ-järjestelmä;DAQ system;DAQ-rendszer
+klusterilaskenta;cluster computing;klaszterszámítás
+hajautettu laskenta;distributed computing;elosztott számítás
+suurtietokone;supercomputer;szuperszámítógép
+tallennuskapasiteetti;storage capacity;tárolókapacitás
+analyysiohjelmisto;analysis software;elemző szoftver
+ROOT (CERNin ohjelmisto);ROOT (CERN software);ROOT (CERN szoftver)
+hiukkaskimppu;particle jet;részecskenyaláb
+suihku;jet;sugárnyaláb
+rapidius;rapidity;rapiditás
+feynmanin diagrammi;Feynman diagram;Feynman-diagram
+hajonta;scattering;szórás
+kimmoton törmäys;inelastic collision;rugalmatlan ütközés
+kimmoisa törmäys;elastic collision;rugalmas ütközés
+kenttäteoria;field theory;mezőelmélet
+kvanttikromodynamiikka;quantum chromodynamics (QCD);kvantumkrodinamika
+kvanttisähködynamiikka;quantum electrodynamics (QED);kvantumelektrodinamika
+symmetriarikko;symmetry breaking;szimmetriasértés
+yhtenäisteoria;unified theory;egyesített elmélet
+hiukkaskiihdytinverkosto;accelerator complex;gyorsítókomplexum
+neutriinokoe;neutrino experiment;neutrínókísérlet
+Antimaterian tehdas (AD);Antimatter Factory (AD);Antianyag Gyár (AD)
+NA-kokeet (kiihdytinlinja);NA experiments (North Area);NA kísérletek (északi terület)
+CERNin pilvilaskenta;CERN cloud computing;CERN felhőszámítás
+GRID-tietojärjestelmä;GRID computing;GRID-számítástechnika
+hiukkasfysiikan konferenssi;particle physics conference;részecskefizikai konferencia
+tekninen infrastruktuuri;technical infrastructure;technikai infrastruktúra
+säteilysuoja;radiation shielding;sugárvédő
+säteilyturvallisuus;radiation safety;sugárbiztonság
+oskilloskooppi;oscilloscope;oszcilloszkóp
+spektrianalysaattori;spectrum analyzer;spektrumanalizátor
+hiukkassuihkuputki;beamline;nyalábvonal
+laitteiston kalibrointi;equipment calibration;berendezés kalibrálás
+mittausasema;measurement station;mérőállomás
+anturijärjestelmä;sensor system;szenzorrendszer
+korkeajännite;high voltage;nagyfeszültség
+jännite-erotin;voltage divider;feszültségosztó
+signaalivahvistin;signal amplifier;jelerősítő
+valomonistin;light sensor;fényérzékelő
+jäähdytysjärjestelmä;cooling system;hűtőrendszer
