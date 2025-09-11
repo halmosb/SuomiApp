@@ -1,0 +1,69 @@
+Finnish;English;Hungarian
+poliisi;police;rendőrség
+palokunta;fire brigade;tűzoltóság
+ambulanssi;ambulance;mentőautó
+vaara;danger;veszély
+hätä;emergency;sürgősség
+hätätilanne;emergency situation;sürgős helyzet
+hätätilanteet;emergency situations;sürgős helyzetek
+ensiapuasema;emergency room;ügyeleti osztály
+ensiapu;first aid;elsősegély
+yleinen hätänumero;general emergency number;általános segélyhívó szám
+varauloskäynti, hätäpoistumistie;emergency exit (building);vészkijárat (épület)
+pelastustie;emergency exit (yard);mentőút (udvar)
+Apua!;Help!;Segítség!
+Varas!;Thief!;Tolvaj!
+Ottakaa varas kiinni!;Stop that thief!;Fogjátok el a tolvajt!
+Soittakaa poliisi!;Call the police!;Hívjátok a rendőrséget!
+Soittakaa ambulanssi!;Call an ambulance!;Hívjátok a mentőt!
+Kadulla tapahtui kolari.;A car crash happened on the street.;Autóbaleset történt az utcán.
+Ajoin kolarin.;I got into a car crash.;Balesetet szenvedtem.
+Auto törmäsi minuun.;A car ran into me.;Autó elütött engem.
+Auto ajoi jalankulkijan päälle.;A car drove on a pedestrian.;Autó elgázolt egy gyalogost.
+Jouduin onnettomuuteen.;I was in an accident.;Balesetbe keveredtem.
+Kaaduin kadulla.;I fell on the street.;Elesettem az utcán.
+Liukastuin kadulla.;I slipped on the street.;Megcsúsztam az utcán.
+En pääse enää ylös.;I can't get up anymore.;Már nem tudok felállni.
+Olen loukkaantunut.;I'm hurt.;Megsérültem.
+Loukkasi pääni pahasti.;I hurt my head badly.;Súlyosan megütöttem a fejem.
+Haavasta vuotaa paljon verta.;There's a lot of blood coming from the wound.;Sok vér folyik a sebemből.
+Luulen, että jalkani on murtunut.;I think my leg is broken.;Azt hiszem, eltört a lábam.
+Mies sai sydänkohtauksen.;A man got a heart attack.;Egy férfinak szívinfarktusa lett.
+Kadulla makaa tajuton mies.;An unconscious man is laying on the street.;Az utcán egy öntudatlan férfi fekszik.
+Joku sai juuri sairauskohtauksen.;Somebody just got a seizure.;Valaki éppen rohamot kapott.
+Joku nainen juuri romahti maahan;Some woman just collapsed to the ground;Egy nő éppen összeesett a földre.
+En tiedä, hengittääkö hän.;I don't know if they are breathing.;Nem tudom, lélegzik-e.
+Minua seuraa mies.;A man is following me.;Egy férfi követ engem.
+Minua seurataan.;I'm being followed.;Követnek engem.
+Joku hyökkäsi minun kimppuuni.;Somebody attacked me.;Valaki megtámadott engem.
+Olen eksynyt ja minua pelottaa.;I'm lost and I'm scared.;Elvesztem és félek.
+Naapuritalo on syttynyt tuleen.;The neighboring house caught fire.;A szomszédos ház lángra kapott.
+Asunnossani on tulipalo.;There's a fire in my apartment.;Tűz van a lakásomban.
+Asuntooni on murtauduttu.;My apartment has been broken into.;Betörtek a lakásomba.
+Asunnossani on joku tuntematon.;There's a stranger in my apartment.;Valaki idegen van a lakásomban.
+Rappukäytävällä tapellaan.;There's fighting on the staircase.;Verekedés van a lépcsőházban.
+Rappukäytävässä on paljon savua.;There's a lot of smoke in the staircase.;Sok a füst a lépcsőházban.
+Naapuristani kuuluu huutoja.;There's shouting coming from my neighbors.;Kiabálást hallok a szomszédtól.
+Kuulin laukkauksen naapurista.;I heard a shot from my neighbors.;Lövést hallottam a szomszédtól.
+Näin miehen, jolla on ase.;I saw a man with a weapon.;Láttam egy férfit fegyverrel.
+Kaksi miestä ahdistelee naista.;Two men are harassing a woman.;Két férfi zaklat egy nőt.
+Lapseni on kadonnut.;My child has disappeared.;Eltűnt a gyermekem.
+Lapseni söi lääkkeitäni.;My child ate some of my meds.;A gyermekem megette a gyógyszereimet.
+Lapseni sai allergisen reaktion.;My child had an allergic reaction.;A gyermekem allergiás reakciót kapott.
+Joku hukkuu järveen.;Somebody is drowning in the lake.;Valaki a tóban fulladozik.
+Ystäväni putosi jään läpi.;My friend fell through the ice.;A barátom átesett a jégen.
+Tarvitsen ambulanssin.;I need an ambulance.;Mentőre van szükségem.
+Missä on lähin poliisiasema?;Where is the police station?;Hol van a legközelebbi rendőrőrs?
+Voisitko soittaa ambulanssin minulle?;Could you call an ambulance for me?;Tudnál hívni egy mentőt nekem?
+Voisitko viedä minut sairaalaan?;Could you bring me to the hospital?;El tudnál vinni a kórházba?
+Näitkö auton rekisterikilven?;Did you see the car's registration plate?;Láttad az autó rendszámát?
+Näitkö varkaan?;Did you see the thief?;Láttad a tolvajt?
+Pääsikö kaikki ulos talosta?;Did everyone make it out of the house?;Mindenki kijutott a házból?
+Missä ambulanssi viipyy?;What's taking the ambulance so long?;Miért késik a mentő?
+Kuinka nopeasti ambulanssi tulee?;How fast will the ambulance arrive?;Milyen gyorsan érkezik a mentő?
+Löitkö päätäsi kun kaaduit?;Did you hit your head when you fell?;Beütötted a fejed, amikor leestél?
+Vuodatteko verta?;Are you bleeding?;Vérzel?
+Miten tulipalo sai alkuunsa?;How did the fire start?;Hogyan keletkezett a tűz?
+Onko paikalla loukkaantuneita?;Are there injured people there?;Vannak ott sérültek?
+Voitko jäädä odottamaan poliisia?;Can you stay and wait for the police?;Tudsz maradni és várni a rendőrséget?
+Oliko siellä muita silminnäkijöitä?;Were there other eyewitnesses?;Voltak ott más szemtanúk?

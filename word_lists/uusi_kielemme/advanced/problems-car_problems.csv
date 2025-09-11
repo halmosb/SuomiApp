@@ -1,0 +1,203 @@
+Finnish;English;Hungarian
+moottorivika;engine problem;motorhiba
+hinata;to tow, tug;vontatni
+hinausauto;tow truck;autómentő
+huoltoauto;repair truck;szervizautó
+huoltoasema;petrol / gas station;benzinkút
+korjaamo;repair shop;javítóműhely
+korjaus;repair;javítás
+tiepalvelu;roadside assistance;útszéli segítség
+työkalut;tools;szerszámok
+hätävilkku;emergency flasher;vészvillogó
+käynnistyskaapeli;jump lead;indítókábel
+tunkki;jack;emelő
+vararengas;spare tire;pótkerék
+bensakanisteri;petrol can;benzin kannája
+epäkunnossa;out of order;használhatatlan
+vika;problem, fault;hiba
+jumissa;stuck;beragadt
+viallinen;faulty, defective;hibás
+tukossa;clogged;eldugult
+rikki;broken;törött
+huonokuntoinen;in poor condition;rossz állapotú
+ruostunut;rusted, corroded;rozsdásodott
+ruosteinen;rusty;rozsdás
+lommoinen;dented;horpadt
+kulunut;worn-out;kopott
+vahinko;damage;kár
+rengasrikko;flat tire;defekt
+Onko lähistöllä korjaamoa?;Is there a repair shop in the vicinity?;Van a közelben autószerviz?
+Voisitteko soittaa puolestani tiepalveluun?;Could you call to roadside assistance for me?;Tudna hívni helyettem útszéli segítséget?
+Voisitko viedä minut lähimmälle korjaamolle?;Could you take me to the closest car repair shop?;El tudna vinni a legközelebbi autószervizbe?
+Voisinko saada teiltä hiukan bensiiniä?;Could I get a bit of gasoline from you?;Kaphatnék egy kis benzint önöktől?
+Voisitteko auttaa renkaanvaihdossa?;Could you help me to change the tire?;Tudna segíteni a kerékcserében?
+Millainen vika?;What kind of a problem?;Milyen hiba van?
+Autossani on jotain vikaa.;There's a problem with my car.;Valami baj van az autómmal.
+Autoni ei käynnisty / lähde käyntiin.;My car won't start.;Az autóm nem indul.
+Auto starttaa huonosti.;The car starts badly.;Az autó rosszul indul.
+Moottorissa on jotain vikaa.;There's a problem with the engine.;Valami baj van a motorral.
+Moottori ylikuumenee.;The engine overheats.;A motor túlmelegszik.
+Moottori sammuu heti käynnistämisen / startin jälkeen.;The engine dies immediately after start-up.;A motor azonnal leáll a beindítás után.
+Moottorin merkkivalo palaa.;The engine's indicator light is on.;A motor jelzőfénye világít.
+Moottorin vikavalo palaa.;The engine's fault light is on.;A motor hibajelzője világít.
+Moottorin käynti on epätasainen.;The engine in running unevenly.;A motor egyenletlenül jár.
+Moottorin käynti katkoo.;The engine keeps stopping.;A motor holtpontokkal jár.
+Moottori katkoo tyhjäkäynnillä.;The engine stops when idle.;A motor alapjáraton akadozik.
+Moottori katkoo koko ajan.;The engine keeps stopping the whole time.;A motor folyamatosan akadozik.
+Moottorin suorituskyky on heikentynyt.;The engine's performance is impaired.;A motor teljesítménye csökkent.
+Moottori nykii.;The engine is choppy, jerks.;A motor rángat.
+Moottori ei vastaa kaasun painamiseen.;The engine doesn't responds to acceleration.;A motor nem reagál a gázadásra.
+Vasen etuvilkku ei toimi.;The left front indicator doesn't work.;A bal első irányjelző nem működik.
+Oikealta puolelta kuuluu outoa ääntä.;There's a weird sound coming from the right.;Furcsa hang hallatszik a jobb oldalról.
+Öljyn merkkivalo palaa.;The oil indicator light is on.;Az olajjelző világít.
+Autosta vuotaa öljyä.;Oil leaks from the car.;Olaj szivárog az autóból.
+Rengas puhkesi.;The tire broke.;Kilyukadt a gumi.
+Akku on tyhjä.;The car battery is empty.;Az akkumulátor lemerült.
+Akku tyhjenee nopeasti.;The battery discharges quickly.;Az akkumulátor gyorsan merül.
+Tuulilasissa on halkeama.;The windshield is cracked.;A szélvédő repedt.
+Vaihdelaatikko ulisee.;The gearbox makes a whining sound.;A sebváltó sípoló hangot ad.
+Konepellin alta kuuluu vinkumista.;You can hear wheezing underneath the hood.;A motorháztető alatt sípoló hang hallatszik.
+Auto kolisee kuoppaisella tiellä.;The car rattles on a bumpy road.;Az autó csörög a göröngyös úton.
+Kytkin luistaa.;The switch slips.;A kuplung csúszik.
+Jarruissa on vikaa.;There's a problem in the brakes.;Gond van a fékekkel.
+Jarrut vinkuvat.;The brakes squeal.;A fékek nyikordnak.
+Jarrut laahaavat;The brakes chop, lag.;A fékek akadoznak.
+Jarrupoljin tuntuu pehmeältä.;The brake pedal feels soft.;A fékpedál puha.
+Jarrupoljinta joutuu painamaan kovaa.;The brake pedal has to be pressed hard.;A fékpedált erősen kell nyomni.
+Auton ilmastointi ei toimi.;The car's AC doesn't work.;Az autó klímája nem működik.
+Ilmastointi puhaltaa lämmintä ilmaa.;The AC blows warm air.;A klíma meleg levegőt fúj.
+Korjausten pyytäminen;Asking for repairs;Javítás kérése
+Pystytkö korjaamaan sen jo tänään?;Can you fix it today already?;Tudja már ma megjavítani?
+Mihin mennessä pystyt korjaamaan autoni?;By what time can you fix my car?;Meddig tudja megjavítani az autómat?
+Kuinka kauan minun täytyy odottaa?;How long do I have to wait?;Mennyi ideig kell várnom?
+Voitteko korjata sen huomiseksi?;Can you fix it by tomorrow?;Meg tudja javítani holnapra?
+Milloin autoni on valmis?;When will my car be ready?;Mikor lesz kész az autóm?
+Mitä se tulee maksamaan?;What will this cost me?;Mennyibe fog kerülni?
+Voisitteko vilkaista autoani?;Could you take a look at my car?;Meg tudná nézni az autómat?
+Selitys vialle;The explanation of car problems;Magyarázat a hibára
+Vaihteiston hammaspyörät ovat kuluneet.;The gear wheels are worn out.;A fogaskerekek elhasználódtak.
+Vaihdelaatikko on kulunut.;The gearbox is worn out.;A sebváltó elhasználódott.
+Painelaakeri on hajonnut.;The thrust bearing is broken.;A nyomólapágy eltört.
+Painelaakeri on kulunut.;The thrust bearing is worn.;A nyomólapágy kopott.
+Rengaspaineet ovat laskeneet liian alhaisiksi.;Tire pressures have fallen too low.;A gumik nyomása túl alacsony lett.
+Sytytyksessä on jokin vika.;There is a fault in the ignition.;Hiba van a gyújtásban.
+Sytytystulpat ovat kuluneet.;The spark plugs are worn out.;A gyújtógyertyák elhasználódtak.
+Sytytystulpat ovat huonokuntoiset / huonossa kunnossa.;The spark plugs are in poor condition.;A gyújtógyertyák rossz állapotúak.
+Sytytystulppien johdot ovat vioittuneet.;The spark plug wires are damaged.;A gyújtógyertyák vezetékei sérültek.
+Sytytystulppien johdot ovat vialliset.;The spark plug wires are defective.;A gyújtógyertyák vezetékei hibásak.
+Ruiskutusjärjestelmässä on vikaa;There is a problem with the injection system.;Probléma van a befecskendező rendszerrel.
+Jäähdytysnestettä ei ole tarpeeksi.;There's not enough coolant.;Nincs elég hűtőfolyadék.
+Jäähdytysnesteeseen on jäänyt ilmatasku.;There's an air pocket in the coolant.;Légbuborék maradt a hűtőfolyadékban.
+Jäähdytysneste on liian likaista.;The coolant is too dirty.;A hűtőfolyadék túl szennyezett.
+Jäähdyttimen putkissa on tukos.;There's a blockage in the radiator pipes.;Elzáródás van a radiátor csöveiben.
+Jäähdyttimessä on vuoto.;The radiator has a leak.;Szivárgás van a radiátorban.
+Moottoriin vuotaa jäähdytysnestettä.;The coolant is leaking into the engine.;Hűtőfolyadék szivárog a motorba.
+Jäähdytysneste vuotaa.;The coolant is leaking.;Hűtőfolyadék szivárog.
+Lambda-anturi on viallinen;The lambda sensor is defective.;A lambda-szenzor hibás.
+Öljynpaineen anturi on viallinen.;The oil pressure sensor is defective.;Az olajnyomás érzékelő hibás.
+Anturi antaa väärää tietoa öljynpaineesta.;The sensor gives incorrect information on oil pressure.;Az érzékelő rossz információt ad az olajnyomásról.
+Moottorissa on liian vähän öljyä.;There's not enough oil in the engine.;Túl kevés olaj van a motorban.
+Käytät vääränlaista öljyä.;You're using the wrong kind of oil.;Rossz típusú olajat használ.
+Öljysihti on tukkeutunut moottorin pohjassa.;The oil sump is clogged at the bottom of the engine.;Az olajteknő eldugult a motor alján.
+Öljypumppu ei saa pumpattua öljyä.;The oil pump can't pump the oil.;Az olajszivattyú nem tudja szivattyúzni az olajat.
+Öljynpaine on liian matala.;The oil pressure is too low.;Az olajnyomás túl alacsony.
+Ohjaustehostimen neste on vähissä;The power steering fluid is low.;Kevés a szervokormány folyadéka.
+Ohjaustehostimen pumppu on viallinen.;The power steering pump is defective.;A szervokormány szivattyúja hibás.
+Ohjaustehostin vinkuu.;The power steering makes a whistling sound.;A szervokormány sípoló hangot ad.
+Moottorinohjauslaitteessa on vikaa.;There is a fault in the motor control unit.;Hiba van a motorvezérlő egységben.
+Vesipumppu on viallinen.;The water pump is defective.;A vízpumpa hibás.
+Termostaatti on vioittunut.;The thermostat is damaged.;A termosztát megsérült.
+Polttoainelinjastossa on tukos.;There is a blockage in the fuel line.;Eltömődött az üzemanyagsor.
+Polttoainejärjestelmässä on vika.;There's a fault in the fuel system.;Hiba van az üzemanyag-rendszerben.
+Polttoainejärjestelmässä on jokin vika.;There's some kind of fault in the fuel system.;Valamilyen hiba van az üzemanyag-rendszerben.
+Polttoaine on lopussa.;You're out of fuel.;Elfogyott az üzemanyag.
+Sinulla on väärää polttoainetta tankissa.;You have the wrong fuel in the tank.;Rossz üzemanyag van a tankban.
+Polttoainepumppu on vioittunut.;The fuel pump is damaged.;Az üzemanyag-szivattyú megsérült.
+Polttoainepumpussa on vikaa.;There is a fault in the fuel pump.;Hiba van az üzemanyag-szivattyúban.
+Polttoainejärjestelmään on päässyt ilmaa.;Air has gotten into the fuel system.;Levegő jutott az üzemanyag-rendszerbe.
+Ilmamassamittari on viallinen;The air mass meter is defective.;A levegőmennyiség-mérő hibás.
+Suihkutussuutin on tukkeutunut.;The spray nozzle is clogged.;A befecskendező fúvóka eltömődött.
+Suuttimet ovat tukossa.;The nozzles are clogged.;A fúvókák eldugultak.
+Nokka-akseli on kulunut.;The camshaft has worn down.;A vezérműtengely elkopott.
+Nokka-akselin asentotunnistin on viallinen.;The camshaft's position sensor is defective.;A vezérműtengely helyzetérzékelője hibás.
+Laturin hihna on löysä(llä).;The charger belt is loose.;A generátor szíja laza.
+Moniurahihna on löysä.;The V-belt is loose.;A bordásszíj laza.
+Moniurahihnan kiristin on kulunut loppuun.;The V-belt tensioner is worn out.;A bordásszíj feszítő elkopott.
+Kytkinlevy on kulunut loppuun.;The clutch plate is worn out.;A kuplungtárcsa elkopott.
+Kytkinlevy on lasittunut;The clutch plate is glazed.;A kuplungtárcsa megüvegesedett.
+Kytkinlevyyn on päässyt öljyä.;Oil has gotten into the coupling plate.;Olaj került a kuplungtárcsába.
+Katalysaattori on rikki.;The catalyst is broken.;A katalizátor tönkrement.
+Katalysaattori on viallinen.;The catalyst is defective.;A katalizátor hibás.
+Katalysaattorin sisuskalut ovat irti.;The insides of the catalysts are loose.;A katalizátor belső részei szabadon mozognak.
+Jarrut ovat jumiutuneet.;The brakes are jammed.;A fékek beragadtak.
+Jarrulevyissä on kosteutta.;There's moisture in the brake discs.;Nedvesség van a féktárcsákban.
+Jarrulevyt ovat ruosteessa.;The brake discs are rusty.;A féktárcsák rozsdásak.
+Jarrulevyt ovat todella kuluneet.;The brake discs are really worn.;A féktárcsák nagyon elkoptak.
+Jarrulevyt ovat kierot.;The brake discs are twisted.;A féktárcsák csavarodottak.
+Jarrupalat ovat loppuun kuluneet.;The brake pads are worn out.;A fékbetétek elkoptak.
+Jarrupalat ovat todella kuluneet.;The brake pads are really worn.;A fékbetétek nagyon elkoptak.
+Jarrumäntä on jumissa.;The brake piston is stuck.;A fékpiston beragadt.
+Jarruletkut ovat turvonneet sisältäpäin;The brake hoses are swollen from the inside.;A fékcsövek belülről megduzzadtak.
+Jarruletkut ovat huonossa kunnossa.;The brake hoses are in poor condition.;A fékcsövek rossz állapotban vannak.
+Jarrunesteen seassa on ilmaa.;There's air in the brake fluid.;Levegő van a fékfolyadékban.
+Jarrujen pääsylinteri on vioittunut.;The brakes' master cylinder is damaged.;A fékrendszer főhenger megsérült.
+Jarrujen pääsylinterin on löystynyt.;The brakes' master cylinder is loose.;A fékrendszer főhenger meglazult.
+Jarrusylinteri on jumiutunut.;The brake cylinder is jammed.;A fékhenger beragadt.
+Jarrusylinteri painaa jarrupalaa.;The brake cylinder presses on the brake pad.;A fékhenger nyomja a fékbetétet.
+Sylinterien puristuspaineet ovat alhaiset.;The pressure of the cylinders is low.;Az hengerek nyomása alacsony.
+Sylintereiden puristuspaine on liian alhainen.;The pressure in the cylinders is too low.;Az hengerek nyomása túl alacsony.
+Jarrutehostimen letku vuotaa.;The brake booster's hose is leaking.;A fékerősítő tömlője szivárog.
+Paisuntasäiliössä on vuoto.;The expansion tank has a leak.;A tágulási tartály szivárog.
+Kannentiiviste vuotaa.;The cover seal leaks.;A hengerfejtömítés szivárog.
+Järjestelmä on vikatilassa.;The system is in error mode.;A rendszer hibás állapotban van.
+Kaasuttimen säädöt ovat pielessä.;The carburetor settings are wrong.;A karburátor beállításai rosszak.
+Ilmastoinnin kompressori on viallinen.;The AC's compressor is defective.;A légkondicionáló kompresszora hibás.
+Ilmansuodatin on tukossa / tukkeutunut.;The air filter is clogged.;A levegőszűrő eltömődött.
+Suodatin on pahasti tukossa.;The filter is badly clogged.;A szűrő súlyosan eldugult.
+Suodattimessa on tukos.;There is a blockage in the filter.;Eltömődés van a szűrőben.
+Ilmansuodatin on liian likainen.;The air filter is too dirty.;A levegőszűrő túl szennyezett.
+Puhaltimen moottori on viallinen.;The fan motor is defective.;A ventilátor motorja hibás.
+Kompressorin öljy on päässyt loppumaan.;The compressor's oil has run out.;A kompresszor olaja elfogyott.
+Kompressorin laakeri on kulunut.;The compressor's bearing is worn.;A kompresszor csapágy elkopott.
+Imusarjassa on vuoto.;There's a leak in the suction line.;Szivárgás van a szívócsőben.
+Iskunvaimentimet ovat huonossa kunnossa.;The shock absorbers are in bad shape.;A lengéscsillapítók rossz állapotban vannak.
+Iskunvaimentimien kiinnitys on löysällä.;The shock absorbers' fastening is loose.;A lengéscsillapítók rögzítése laza.
+Akku on hajonnut vanhuuttaan.;The battery has broken down with old age.;Az akkumulátor az öregedés miatt meghibásodott.
+Akun kaapelit ovat hapettuneet.;The battery cables are oxidized.;Az akkumulátor kábelei oxidálódtak.
+Akun kaapelit ovat löysällä.;The battery cables are loose.;Az akkumulátor kábelei lazák.
+Akku on huonokuntoinen.;The battery is in poor condition.;Az akkumulátor rossz állapotban van.
+Akun kaapelikenkä on löysällä.;The battery cable lug is loose.;Az akkumulátor kábelsaruja laza.
+Autossa on oikosulku.;The car is short-circuited.;Az autó zárlatos.
+akkukaapelit;battery cables;akkumulátor kábelek
+alipainemittari;vacuum gage;vákuummérő
+autopukki;car rack;autós állvány
+autoramppi;car ramp;autó rámpa
+hylsyavain;socket wrench;dugókulcs
+jakoavain;monkey wrench;francia kulcs
+kaapelikenkäpihdit;crimping pliers;kábelsaru fogó
+(kiinto)lenkkiavain;combination wrench;gyűrűs kulcs
+kiintoavain;open-end wrench;villáskulcs
+kulmahiomakone, rälläkkä;angle grinder;sarokcsiszoló
+kuulapäävasara;ball-peen hammer;golyós fejű kalapács
+kärkipihdit;tip pliers;hegyesfogó
+käynnistyskaapelit;starter cables;indító kábelek
+leka, pajavasara;sledgehammer;kétkezes kalapács
+moniotepihdit;multi-grip pliers;multifunkciós fogó
+momenttiavain;torque wrench;nyomatékkulcs
+nivelväännin;articulated wrench;csuklós kulcs
+paineilmahylsy;pneumatic sleeve;pneumatikus dugó
+paineilmakompressori;air compressor;légkompresszor
+peltisakset;tin snips;lemezvágó olló
+porakone;power drill;elektromos fúró
+puukko;knife;kés
+rakennusmiehen vasara;regular hammer;normál kalapács
+rasvaprässi;grease gun;zsírzópisztoly
+ruuvimeisseli;screwdriver;csavarhúzó
+ruuvipenkki, ruuvipuristin;bench vise;satu szorító
+räikkäväännin;ratchet wrench;ráspolyás kulcs
+sivuleikkurit;wire cutters;oldalvágó fogó
+työkalupakki;toolbox;szerszámosláda
+työntömitta;callipers;tolómérő
+yhdistelmäpihdit;combination pliers;kombinált fogó
+yleismittari;multimeter;multiméter
+öljynsuodatinavain;oil filter wrench;olajszűrő kulcs

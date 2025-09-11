@@ -1,0 +1,105 @@
+Finnish;English;Hungarian
+Tietokone on rikki.;The computer is broken.;A számítógép elromlott.
+Tietokone meni rikki.;The computer broke.;A számítógép tönkrement.
+Tietokone ei toimi.;The computer doesn't work.;A számítógép nem működik.
+Tietokone ei toimi kunnolla.;The computer isn't working properly.;A számítógép nem működik rendesen.
+Tietokone on rikkoutunut.;The computer has broken down.;A számítógép meghibásodott.
+Tietokoneessa on jotain vikaa;There something wrong with the computer.;Valami gond van a számítógéppel.
+Tietokone oikuttelee.;The computer is misbehaving.;A számítógép rendetlenkedik.
+Tietokone temppuilee.;The computer is playing tricks.;A számítógép trükközik.
+Tietokone tökkii.;The computer works badly.;A számítógép akadozik.
+Tietokone ei käynnisty.;The computer won't turn on.;A számítógép nem indul el.
+Tietokone ei lähde enää käyntiin.;The computer won't start anymore.;A számítógép már nem indul el.
+Windows jää käynnistäessä jumiin.;Windows gets stuck on startup.;A Windows elinduláskor beragad.
+En pääse tervetuloanäyttöön.;I can't access the welcome screen.;Nem tudok belépni a kezdőképernyőre.
+Tietokone hidastelee.;The computer is slowing down.;A számítógép lassul.
+Tietokone on hidastunut.;The computer has slowed down.;A számítógép lelassult.
+Tietokone toimii hitaasti.;The computer works slowly.;A számítógép lassan működik.
+Tietokone jumittaa.;The computer freezes.;A számítógép lefagy.
+Tietokone menee täysin jumiin.;The computer freezes completely.;A számítógép teljesen lefagy.
+Koko tietokone hyytyy.;The whole computer freezes.;Az egész számítógép megáll.
+Tietokone kaatuu.;The computer crashes.;A számítógép összeomlik.
+Tietokone sammuilee.;The computer keeps turning itself off.;A számítógép magától kikapcsol.
+Tietokone sammuu itsestään.;The computer shuts down by itself.;A számítógép magától leáll.
+Tietokone sammuu äkillisesti.;The computer shuts down suddenly.;A számítógép hirtelen leáll.
+Kone käynnistyy uudelleen jatkuvasti.;The computer restarts continuously.;A számítógép folyamatosan újraindul.
+Näytölle ilmestyy virheviesti.;An error message appears on the screen.;Hibaüzenet jelenik meg a képernyőn.
+Saan virheilmoituksia.;I'm getting error messages.;Hibaüzeneteket kapok.
+Saan sinisiä virheilmoituksia.;I'm getting blue error messages.;Kék hibaüzeneteket kapok.
+"sininen kuoleman ruutu";"blue screen of death";"a halál kék képernyője"
+Tietokone näyttää virheruutu.;The computer shows an error screen.;A számítógép hibaképernyőt mutat.
+Käynnistys pysähtyy siniseen ruutuun.;Start-up ends at a blue screen.;Az indítás megáll a kék képernyőn.
+Tietokone ilmoittaa, että muisti on vähissä.;The computer indicates that memory is low.;A számítógép jelzi, hogy kevés a memória.
+Näyttö on rikki.;The screen is broken.;A képernyő eltört.
+Näyttö on pimeänä.;The screen is dark.;A képernyő sötét.
+Näyttö on mustana.;The screen is black.;A képernyő fekete.
+Näyttöön ei tule kuvaa.;The screen won't show anything.;A képernyőn nem jelenik meg semmi.
+Ruudulla ei näy mitään.;Nothing can be seen on the screen.;A képernyőn semmi sem látszik.
+Tulostin ei yhdisty.;The printer won't connect.;A nyomtató nem csatlakozik.
+Tulostin ei reagoi.;The printer doesn't react.;A nyomtató nem reagál.
+Tulostinta ei löydy.;The printer can't be found.;A nyomtató nem található.
+Hiiri lakkasi toimimasta.;The mouse stopped working.;Az egér abbahagyta a működést.
+Laturi ei toimi.;The charger doesn't work.;A töltő nem működik.
+Akku ei lataudu.;The battery won't load.;Az akkumulátor nem töltődik.
+Tietokone ei tunnista laitetta.;The computer won't recognise the device.;A számítógép nem ismeri fel az eszközt.
+Tietokone ei tunnista kiintolevyä.;The computer won't recognize the hard disk.;A számítógép nem ismeri fel a merevlemezt.
+Tietokone lämpenee liikaa.;The computer heats up too much.;A számítógép nagyon melegszik.
+Tietokone ylikuumenee.;The computer overheats.;A számítógép túlmelegszik.
+Tuuletin ei pyöri lainkaan.;The fan doesn't rotate at all.;A ventilátor egyáltalán nem forog.
+Tuuletin pitää kovaa meteliä.;The fan makes a lot of noise.;A ventilátor hangos zajt ad.
+Tietokoneesta kuuluu outoa ääntä.;The computer makes a strange noise.;A számítógép furcsa hangot ad.
+Internetyhteys ei toimi.;The internet connection doesn't work.;Az internetkapcsolat nem működik.
+Langaton verkko ei toimi.;The wireless internet doesn't work.;A vezeték nélküli hálózat nem működik.
+Netti lakkasi toimimasta.;The internet stopped working.;Az internet abbahagyta a működést.
+Nettiyhteys katkailee toistuvasti.;The internet connection keeps interrupting.;Az internetkapcsolat ismételten megszakad.
+En pääse nettiin.;I can't get on the internet.;Nem tudok csatlakozni az internetre.
+Netti ei tahdo yhtään toimia kunnolla.;The internet won't work properly at all.;Az internet egyáltalán nem működik rendesen.
+Ohjelman käynnistyminen kestää.;It takes a long time for the program to load.;A program betöltése sokáig tart.
+Ohjelma ei käynnisty lainkaan.;The program won't start at all.;A program egyáltalán nem indul el.
+Ohjelma ei suostu avautumaan.;The program won't open up.;A program nem hajlandó megnyílni.
+Ohjelma jäätyy.;The program freezes.;A program lefagy.
+Ohjelma kaatuu.;The program crashes.;A program összeomlik.
+Ohjelma lakkasi yllättäen toimimasta.;The program suddenly stopped working.;A program hirtelen leállt.
+Ohjelma lakkasi vastaamasta.;The program stopped responding.;A program abbahagyta a válaszadást.
+Ohjelma ei vastaa kutsuihin.;The program is not responding.;A program nem reagál a hívásokra.
+Ohjelma käyttää liikaa RAM-muistia.;The program is using too much RAM.;A program túl sok RAM-ot használ.
+Tietokone on saastunut viruksilla.;The computer is infected with viruses.;A számítógép vírusokkal fertőzött.
+Näytölle ponnahtaa / pomppii mainoksia.;Ads pop up on the screen.;Hirdetések jelennek meg a képernyőn.
+Näytölle pulpahtaa ponnahdusikkunoita.;Pop-ups pop up on the screen.;Felugró ablakok jelennek meg a képernyőn.
+Tietokoneesta on kadonnut tiedostoja.;Programs have disappeared from the computer.;Fájlok tűntek el a számítógépről.
+En pysty kirjautumaan sisään.;I can't sign in.;Nem tudok bejelentkezni.
+Kirjautuminen ei onnistu.;I'm unable to log in.;Nem sikerül bejelentkezni.
+En pääse tililleni.;I can't access my account.;Nem férek hozzá a fiókomhoz.
+En muista salasanaani.;I can't remember my password.;Nem emlékszem a jelszavamra.
+Se ei hyväksy salasanaani.;It won't accept my password.;Nem fogadja el a jelszavamat.
+Tietokone on liian vanha.;The computer is too old.;A számítógép túl régi.
+Kyseessä on laitevika.;It's a hardware problem.;Hardverhiba van.
+Laitteistossa on vika.;There is a problem with the hardware.;A hardverrel probléma van.
+Tuulettimissa on vika.;The fans are faulty.;A ventilátorok hibásak.
+Kiintolevyssä on vika.;The hard disk is faulty.;A merevlemez hibás.
+Ongelma on kiintolevyssä.;There is a problem with the hard disk.;Probléma van a merevlemezzel.
+Emolevy on rikkoutunut.;The motherboard is broken.;Az alaplap elromlott.
+Prosessori on rikkoutunut.;The processor is broken.;A processzor tönkrement.
+Virtalähde on viallinen.;The power supply is defective.;A tápegység hibás.
+Koneessa ei ole tarpeeksi muistia.;The pc doesn't have enough memory.;A számítógépnek nincs elég memóriája.
+Keskusmuisti ei riitä.;There isn't enough main memory.;A fő memória nem elég.
+Koneeseen on asennettu liikaa ohjelmia.;There are too many programs installed on the pc.;Túl sok program van telepítve a számítógépre.
+Kiintolevy on liian täynnä.;The hard disk is too full.;A merevlemez túl tele van.
+Koneen ajuriversio on liian vanha.;The pc's driver's version is too old.;A számítógép illesztőprogram-verziója túl régi.
+Tietokoneessa on viruksia.;There are viruses on the computer.;Vírusok vannak a számítógépen.
+Tietokoneessa on haittaohjelma.;There's malware on the computer.;A számítógépen rosszindulatú szoftver van.
+Hanki tilalle uusi tietokone.;Replace it with a new computer.;Szerezz be helyette egy új számítógépet.
+Korjaa se itse.;Fix it yourself.;Javítsd meg magad.
+Älä yritä korjata sitä itse.;Don't try to fix it yourself.;Ne próbáld meg magad megjavítani.
+Vie tietokone huoltoon.;Have the computer serviced.;Vidd el a számítógépet szervizbe.
+Odota hetki ja yritä uudelleen.;Wait a moment and try again.;Várj egy kicsit, majd próbáld újra.
+Onko kaikki kaapelit varmasti paikoillaan?;Are you sure all the cables are in place?;Biztos, hogy minden kábel a helyén van?
+Onko näyttö kytketty päälle?;Is the monitor on?;Be van kapcsolva a monitor?
+Käynnistä tietokone uudestaan.;Reboot the computer.;Indítsd újra a számítógépet.
+Oletko yrittänyt käynnistää uudelleen?;Have you tried to reboot?;Megpróbáltad újraindítani?
+Tarkista, että virtajohto on seinässä.;Check that the power cord is plugged in.;Ellenőrizd, hogy a tápkábel be van-e dugva a konnektorba.
+Päivitä ajurit.;Update the drivers.;Frissítsd az illesztőprogramokat.
+Pidä ajurit ajan tasalla.;Keep the drivers updated.;Tartsd naprakészen az illesztőprogramokat.
+Päivitä käyttöjärjestelmä.;Update the operating system.;Frissítsd az operációs rendszert.
+Asenna Windows uudelleen.;Reinstall Windows.;Telepítsd újra a Windowst.
+Käynnistä kone vikasietotilaan;Turn the pc on in safe mode.;Indítsd a számítógépet csökkentett módban.

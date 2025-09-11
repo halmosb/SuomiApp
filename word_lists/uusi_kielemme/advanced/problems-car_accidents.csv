@@ -1,0 +1,166 @@
+Finnish;English;Hungarian
+Kolari;Car accident;Autóbaleset
+risteyskolari;intersection crash;kereszteződésbaleset
+ketjukolari;multiple pile-up;láncbaleset
+nokkakolari;head-on collision;frontális ütközés
+peräänajo;rear-end collision;hátsó ütközés
+ulosajo;car off the road;autó az útról ki
+yhteentörmäys;collision;ütközés
+kuolonkolari;fatal accident;halálos baleset
+poro-onnettomuus;reindeer accident;rános baleset
+hirvionnettomuus;collision with an elk;őzbaleset
+polkupyöräonnettomuus;bicycle accident;kerékpáros baleset
+ohitusonnettomuus;overtaking accident;előzési baleset
+jalankulkijan yliajo;pedestrian runover;gyalogos elütése
+oja;ditch;árok
+yksisuuntainen katu;one-way street;egysávos utca
+yksikaistainen tie;one-lane road;egysávos út
+ajokaista;lane;sáv
+vasen ajokaista;left lane;bal sáv
+oikea ajokaista;right lane;jobb sáv
+ulkokaista;outer lane;külső sáv
+ohituskaista;overtaking lane;előzősáv
+kuoppa;pothole;kátyú
+ramppi, ajoluiska;interchange ramp;lehajtó rámpa
+poistumishaara;intersection exit;lehajtó ág
+poikkikatu;crossroad;kereszteződés
+kaksikaistainen tie;two-lane road;két sávos út
+valtatie;highway;autópálya
+ajoneuvo;vehicle;jármű
+henkilöauto;passenger car;személyautó
+rekka;truck;teherautó
+kuorma-auto;lorry, van;kisteherautó
+pyöräilijä;cyclist;kerékpáros
+jalankulkija;pedestrian;gyalogos
+kuljettaja;driver;sofőr
+matkustaja;passenger;utas
+rattijuoppo;drunken driver;ittas sofőr
+vastaantulija;oncoming driver;szemből érkező sofőr
+vastaantuleva liikenne;incoming traffic;szembejövő forgalom
+syytön;innocent;ártatlan
+syyllinen;guilty;bűnös
+tahallaan;on purpose;szándékosan
+vahingossa;accidentally;véletlenül
+ylinopeus;speeding;túlsebesség
+rattijuopumus;driving drunk;ittas vezetés
+nopeusrajoitus;speed limit;sebességhatár
+varoituskolmio;warning triangle;veszélytábla
+U-käännös;U-turn;U-kanyar
+päihtynyt;intoxicated;bódult
+humalassa;drunk;részeg
+ohituskielto;no overtaking;előzési tilalom
+etuajo-oikeus;priority driving;elsőbbségadás
+jäinen;icy;jeges
+liukas;slippery;csúszós
+rankkasade;heavy rain;heves eső
+sumu;fog, mist;köd
+huono näkyvyys;poor visibility;rossz látási viszonyok
+jäätävä tihkusade;drizzle;fagyos szitálás
+routa;frost;fagy
+olla tajuissaan;to be conscious;tudatánál lenni
+menettää tajuntansa;to lose consciousness;elveszíti az eszméletét
+tulla tajuihinsa;to become conscious;magához tér
+olla tajuton;to be unconscious;eszméletlen
+törmätä;to collide;ütközik
+vaurioitua;to be damaged;sérül
+vaarantaa;to endanger;veszélyeztet
+peruuttaa;to back up;hátramenet
+ajaa ojaan;to drive into a ditch;árkba hajt
+ohittaa;to overtake, pass;előz
+jarruttaa;to brake;fékez
+kaasuttaa;to accelerate;gyorsít
+kääntyä;to turn;fordul
+ajaa ylinopeutta;to drive too fast;túllépi a sebességet
+vamma;injury;sebesülés
+haava;wound;seb
+vahinko, vaurio;damage;kár (általános)
+romu;wreck;roncs
+romuajoneuvo;wrecked car;roncsautó
+ajokielto;license suspension;vezetési tilalom
+Auto ajoi jalankulkijan päälle.;A car drove over a pedestrian.;Autó elütött egy gyalogost.
+Henkilöauto ajoi kolarin.;Passenger car got into a crash.;Személyautó balesetet szenvedett.
+Henkilöauto törmäsi karhuun.;Passenger car collided with a bear.;Személyautó ütközött egy medvével.
+Pakettiauto törmäsi pyöräilijään.;The van collided with a cyclist.;Kisteherautó ütközött egy kerékpárossal.
+Auto törmäsi puuhun suurella nopeudella.;The car collided with the tree at high speed.;Autó nagy sebességgel fának ütközött.
+Moottoripyöräilijä ajautui ulos tieltä.;A motorcyclist drifted off the road.;Motoros lehajtott az útról.
+Auto ajautui vastaantulevan kaistalle.;The car drifted into the incoming lane.;Autó áthajtott a szembejövő sávba.
+Auto ajautui kyljelleen ojaan.;The car ended up on its side in the ditch.;Autó az oldalára borult az árokban.
+Rekka suistui ojaan.;The truck was derailed in a ditch.;Teherautó árokba borult.
+Auto suistui tieltä.;The car derailed from the road.;Autó letért az útról.
+Auto pyörähti katolleen ojan pohjalle.;The car rolled on its roof at the bottom of the ditch.;Autó a tetejére fordult az árok alján.
+Hän ajoi kolarin pysäköityyn autoon.;She crashed into a parked car.;Összeütközött egy parkoló autóval.
+Kaksi henkilöautoa ajoi nokkakolarin.;Two passenger cars got into a head-on collision.;Két személyautó frontálisan ütközött.
+Bussi ajoi henkilöauton kylkeen.;The bus drove into the side of a passenger car.;Busz nekiütközött a személyautó oldalának.
+Mopoilija törmäsi taksin oikeaan kylkeen.;The moped collided with the right side of the taxi.;Robogós a taxi jobb oldalának ütközött.
+Kolme autoa kolaroi valtatiellä.;Three cars crashed on the highway.;Három autó ütközött az autópályán.
+Seitsemän auton ketjukolari sattui klo 8.;The chain accident of 7 cars happened at 8 o'clock.;Hét autós láncbaleset történt 8-kor.
+Törmäys sattui valtaväylän rampin kohdalla.;The collision occurred at the highway ramp.;Ütközés történt az autópálya lehajtónál.
+Hän lensi auton katon yli useita metrejä.;He flew several meters over the roof of the car.;Több métert repült az autó tetején.
+Moottoripyöräilijä ajoi henkilöauton perään.;A motorcyclist drove into the back of a passenger car.;Motoros hátulról ütközött a személyautónak.
+Tiellä sattui kuolonuhrin vaatinut kolari.;On the road happened a crash that led to a death.;Az úton halálos baleset történt.
+Autoilija ajoi poliisia karkuun.;The car driver drove away from the police.;Autós elmenekült a rendőrök elől.
+Onneksi auton turvatyyny laukesi.;Luckily the car's air bag was triggered.;Szerencsére az autó légzsákja kinyílt.
+Syyllinen katosi;The guilty disappeared;A bűnös eltűnt.
+Kolariin syyllistynyt kuljettaja poistui paikalta.;The driver guilty of the crash left the scene.;A balesetet okozó sofőr elhagyta a helyszínt.
+Peräänajaja ei pysähtynyt tapahtumapaikalle.;The person who collided from the rear didn't stop at the scene.;A hátsó ütközés okozója nem állt meg a helyszínen.
+Onnettomuuden aiheuttaja häipyi paikalta.;The causer of the accident disappeared from the scene.;A baleset okozója eltűnt a helyszínről.
+Kolarin aiheuttanut auto jatkoi matkaansa.;The car that caused the crash drove on.;A balesetet okozó autó továbbhajtott.
+Auto jatkoi pysähtymättä matkaansa.;The car drove on without stopping.;Az autó megállás nélkül továbbhajtott.
+Kuljettaja nukahti rattiin.;The driver fell asleep at the wheel.;A sofőr elaludt a kormánynál.
+Kyseessä saattaa oli kuljettajan sairauskohtaus.;It may be caused by the driver falling ill.;Lehet, hogy a sofőr rosszulléte okozta.
+Miehiä epäillään rattijuopumuksesta.;The men are suspected of drunk driving.;A férfiakat ittas vezetéssel gyanúsítják.
+Onnettomuuden tarkkaa syytä ei ole tiedossa.;The exact cause of the accident is still unknown.;A baleset pontos oka még ismeretlen.
+Toinen autoista tuli kolmion takaa.;One of the cars came from a non-priority road.;Az egyik autó elsőbbség nélküli útról jött.
+Ajoneuvo suistui ojaan huonossa kelissä.;The vehicle drove into the ditch in the bad weather.;A jármű árokba hajtott rossz időben.
+Väärään suuntaan autoillut aiheutti kolarin.;A person driving the wrong direction caused the crash.;A rossz irányban közlekedő okozta a balesetet.
+Kuljettaja ajoi päin punaisia.;The driver drove through red lights.;A sofőr áthajtott a piros lámpán.
+Rekka ajoi liukkauden vuoksi ojaan.;The truck drove into the ditch due to slipperiness.;A teherautó a csúszós út miatt hajtott árokba.
+Poliisi tutkii onnettomuuden syytä.;The police are investigating the cause of the accident.;A rendőrség vizsgálja a baleset okát.
+Kukaan ei loukkaantunut törmäyksessä.;Nobody was hurt in the collision.;Senki sem sérült az ütközésben.
+Kukaan ei loukkaantunut vakavasti.;Nobody was seriously injured.;Senki sem sérült súlyosan.
+Kuljettaja ei loukkaantunut onnettomuudessa.;The driver wasn't injured in the accident.;A sofőr nem sérült a balesetben.
+Kolarista ei aiheutunut henkilövahinkoja.;The car crash didn't cause any personal injuries.;A baleset személyi sérülést nem okozott.
+Matkustaja loukkaantui lievästi.;The passenger was slightly injured.;Az utas enyhén megsérült.
+Matkustajan vammat olivat lieviä.;The injuries of the passenger were superficial.;Az utas sérülései felületesek voltak.
+Kaksi henkilöä sai lieviä vammoja.;Two people got superficial injuries.;Két ember felületes sérüléseket szenvedett.
+Matkustaja säästyi isommilta vammoilta.;The passenger didn't suffer bigger injuries.;Az utas nagyobb sérülésektől megmenekült.
+Kolme loukkaantui vakavasti.;Three were seriously injured.;Hárman súlyosan megsérültek.
+Heidät kuljetettiin saamaan hoitoa.;They were transported to receive treatment.;Őket kezelésre szállították.
+Hänet kuljettiin hoitoon.;She was transported for treatment.;Őt kezelésre vitték.
+Heidät vietiin sairaalaan tarkistettavaksi.;They were taken to the hospital for a check-up.;Őket kórházba vitték ellenőrzésre.
+Hänet vietiin ambulanssilla sairaalaan.;He was taken to the hospital with an ambulance.;Őt mentővel vitték a kórházba.
+Nokkakolarissa loukkaantui kaksi miestä.;In the head-on collision two men were injured.;Frontális ütközésnél két férfi sérült meg.
+Kuljettajan vammat olivat vakavia.;The driver's injuries were serious.;A sofőr sérülései súlyosak voltak.
+Kuljettajan vammat eivät ole hengenvaarallisia.;The driver's injuries aren't deadly.;A sofőr sérülései nem életveszélyesek.
+Nainen on edelleen sairaalahoidossa.;The woman is still in the hospital.;A nő még mindig kórházi kezelés alatt áll.
+Kuljettaja kuoli kolarissa.;The driver died in the crash.;A sofőr meghalt a balesetben.
+Kaksi kuoli liikenneonnettomuudessa.;Two died in the traffic accident.;Ketten meghaltak a közlekedési balesetben.
+Yksi kuoli rajussa kolarissa.;One died in a serious crash.;Egy ember meghalt egy súlyos balesetben.
+Hän kuoli ulosajossa.;He died when driving off the road.;Meghalt az útról letéréskor.
+Pyöräilijä menehtyi kolarissa.;The cyclist died in the crash.;A kerékpáros meghalt a balesetben.
+Pyöräilijä kuoli törmättyään auton perään.;The cyclist died after bumping into the back of a car.;A kerékpáros meghalt, miután nekihajtott egy autónak.
+Kuljettaja menehtyi tapahtumapaikalle.;The driver died at the scene.;A sofőr a helyszínen meghalt.
+Matkustajat menehtyivät välittömästi.;The passengers died immediately.;Az utasok azonnal meghaltak.
+Hän menehtyi saamiinsa vammoihin.;He died from his injuries.;Meghalt a sérüléseiben.
+Hän kuoli paikalle elvytyksestä huolimatta.;He died at the scene despite the resuscitation.;Meghalt a helyszínen az újraélesztés ellenére.
+Mies menehtyi jäätyään pakettiauton alle.;The man died after getting run over by a van.;A férfi meghalt, miután aláhajtott egy kisteherautó.
+Bussi syttyi palamaan törmäyksen jälkeen.;The bus started burning after the collision.;A busz kigyulladt az ütközés után.
+Auto vaurioitui törmäyksessä.;The car was damaged in the collision.;Az autó megsérült az ütközésben.
+Kolme autoa sai peltivaurioita.;Three cars got sheet metal damage.;Három autó karosszériajavulást szenvedett.
+Taksi vaurioitui oikeasta kyljestään.;The taxi was damaged on its right side.;A taxi a jobb oldalán sérült meg.
+Henkilöauto vaurioitui kauttaaltaan.;The passenger car was damaged throughout.;A személyautó teljesen megsérült.
+Kolari katkaisi liikenteen.;The crash cut off traffic.;A baleset megszakította a forgalmat.
+Liikenne ruuhkautui.;Traffic got congested.;A forgalom torlódott.
+Onnettomuus ruuhkautti liikennettä.;The accident congested traffic.;A baleset torlódást okozott a forgalomban.
+Toinen ajokaista oli suljettu liikenteeltä.;The second lane was closed from traffic.;A második sávot lezárták a forgalom elől.
+Tie oli suljettu vajaat puoli tuntia.;The road was closed for almost half an hour.;Az út majdnem fél órára le volt zárva.
+Paikalla oli käytössä vain yksi ajokaista.;There was only one lane in use at the scene.;Csak egy sáv volt használatban a helyszínen.
+Tiellä on käytössä vain toinen kaista.;Only one lane is in use on the road.;Az úton csak egy sáv van használatban.
+Tien liikenne katkesi koko päiväksi.;The traffic on the road was cut off for the whole day.;Az út forgalma egész nap megszakadt.
+Tie suljettiin liikenteeltä tunniksi.;The road was closed for traffic for an hour.;Az utat egy órára lezárták a forgalom elől.
+Risteys oli suljettuna kaikelta liikenteeltä.;The crossroads were closed for all traffic.;A kereszteződés minden forgalom elől le volt zárva.
+Tie oli osittain poikki.;The road was partly cut off.;Az út részben el volt zárva.
+Tie oli poikki noin 20 minuuttia.;The road was blocked for about 20 minutes.;Az út kb. 20 percig volt lezárva.
+Tie oli poikki pelastustöiden ajan.;The road was cut off during the rescue work.;Az út a mentési munkálatok alatt volt lezárva.
+Liikenne valtatiellä oli kokonaan poikki.;Traffic on the highway was completely cut off.;A forgalom az autópályán teljesen leállt.
+Liikenneonnettomuus haittasi liikennettä.;The traffic accident is hindering traffic.;A közlekedési baleset akadályozta a forgalmat.
