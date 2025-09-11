@@ -1,0 +1,142 @@
+Finnish;English;Hungarian
+rikos;crime;bűncselekmény
+laittomuus;illegality;jogellenesség
+ahdistelu;harassment;zaklatás
+huijaus;swindling, hoax;csalás
+huijata;to swindle;becsapni
+huijausviesti;scam message;csaló üzenet
+hyväksikäyttö;exploitation;kihasználás
+hyökkäys;attack;támadás
+huumerikos;drug crime;drogügy
+ihmiskauppa;trafficking humans;emberkereskedelem
+ilkivalta;vandalism;rongálás
+kavallus;treason;sikkasztás
+kavalltaa;to embezzle;elsikkasztani
+kirjanpitorikos;accounting offense;könyvelési bűntett
+kunnianloukkaus;defamation, slander;rágalmazás
+lapsikaappaus;kidnapping;gyerekrablás
+liikennerikos;traffic violation;közlekedési szabálysértés
+murha;murder;gyilkosság
+murhaaja;murderer;gyilkos
+murhata;to murder;meggyilkolni
+murtautua;to break in;betörni
+murtaus;break-in;betörés
+murtovarkaus;burglary;házbetörés
+murtovaras;burglar;betörő
+myydä huumeita;to sell drugs;drogot árulni
+näpistelijä;sneak thief;besurranó tolvaj
+näpistys;petty larceny;apró lopás
+näpistely;pickpocketing;zsebtolvajlás
+pahoinpitely;abuse, assault;bántalmazás
+pahoinpidellä;to assault;megverni
+pankkiryöstäjä;bank robber;bankrabló
+pankkiryöstö;bank robbery;bankrablás
+paritus;pimping;kerítés (bűncselekmény)
+perheväkivalta;domestic violence;családon belüli erőszak
+pettää;to deceive;megcsalni / megtéveszteni
+petos;fraud, deception;szélhámosság
+rahanpesu;money laundering;pénzmosás
+raiskata;to rape;megerőszakolni
+raiskaus;rape;nemierőszak
+rasismi;racism;rasszizmus
+rike;offence;szabálysértés
+rikkoa lakia;to break the law;törvényt szegni
+ryöstö;robbery;rablás
+salakuljetus;smuggling;csempészet
+salakuljettaa;to smuggle;becsempészni
+sarjamurhaaja;serial killer;sorozatgyilkos
+seksuaalirikos;sexual offense;szexuális bűntett
+tappelu;fight;verekedés
+tappo;manslaughter;emberölés
+varas;thief;tolvaj
+varastaa;to steal;lopni
+varkaus;theft, robbery;lopás
+väkivalta;violence;erőszak
+väärennys;falsification;hamisítás
+väärennös;forgery;okirat-hamisítás
+rikollinen;criminal;bűnöző
+taskuvaras;pickpocket;zsebtolvaj
+ryöstäjä;robber, mugger;rabló
+ahdistelija;molester, harasser;zaklató
+hyökkääjä;attacker;támadó
+huijari;fraud, swindler, impostor;csaló
+rattijuoppo;drunk driver;ittas vezető
+kaahari;speedster;száguldozó
+tuhopolttaja;arsonist;gyújtogató
+itsensäpaljastaja;flasher;exhibicionista
+raiskaaja;rapist;erőszaktevő
+huumekauppias;dealer, drug trafficker;drogdíler
+vanki;prisoner;fegyenc
+epäilty;suspect;gyanúsított
+syyllinen;guilty;bűnös
+syytön;innocent;ártatlan
+uhri;victim;áldozat
+tuomari;judge;bíró
+asianajaja;lawyer, attorney;ügyvéd
+todistaja;witness;tanú
+silminnäkijä;eyewitness;szemtanú
+syyttäjä;prosecutor;ügyész
+puolustaja;defendant;vádlott
+asianomistaja;plaintiff, injured party;sértett fél
+oikeuslääkäri;coroner;boncoló orvos
+oikeudenkäyntiavustaja, oikeusasiamies;legal counsel;jogi képviselő
+tulkki;interpreter;tolmács
+oikeustulkki;legal interpreter;bírósági tolmács
+oikeudenkäynti;litigation;peres eljárás
+hovioikeus;appellate court;ítélőtábla
+korkein oikeus;supreme court;legfelsőbb bíróság
+kuulustelu;hearing;kihallgatás
+käräjäoikeus;district / trial court;járásbíróság
+lautamies;juryman;esküdt
+tuomio;verdict;ítélet
+tuomioistuin;court;bíróság
+valamiehistö;jury;esküdtszék
+väärä vala;false oath;hamis eskü
+lievä rikos;petty offense;enyhébb bűncselekmény
+törkeä rikos;felony;súlyos bűntett
+sakko;fine;pénzbüntetés
+päiväsakko;fine based on wages;napibírság
+yhteiskuntapalvelu;civil service;közmunka
+ehdollinen;conditional;felfüggesztett
+vankeus;imprisonment;szabadságvesztés
+vankeusrangaistus;prison sentence;börtönbüntetés
+elinkautinen vankeus;life sentence;életfogytiglan
+vankila;prison;börtön
+vapaudenriisto;deprivation of freedom;szabadságkorlátozás
+päästä vapaaksi;to be released;szabadulni
+Mistä minua syytetään?;What am I being accused of?;Mivel vádolnak engem?
+Miksi minut pidätetään?;Why am I being arrested?;Miért tartóztatnak le?
+Miksi minut pidätettiin?;Why was I arrested?;Miért tartóztattak le?
+Voinko keskustella asianajajan kanssa?;Can I talk to a lawyer?;Beszélhetek az ügyvédemmel?
+Voinko ottaa yhteyttä asianajaani?;Can I contact my lawyer?;Kapcsolatba léphetek az ügyvédemmel?
+Miksi minua pidetään tutkintavankeudessa?;Why am I being detained?;Miért tartanak előzetesben?
+Kuinka kauan pidätys tulee kestämään?;How long will I be detained for?;Meddig tart a fogva tartás?
+En ole tehnyt mitään väärin.;I haven't done anything wrong.;Nem tettem semmi rosszat.
+En tiedä asiasta mitään.;I don't know anything about that.;Semmit sem tudok erről.
+Tunnustan syyllisyyteni kaikkiin syytteisiin.;I plead guilty on all charges.;Beismerem bűnösségemet minden vádpontban.
+tehdä rikos;to commit a crime;bűnt elkövetni
+syyllistyä johonkin;to be guilty of something;bűnösnek bizonyulni
+tutkia;to investigate;nyomozni
+ottaa sormenjäljet;to take fingerprints;ujjlenyomatot venni
+tehdä kotietsintä;to do a home search;házkutatást tartani
+epäillä rikosta;to suspect a crime;bűncselekményre gyanakodni
+epäillä rikoksesta;to suspect of a crime;bűntettel gyanúsítani
+syyttää rikoksesta;to charge with a crime;vádat emel
+nostaa syyte, vaatia rangaistusta;to press charges;vádat emelni
+jättää syyttämättä;to not press charges;nincs vádemelés
+pidättää epäilty;to arrest a suspect;gyanúsítottat letartóztatni
+kuulustella;to interrogate;kihallgatni
+esittää kysymyksiä;to ask questions;kérdéseket feltenni
+antaa lausunto;to give a statement;vallomást tenni
+vapauttaa pidätetty;to release the arrested;szabadon engedni
+häiritä tutkintaa;to interfere with the investigation;akadályozni a nyomozást
+vastustaa pidätystä;to resist arrest;ellenállni a letartóztatásnak
+puolustaa;to defend;védeni
+lähteä pakoon;to escape, get away;megszökni
+karttaa esitutkintaa;to avoid pre-trial investigation;elkerülni az előzetes nyomozást
+vannoa vala;to take an oath;esküt tenni
+todistaa;to testify;tanúskodni
+tunnustaa;to confess;bevallani
+todeta syylliseksi;to plead guilty;bűnösnek nyilvánítani
+ratkaista rikos;to solve a crime;bűnt megoldani
+tuomita rikoksesta;to convict of a crime;elítélni bűntett miatt

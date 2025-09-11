@@ -1,0 +1,165 @@
+Finnish;English;Hungarian
+käyttäjänimi;username;felhasználónév
+salasana;password;jelszó
+käyttäjätili;user account;felhasználói fiók
+käyttäjä;user;felhasználó
+kirjautua (sisään);to sign in;bejelentkezni
+kirjautua ulos;to sign out;kijelentkezni
+profiili;profile;profil
+profiilikuva;profile picture;profilkép
+asettaa profiilikuvaksi;to set as a profile picture;beállítani profilképként
+päivitys;update;frissítés
+tilapäivitys, statuspäivitys;status update;állapotfrissítés
+status;status;státusz
+päivittää / päivitellä status;to update your status;frissíteni az állapotot
+bio, esittelyteksti;bio;bemutatkozó szöveg
+postaus, julkaisu;post / tweet / blog post;bejegyzés
+postata;to post;posztolni
+julkaista;to publish;közzétenni
+jakaa sisältö;to share content;megosztani tartalmat
+linkki;link;hivatkozás
+linkittää, jakaa linkki;to link;belinkelni
+kommentti;comment;hozzászólás
+kommentoida, jättää kommentti;to comment;kommentelni
+lopettaa seuraaminen;to stop following;nem követni többé
+viesti;message;üzenet
+lähettää viesti;to send a message;üzenetet küldeni
+avainsana, tunniste;tag, keyword;címke, kulcsszó
+hash, hashtag, hashtagi, tag, tagi, tägi, häsä, hästägi;hashtag (spoken);hashtagezés
+tunniste;hashtag;hashtag
+tägätä, tagata;to tag;megjelölni
+threadi, ketju, viestiketju;thread, message thread;üzenetszál
+uutisnauha;minifeed;mini-hírfolyam
+fiidi, feedi;feed (spoken);fíd
+syöte;feed;hírcsatorna
+uutisvirta, uutissyöte;newsfeed;hírfolyam
+verkkosyöte;web feed;webes hírcsatorna
+tykkäys, tykkäykset;like, likes;kedvelés
+seuraaja;follower;követő
+kaveri, ystävä;friend;barát
+hymiö;smiley;mosolygó
+emoji;emoji;emoji
+bloggaus;blogging;blogolás
+blogata;to blog;blogolni
+blogi;a blog;blog
+keskustelupalsta;discussion forum, message board;fórum
+foorumi, forum;forum (spoken);fórum (beszélt)
+keskustelualue;discussion board, message board;beszélgetőfelület
+kohdennettu mainonta;targeted advertising;célzott hirdetés
+bannata, estää osallistuminen;to ban;kitiltani
+banni, porttikielto;ban;kitiltás
+blokata;to block (spoken);blokkolni
+estää näkemästä;to block;elrejteni
+haaste;challenge;kihívás
+haastaa;to challenge;kihívni
+trolli;troll;troll
+trollaus;trolling;trollkodás
+trollata;to troll;trollkodni
+moderointi;moderation;moderálás
+moderoida;to moderate;moderálni
+moderaattori;moderator;moderátor
+tubettaja;youtuber;youtuber
+verkosto;network;hálózat
+striimi, streami, virta;stream;közvetítés
+striimata, livestriimata;to stream, to livestream;streamelni
+meemi, meme;meme;mém
+sovellus;application;alkalmazás
+appi, appsi, apsi, äppi;app (spoken);applikáció
+sovelluskauppa;app store;alkalmazásbolt
+swaipata, pyyhkäistä;to swipe;húzni (ujjal képernyőn)
+swaipata oikealle / vasemmalle;to swipe right / left;jobbra / balra húzni
+Snappi, Snäppi;Snapchat (spoken);Snapchat
+snäpätä;to use Snapchat (spoken);snapchatezni
+Insta;Instagram (spoken);Insta
+podcast, podcast-lähetys;podcast;podcast
+wiki;wiki;wiki
+asetukset;settings;beállítások
+yksityisyysasetukset;privacy settings;adatvédelmi beállítások
+käyttää Facebookia;to use Facebook;Facebookot használni
+olla facessa / fasessa;to be on Facebook (spoken);Facebookon lenni
+feisbuukata;to use Facebook (spoken);facebookozni
+"naamakirja";"face book" (literally);„arckönyv"
+tykätä;to like;kedvelni
+peukuttaa;to thumbs up;like-olni
+seinä, aikajana;wall, timeline;faliújság, idővonal
+kirjoittaa kaverin seinään;write on a friend's wall;írni a barát falára
+kaveripyyntö;friend request;ismerősnek jelölés
+lähettää kaveripyyntö;to send a friend request;ismerősnek jelölni
+pyytää kaveriksi;to ask to be friends;barátnak kérni
+hyväksyä pyyntö;to accept a request;elfogadni a kérést
+hylätä pyyntö;to reject a request;elutasítani a kérést
+pitää yhteyttä;to keep in touch;kapcsolatot tartani
+kutsua tykkäämään;to invite to like;meghívni lájkolni
+Facebook-tapahtuma;Facebook event;Facebook-esemény
+Facebook-kaveri;Facebook friend;Facebook-ismerős
+Fb-kirppis;Second-hand group on Facebook;Facebook adok-veszek csoport
+ylläpito (YP);administration (admin);adminisztráció
+ylläpitäjä (YP);administrator (admin);adminisztrátor
+yksityisviesti (YV);private message (PM, DM);privát üzenet
+nouto;pickup;átvétel
+postitus;mailing;postázás
+postikulut;postage;postaköltség
+hintapyyntö (Hp);asking price;irányár
+myynnissä;for sale;eladó(tárgy)
+ostaja;buyer;vevő
+myyjä;seller;eladó
+varaus;reservation;foglalás
+alustava varaus (AV);initial reservation;előzetes foglalás
+jono;queue;sor
+jonottaja;person in the queue;várakozó
+nosto, uppaus;bumping;kiemelés
+Käytän Facebookia päivittäin.;I use Facebook every day.;Minden nap használom a Facebookot.
+En käytä Facebookia ollenkaan.;I don't use Facebook at all.;Egyáltalán nem használom a Facebookot.
+Saanko lisätä sinut Facebook-kaveriksi?;Can I add you as a Facebook friend?;Feljelölhetlek Facebook-ismerősnek?
+Saitko kaveripyyntöni?;Did you get my friend request?;Megkaptad az ismerősjelölésem?
+Riikka hyväksyi kaveripyyntösi.;Riikka accepted your friend request.;Riikka elfogadta az ismerősjelölésed.
+Hän pyysi minua Facebook-kaveriksi.;He asked me to be a Facebook friend.;Ismerősnek jelölt a Facebookon.
+Tiina kommentoi kuvaasi.;Tiina commented on your picture.;Tiina hozzászólt a képedhez.
+Kouichi kommentoi julkaisuasi.;Kouichi commented on your post.;Kouichi kommentálta a posztodat.
+Leila tykkäsi julkaisustasi.;Leila liked your post.;Leila kedvelte a posztodat.
+Sain monta tykkäystä.;I got many likes.;Sok kedvelést kaptam.
+Päivitän Facebookia pari kertaa päivässä.;I update my Facebook a couple of times a day.;Napi párszor frissítem a Facebookot.
+Päivitin juuri Facebook-statukseni.;I just updated my Facebook status.;Most frissítettem a Facebook-státuszom.
+Me olemme Facebook-kavereita.;We are Facebook friends.;Facebook-ismerősök vagyunk.
+Minulla on paljon Facebook-kavereita.;I have many Facebook friends.;Sok Facebook-ismerősöm van.
+Älä täggää minua!;Don't tag me!;Ne jelölj be!
+Muista kirjautua ulos Facebookista!;Remember to sign out of Facebook!;Ne felejts el kijelentkezni a Facebookból!
+Löydä meidät Facebookista!;Find us on Facebook!;Találj meg minket a Facebookon!
+Seuraa meitä Facebookissa!;Follow us on Facebook!;Kövess minket a Facebookon!
+Facebookissa on liikaa mainoksia.;There are too many ads on Facebook.;Túl sok a reklám a Facebookon.
+Kannattaa liittyä tähän Facebook-ryhmään.;You should join this Facebook group.;Érdemes belépni ebbe a Facebook-csoportba.
+Julkaisu näkyy vain kavereilleni.;The post will only be visible to my friends.;A bejegyzést csak az ismerőseim látják.
+Laita nuo kuvat Facebookiin!;Put those pictures on Facebook!;Tedd fel ezeket a képeket a Facebookra!
+Älä laita noita kuvia Facebookiin.;Don't put those pictures on Facebook.;Ne tedd fel azokat a képeket a Facebookra!
+Peukutan!;Thumbs up! I like this!;Lájkolom!
+Kirjoitin viestin kaverin seinään.;I wrote a message on a friend's wall.;Írtam egy üzenetet a barát falára.
+Oletko nähnyt uutta tilapäivitystäni?;Have you seen my new status update?;Láttad az új állapotfrissítésem?
+Kommentoin kaverin kuvaa.;I commented on a friend's picture.;Kommenteltem a barát képét.
+Kaveri vastasi kommenttiini.;The friend answered to my comment.;A barát válaszolt a kommentemre.
+Lähetin sinulle yksityisviestin.;I sent you a private message.;Küldtem neked egy privát üzenetet.
+twiitti, tviitti, tweetti;tweet;tweet
+twiitata;to tweet;tweetelni
+lähettää tviittejä;to send tweets;tweeteket küldeni
+twiittaaminen, twiittaus;tweeting;tweetelés
+uudelleentwiittaus;retweeting;retweetelés
+twiitata uudelleen;to retweet;újratweetelni
+seurata;to follow;követni
+seurattu;person you follow;követett személy
+aikajana;timeline;idővonal
+Käytätkö Twitteriä?;Do you use Twitter?;Használod a Twittert?
+Olen aktiivinen Twitterissä.;I'm active on Twitter.;Aktív vagyok a Twitteren.
+En käytä Twitteriä.;I don't use Twitter.;Nem használom a Twittert.
+Kirjaudu sisään Twitteriin.;Log in to Twitter.;Jelentkezz be a Twitterre.
+Twiittasin äsken tosi hauskan kuvan.;I just tweeted a very funny picture.;Most tweeteltem egy vicces képet.
+Twiittini sai kymmenen tykkäystä.;My tweet got ten likes.;A tweetem tíz kedvelést kapott.
+Minulla on vain vähän seuraajia.;I only have a few followers.;Csak kevés követőm van.
+Minulla on paljon seuraajia.;I have many followers.;Sok követőm van.
+Seuraa minua Twitterissä!;Follow me on Twitter!;Kövess a Twitteren!
+Tämä on pakko uudelleentviitata.;I have to retweet this.;Ezt muszáj újratweetelnem.
+Kommentoi ja uudelleentwiittaa!;Comment and retweet!;Kommentelj és tweeteld újra!
+Linkki biossa!;Link in the description!;Link a bioban!
+Minulla on tili, mutta en twiittaa.;I have an account but I don't tweet.;Van fiókom, de nem tweetelek.
+Käytän usein hästägejä.;I often use hashtags.;Gyakran használok hashtageket.
+Tykkäsin twiitistäsi.;I liked your tweet.;Kedveltem a tweeted.
+Leila seuraa minua Twitterissä.;Leila follows me on Twitter.;Leila követ a Twitteren.
+Leila tykkäsi tweetistäni.;Leila liked my tweet.;Leila kedvelte a tweetem.
