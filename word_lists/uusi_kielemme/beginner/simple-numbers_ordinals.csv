@@ -1,0 +1,235 @@
+English;Hungarian
+0.;nollas
+1.;ensimmäinen
+2.;toinen
+3.;kolmas
+4.;neljäs
+5.;viides
+6.;kuudes
+7.;seitsemäs
+8.;kahdeksas
+9.;yhdeksäs
+10.;kymmenes
+11.;yhdestoista
+12.;kahdestoista
+13.;kolmastoista
+14.;neljästoista
+15.;viidestoista
+16.;kuudestoista
+17.;seitsemästoista
+18.;kahdeksastoista
+19.;yhdeksästoista
+20.;kahdeskymmenes
+21.;kahdeskymmenesensimmäinen
+22.;kahdeskymmenestoinen
+23.;kahdeskymmeneskolmas
+24.;kahdeskymmenesneljäs
+25.;kahdeskymmenesviides
+26.;kahdeskymmeneskuudes
+27.;kahdeskymmenesseitsemäs
+28.;kahdeskymmeneskahdeksas
+29.;kahdeskymmenesyhdeksäs
+30.;kolmaskymmenes
+31.;kolmaskymmenesensimmäinen
+32.;kolmaskymmenestoinen
+33.;kolmaskymmeneskolmas
+34.;kolmaskymmenesneljäs
+35.;kolmaskymmenesviides
+36.;kolmaskymmeneskuudes
+37.;kolmaskymmenesseitsemäs
+38.;kolmaskymmeneskahdeksas
+39.;kolmaskymmenesyhdeksäs
+40.;neljäskymmenes
+41.;neljäskymmenesensimmäinen
+42.;neljäskymmenestoinen
+43.;neljäskymmeneskolmas
+44.;neljäskymmenesneljäs
+45.;neljäskymmenesviides
+46.;neljäskymmeneskuudes
+47.;neljäskymmenesseitsemäs
+48.;neljäskymmeneskahdeksas
+49.;neljäskymmenesyhdeksäs
+50.;viideskymmenes
+51.;viideskymmenesensimmäinen
+52.;viideskymmenestoinen
+53.;viideskymmeneskolmas
+54.;viideskymmenesneljäs
+55.;viideskymmenesviides
+56.;viideskymmeneskuudes
+57.;viideskymmenesseitsemäs
+58.;viideskymmeneskahdeksas
+59.;viideskymmenesyhdeksäs
+60.;kuudeskymmenes
+61.;kuudeskymmenesensimmäinen
+62.;kuudeskymmenestoinen
+63.;kuudeskymmeneskolmas
+64.;kuudeskymmenesneljäs
+65.;kuudeskymmenesviides
+66.;kuudeskymmeneskuudes
+67.;kuudeskymmenesseitsemäs
+68.;kuudeskymmeneskahdeksas
+69.;kuudeskymmenesyhdeksäs
+70.;seitsemäskymmenes
+71.;seitsemäskymmenesensimmäinen
+72.;seitsemäskymmenestoinen
+73.;seitsemäskymmeneskolmas
+74.;seitsemäskymmenesneljäs
+75.;seitsemäskymmenesviides
+76.;seitsemäskymmeneskuudes
+77.;seitsemäskymmenesseitsemäs
+78.;seitsemäskymmeneskahdeksas
+79.;seitsemäskymmenesyhdeksäs
+80.;kahdeksaskymmenes
+81.;kahdeksaskymmenesensimmäinen
+82.;kahdeksaskymmenestoinen
+83.;kahdeksaskymmeneskolmas
+84.;kahdeksaskymmenesneljäs
+85.;kahdeksaskymmenesviides
+86.;kahdeksaskymmeneskuudes
+87.;kahdeksaskymmenesseitsemäs
+88.;kahdeksaskymmeneskahdeksas
+89.;kahdeksaskymmenesyhdeksäs
+90.;yhdeksäskymmenes
+91.;yhdeksäskymmenesensimmäinen
+92.;yhdeksäskymmenestoinen
+93.;yhdeksäskymmeneskolmas
+94.;yhdeksäskymmenesneljäs
+95.;yhdeksäskymmenesviides
+96.;yhdeksäskymmeneskuudes
+97.;yhdeksäskymmenesseitsemäs
+98.;yhdeksäskymmeneskahdeksas
+99.;yhdeksäskymmenesyhdeksäs
+100.;sadas
+101.;sadasensimmäinen
+102.;sadastoinen
+103.;sadaskolmas
+104.;sadasneljäs
+105.;sadasviides
+106.;sadaskuudes
+107.;sadasseitsemäs
+108.;sadaskahdeksas
+109.;sadasyhdeksäs
+110.;sadaskymmenes
+111.;sadasyhdestoista
+112.;sadaskahdestoista
+113.;sadaskolmastoista
+114.;sadasneljästoista
+115.;sadasviidestoista
+116.;sadaskuudestoista
+117.;sadasseitsemästoista
+118.;sadaskahdeksastoista
+119.;sadasyhdeksästoista
+120.;sadaskahdeskymmenes
+121.;sadaskahdeskymmenesensimmäinen
+130.;sadaskolmaskymmenes
+140.;sadasneljäskymmenes
+150.;sadasviideskymmenes
+160.;sadaskuudeskymmenes
+170.;sadasseitsemäskymmenes
+180.;sadaskahdeksaskymmenes
+190.;sadasyhdeksäskymmenes
+200.;kahdessadas
+205.;kahdessadasviides
+210.;kahdessadaskymmenes
+211.;kahdessadasyhdestoista
+212.;kahdessadaskahdestoista
+213.;kahdessadaskolmastoista
+214.;kahdessadasneljästoista
+215.;kahdessadasviidestoista
+216.;kahdessadaskuudestoista
+217.;kahdessadasseitsemästoista
+218.;kahdessadaskahdeksastoista
+219.;kahdessadasyhdeksästoista
+220.;kahdessadaskahdeskymmenes
+230.;kahdessadaskolmaskymmenes
+244.;kahdessadasneljäskymmenesneljäs
+299.;kahdessadasyhdeksäskymmenesyhdeksäs
+300.;kolmassadas
+400.;neljässadas
+500.;viidessadas
+600.;kuudessadas
+632.;kuudessadaskolmaskymmenestoinen
+700.;seitsemässadas
+789.;seitsemässadaskahdeksaskymmenesyhdeksäs
+800.;kahdeksassadas
+900.;yhdeksässadas
+909.;yhdeksässadasyhdeksäs
+910.;yhdeksässadaskymmenes
+911.;yhdeksässadasyhdestoista
+912.;yhdeksässadaskahdestoista
+920.;yhdeksässadaskahdeskymmenes
+999.;yhdeksässadasyhdeksäskymmenesyhdeksäs
+1 000.;tuhannes
+1 001.;tuhannesensimmäinen
+1 002.;tuhannestoinen
+1 003.;tuhanneskolmas
+1 004.;tuhannesneljäs
+1 005.;tuhannesviides
+1 006.;tuhanneskuudes
+1 007.;tuhannesseitsemäs
+1 008.;tuhanneskahdeksas
+1 009.;tuhannesyhdeksäs
+1 010.;tuhanneskymmenes
+1 100.;tuhannessadas
+1 200.;tuhanneskahdessadas
+1 300.;tuhanneskolmassadas
+1 400.;tuhannesneljässadas
+1 500.;tuhannesviidessadas
+1 600.;tuhanneskuudessadas
+1 700.;tuhannesseitsemässadas
+1 800.;tuhanneskahdeksassadas
+1 900.;tuhannesyhdeksässadas
+1 901.;tuhannesyhdeksässadasensimmäinen
+1 902.;tuhannesyhdeksässadastoinen
+1 903.;tuhannesyhdeksässadaskolmas
+1 998.;tuhannesyhdeksässadasyhdeksäskymmeneskahdeksas
+1 999.;tuhannesyhdeksässadasyhdeksäskymmenesyhdeksäs
+2 000.;kahdestuhannes
+2 001.;kahdestuhannesensimmäinen
+2 002.;kahdestuhannestoinen
+2 003.;kahdestuhanneskolmas
+2 004.;kahdestuhannesneljäs
+2 055.;kahdestuhannesviideskymmenesviides
+3 000.;kolmastuhannes
+4 000.;neljästuhannes
+5 000.;viidestuhannes
+6 000.;kuudestuhannes
+7 000.;seitsemästuhannes
+8 000.;kahdeksastuhannes
+9 000.;yhdeksästuhannes
+9 876.;yhdeksästuhanneskahdeksassadasseitsemäskymmeneskuudes
+10 000.;kymmenestuhannes
+20 000.;kahdeskymmenestuhannes
+30 000.;kolmaskymmenestuhannes
+40 000.;neljäskymmenestuhannes
+50 000.;viideskymmenestuhannes
+60 000.;kuudeskymmenestuhannes
+70 000.;seitsemäskymmenestuhannes
+80 000.;kahdeksaskymmenestuhannes
+90 000.;yhdeksäskymmenestuhannes
+98 765.;yhdeksäskymmeneskahdeksastuhannesseitsemässadaskuudeskymmenesviides
+100 000.;sadastuhannes
+200 000.;kahdessadastuhannes
+300 000.;kolmassadastuhannes
+400 000.;neljässadastuhannes
+500 000.;viidessadastuhannes
+600 000.;kuudessadastuhannes
+700 000.;seitsemässadastuhannes
+800 000.;kahdeksassadastuhannes
+900 000.;yhdeksässadastuhannes
+987 654.;yhdeksässadaskahdeksaskymmenesseitsemästuhanneskuudessadasviideskymmenesneljäs
+1 000 000.;miljoonas
+2 000 000.;kahdesmiljoonas
+3 000 000.;kolmasmiljoonas
+4 000 000.;neljäsmiljoonas
+5 000 000.;viidesmiljoonas
+6 000 000.;kuudesmiljoonas
+7 000 000.;seitsemäsmiljoonas
+8 000 000.;kahdeksasmiljoonas
+9 000 000.;yhdeksäsmiljoonas
+9 876 543.;yhdeksäsmiljoonaskahdeksassadasseitsemäskymmeneskuudestuhannesviidessadasneljäskymmeneskolmas
+10 000 000.;kymmenesmiljoonas
+100 000 000.;sadasmiljoonas
+987 654 321.;yhdeksässadaskahdeksaskymmenesseitsemäsmiljoonaskuudessadasviideskymmenesneljästuhanneskolmassadaskahdeskymmenesensimmäinen
+1 000 000 000.;miljardis
+1 000 000 000 000.;biljoonas

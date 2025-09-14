@@ -1,0 +1,202 @@
+English;Finnish
+-2;miinus kaksi
+-1;miinus yksi
+0;nolla
+1;yksi
+2;kaksi
+3;kolme
+4;neljä
+5;viisi
+6;kuusi
+7;seitsemän
+8;kahdeksan
+9;yhdeksän
+10;kymmenen
+11;yksitoista
+12;kaksitoista
+13;kolmetoista
+14;neljätoista
+15;viisitoista
+16;kuusitoista
+17;seitsemäntoista
+18;kahdeksantoista
+19;yhdeksäntoista
+20;kaksikymmentä
+21;kaksikymmentäyksi
+22;kaksikymmentäkaksi
+23;kaksikymmentäkolme
+24;kaksikymmentäneljä
+25;kaksikymmentäviisi
+26;kaksikymmentäkuusi
+27;kaksikymmentäseitsemän
+28;kaksikymmentäkahdeksan
+29;kaksikymmentäyhdeksän
+30;kolmekymmentä
+31;kolmekymmentäyksi
+32;kolmekymmentäkaksi
+33;kolmekymmentäkolme
+34;kolmekymmentäneljä
+35;kolmekymmentäviisi
+36;kolmekymmentäkuusi
+37;kolmekymmentäseitsemän
+38;kolmekymmentäkahdeksan
+39;kolmekymmentäyhdeksän
+40;neljäkymmentä
+41;neljäkymmentäyksi
+42;neljäkymmentäkaksi
+43;neljäkymmentäkolme
+44;neljäkymmentäneljä
+45;neljäkymmentäviisi
+46;neljäkymmentäkuusi
+47;neljäkymmentäseitsemän
+48;neljäkymmentäkahdeksan
+49;neljäkymmentäyhdeksän
+50;viisikymmentä
+51;viisikymmentäyksi
+52;viisikymmentäkaksi
+53;viisikymmentäkolme
+54;viisikymmentäneljä
+55;viisikymmentäviisi
+56;viisikymmentäkuusi
+57;viisikymmentäseitsemän
+58;viisikymmentäkahdeksan
+59;viisikymmentäyhdeksän
+60;kuusikymmentä
+61;kuusikymmentäyksi
+62;kuusikymmentäkaksi
+63;kuusikymmentäkolme
+64;kuusikymmentäneljä
+65;kuusikymmentäviisi
+66;kuusikymmentäkuusi
+67;kuusikymmentäseitsemän
+68;kuusikymmentäkahdeksan
+69;kuusikymmentäyhdeksän
+70;seitsemänkymmentä
+71;seitsemänkymmentäyksi
+72;seitsemänkymmentäkaksi
+73;seitsemänkymmentäkolme
+74;seitsemänkymmentäneljä
+75;seitsemänkymmentäviisi
+76;seitsemänkymmentäkuusi
+77;seitsemänkymmentäseitsemän
+78;seitsemänkymmentäkahdeksan
+79;seitsemänkymmentäyhdeksän
+80;kahdeksankymmentä
+81;kahdeksankymmentäyksi
+82;kahdeksankymmentäkaksi
+83;kahdeksankymmentäkolme
+84;kahdeksankymmentäneljä
+85;kahdeksankymmentäviisi
+86;kahdeksankymmentäkuusi
+87;kahdeksankymmentäseitsemän
+88;kahdeksankymmentäkahdeksan
+89;kahdeksankymmentäyhdeksän
+90;yhdeksänkymmentä
+91;yhdeksänkymmentäyksi
+92;yhdeksänkymmentäkaksi
+93;yhdeksänkymmentäkolme
+94;yhdeksänkymmentäneljä
+95;yhdeksänkymmentäviisi
+96;yhdeksänkymmentäkuusi
+97;yhdeksänkymmentäseitsemän
+98;yhdeksänkymmentäkahdeksan
+99;yhdeksänkymmentäyhdeksän
+100;sata
+101;satayksi
+102;satakaksi
+109;satayhdeksän
+110;satakymmenen
+111;satayksitoista
+112;satakaksitoista
+113;satakolmetoista
+114;sataneljätoista
+115;sataviisitoista
+116;satakuusitoista
+117;sataseitsemäntoista
+118;satakahdeksantoista
+119;satayhdeksäntoista
+120;satakaksikymmentä
+121;satakaksikymmentäyksi
+122;satakaksikymmentäkaksi
+130;satakolmekymmentä
+140;sataneljäkymmentä
+150;sataviisikymmentä
+167;satakuusikymmentäseitsemän
+199;satayhdeksänkymmentäyhdeksän
+200;kaksisataa
+201;kaksisataayksi
+299;kaksisataayhdeksänkymmentäyhdeksän
+300;kolmesataa
+400;neljäsataa
+500;viisisataa
+600;kuusisataa
+700;seitsemänsataa
+751;seitsemänsataaviisikymmentäyksi
+798;seitsemänsataayhdeksänkymmentäkahdeksan
+799;seitsemänsataayhdeksänkymmentäyhdeksän
+800;kahdeksansataa
+900;yhdeksänsataa
+901;yhdeksänsataayksi
+999;yhdeksänsataayhdeksänkymmentäyhdeksän
+1 000;tuhat
+1 001;tuhatyksi
+1 009;tuhatyhdeksän
+1 010;tuhatkymmenen
+1 100;tuhatsata
+1 200;tuhatkaksisataa
+1 300;tuhatkolmesataa
+1 400;tuhatneljäsataa
+1 500;tuhatviisisataa
+1 600;tuhatkuusisataa
+1 700;tuhatseitsemänsataa
+1 800;tuhatkahdeksansataa
+1 900;tuhatyhdeksänsataa
+1 901;tuhatyhdeksänsataayksi
+1 902;tuhatyhdeksänsataakaksi
+1 903;tuhatyhdeksänsataakolme
+1 904;tuhatyhdeksänsataaneljä
+1 905;tuhatyhdeksänsataaviisi
+1 929;tuhatyhdeksänsataakaksikymmentäyhdeksän
+1 999;tuhatyhdeksänsataayhdeksänkymmentäyhdeksän
+2 000;kaksituhatta
+2 001;kaksituhatta yksi
+2 004;kaksituhatta neljä
+2 025;kaksituhatta kaksikymmentäviisi
+3 000;kolmetuhatta
+4 000;neljätuhatta
+5 000;viisituhatta
+6 000;kuusituhatta
+7 000;seitsemäntuhatta
+8 000;kahdeksantuhatta
+9 000;yhdeksäntuhatta
+9 876;yhdeksäntuhattakahdeksansataaseitsemänkymmentäkuusi
+10 000;kymmenentuhatta
+20 000;kaksikymmentätuhatta
+90 000;yhdeksänkymmentätuhatta
+98 765;yhdeksänkymmentäkahdeksantuhattaseitsemänsataakuusikymmentäviisi
+100 000;satatuhatta
+200 000;kaksisataatuhatta
+300 000;kolmesataatuhatta
+900 000;yhdeksänsataatuhatta
+987 654;yhdeksänsataakahdeksankymmentäseitsemäntuhattakuusisataaviisikymmentäneljä
+1 000 000;miljoona
+2 000 000;kaksimiljoonaa
+3 000 000;kolmemiljoonaa
+4 000 000;neljämiljoonaa
+5 000 000;viisimiljoonaa
+6 000 000;kuusimiljoonaa
+7 000 000;seitsemänmiljoonaa
+8 000 000;kahdeksanmiljoonaa
+9 000 000;yhdeksänmiljoonaa
+9 876 543;yhdeksänmiljoonaa kahdeksansataaseitsemänkymmentäkuusituhattaviisisataaneljäkymmentäkolme
+10 000 000;kymmenenmiljoonaa
+100 000 000;sata miljoonaa
+987 654 321;yhdeksänsataakahdeksankymmentäseitsemänmiljoonaakuusisataaviisikymmentäneljätuhattakolmesataakaksikymmentäyksi
+1 000 000 000;miljardi
+1 000 000 000 000;biljoona
+10^15;tuhatbiljoonaa
+10^18;triljoona
+10^21;tuhattriljoonaa
+10^24;kvadriljoona
+10^27;tuhatkvadriljoonaa
+10^30;kvintiljoona
