@@ -1,0 +1,236 @@
+Finnish;English;Hungarian
+rakennuttaja;contractee;megrendelő
+urakoitsija;contractor;vállalkozó
+aliurakoitsija;subcontractor;alvállalkozó
+rahoittaja;provider of funds;támogató (finanszírozó)
+suunnittelija;planner;tervező
+arkkitehti;architect;építész
+rakennusinsinööri;civil engineer;építőmérnök
+rakennusmestari;master builder;kőművesmester
+työmaainsinööri, rakennuskonemies;construction engineer;építésvezető mérnök
+työnjohtaja;foreman;munkavezető
+työnvalvoja;labor supervisor;építésfelügyelő
+rakennus(työ)mies;construction worker;építőmunkás
+talonrakentaja;housebuilder;házépítő
+kirvesmies, puuseppä;carpenter;ács, asztalos
+timpuri;carpenter (spoken language);asztalos (szleng)
+LVI-insinööri;heating, ventilation and air conditioning engineer;épületgépész mérnök
+maalari;painter;festő
+mittamies, mittaaja;surveyor;geodéta (felmérő)
+muurari;bricklayer;kőműves
+pintakäsittelijä;surface treatment finisher;felületkezelő
+putkimies;plumber (spoken language);vízszerelő (szleng)
+sähköasentaja, sähkömies;electrician;villanyszerelő
+elementtiasentaja;prefabricated element installer;panelbeépítő
+ikkuna- ja oviasentaja;window and door installer;nyílászáró szerelő
+parkettiasentaja;parquet installer;parkettás
+kattoasentaja;roofer;tetőfedő
+kaivurikuski;excavator driver;markológép-kezelő
+rakennuspiirustus;construction drawing;építési tervrajz
+asemapiirustus;location plan drawing;helyszínrajz
+asemapiirros;location plan;helyszínterv
+LVI-asemapiirros;HVAC site plan;gépészeti helyszínrajz
+pohjapiirros;floorplan;alaprajz
+leikkauspiirustus;cutaway drawing;metszeti rajz
+rakennuslupa;building permit;építési engedély
+pohjatutkimus;soil / site investigation;talajvizsgálat
+pinta-ala;area (size);alapterület
+mittakaava (1:50);scale;méretarány (1:50)
+tontti;building plot, site;telek
+rakennustyömaa;building site;építési terület
+kulkulupa;construction site ID card;belépőkártya
+työmaatoimisto;construction site office;építésvezetőségi iroda
+työmaakoppi, parakki;site hut;munkásbarakk
+pukukaappi;dressing room;öltözőszekrény
+purku- ja lastausalue;unloading and loading area;rakodóterület
+jätelava;waste container;konténer
+työmaa-aita;construction site barrier;építési kerítés
+betonimylly;concrete mixer;betonkeverő
+betonipumppuauto;concrete pump car;betonszivattyús kocsi
+dumpperi;dumper, front tipper;dömperszállító
+henkilönnostin;person lift;személyemelő
+kaivuri, kaivinkone, kaivukone;excavator;markológép
+kaivurikuormaaja;excavator-loader;rakodó-markoló
+kauhakuormaaja;bucket loader;homlokrakodó
+kippiauto;dump truck;billenőplatós teherautó
+kuormaaja;loader;rakodógép
+kuorma-auto;truck;teherautó
+kuormausnosturi;loading crane;rakodódaru
+maansiirtokone, "kiviauto";earthmover;földmunkagép
+nostoastia;lifting container;emelőkosár
+nostokalusto;lifting equipment;emelőberendezés
+nostohissi;conveyor cage;emelőház (szállítóhinta)
+nostolaite;lifting device;emelőszerkezet
+nostolava;lifting platform;emelőplatform
+nostoraksi;nostor;emelőheveder
+nosturi;crane;daru
+puskutraktori;bulldozer;bulldózer
+pyöräkuormaaja;wheel loader;kerékrakodó
+torninosturi;tower crane;toronydaru
+traktorikaivuri;backhoe;traktoros markoló
+kuokkakauha;hoe bucket;ásókanna
+tiehöylä;road grader;útgyalugép
+trukki, haarukkatrukki;forklift truck;villástargonca
+rakennushissi;construction site hoist;építési felvonó
+tavarahissi;bullion lift;teherfelvonó
+valssijyrä;smooth roller, steel-wheeled roller;henger (úthenger)
+rakennusrunko;building frame;épületváz
+vesikatto;roof;tetőszerkezet
+ulkoseinät;external walls;külső falak
+kantavat väliseinät;bearing interior walls;teherhordó válaszfalak
+perustukset;foundations;alapok
+betoniset pohjarakenteet;concrete foundations;betonalap
+antura;pad of a foundation;sávalap
+sokkeli = perusmuuri;plinth;lábszög, alapfal
+betonielementti;concrete precast element;betonelem
+rakennuselementti;building unit;építőelem
+routasuojaus;frost protection;fagyvédelem
+levyeriste;plate insulation;lemezes szigetelés
+matalaperustus;shallow foundation;sekély alapozás
+syväperustus;deep foundation;mélyalapozás
+paaluperustus;pile foundation;cölöpalapozás
+puurakenteet;wooden structures;faszerkezet
+rakennuslevy;building board;építőlemez
+lastulevy;synthetic lumber, woodchip board;forgácslap
+kuitulevy;fiberboard, masonite;farostlemez
+kipsilevy;gypsum board;gipszkarton
+julkisivu;facade;homlokzat
+rakentaminen;building work, construction;építkezés
+muuraaminen, muuraus;masonry;falazás
+paaluttaminen, paalutus;piling;cölöpözés
+betonointi, betonityöt;concreting, concrete work;betonozás
+raudoittaminen, raudoitus;iron fitting;vasalás
+eristäminen, eristystyöt;insulating, insulation work;szigetelő munka
+rappaaminen, rappaus;plastering;vakolás
+laatoittaminen, laatoitus;tiling;csempézés
+tapetoiminen, tapetointi;wallpapering;tapétázás
+maalaaminen, maalaus;painting;festés
+kaapelointi, kaapelointi;cabling work;kábelezés
+pintakäsittely;surface treatment;felületkezelés
+kaivaminen, kaivaus;digging;ásás
+poraaminen, poraus;drilling;fúrás
+iskuporaus;percussive drilling;ütvefúrás
+sahaaminen, sahaus;sawing;fűrészelés
+naulaaminen, naulaus;nailing;szögezés
+hioaminen, hionta;grinding;csiszolás
+höylääminen, höyläys;planing;gyalulás
+asentaminen, asennustyöt;installing, installation work;szerelés
+maadoittaminen, maadoitus;grounding;földelés
+hitsaaminen, hitsaus;welding;hegesztés
+pohjustaminen, pohjustus;priming;alapozás
+muurata;to mason, lay bricks;falazni
+muurarinharja;wire brush;drótkefe
+muurarinvasara;mason's hammer;kőműveskalapács
+muuraus;masonry, brickwork;falazat
+muurauskivi;masonry stone;falazókő
+muurauskauha;brick trowel;kőműveskanál
+muuraussementti;masonry cement;falazócement
+laasti;mortar, plaster;habarcs
+tiili;brick;tégla
+reikätiili;lug brick;lyukacsos tégla
+perusmuuri;foundation wall;alapfal
+kantava seinä;bearing wall;teherhordó fal
+ulkoseinä;exterior wall;külső fal
+väliseinä;partition wall;válaszfal
+pudotussekoitin;free-fall mixer;dobkeverő
+tasosekoitin;horizontal pan-mixer;tálcás keverő
+rapata;to plaster;vakolni
+rappaaja;plasterer;vakoló
+rappauskauha;plaster trowel;vakolókanál
+rappauslaasti;render;vakolóhabarcs
+rappauslasta;plaster's float;vakolóléc (simító)
+rappausverkko;plastering mesh;vakolóháló
+linjalanka;string line;zsinór
+luoti;blumb bob;függőón
+hiertää;to grind;dörzsölni
+tasoittaa;to level;kiegyenlíteni
+tasoite;filler, putty;glettanyag
+kivijauhe;rock dust, rock flour;kőliszt
+sementti;cement;cement
+luonnonhiekka;natural sand;folyami homok
+lattiatasoite;floor levelling product;aljzatkiegyenlítő
+laatoittaja;tiler;csempéző
+laatoittaa;to tile;csempézni
+laatta;tile;csempe
+laattaleikkuri;tile cutter;csempevágó
+kaakelilaatta;glazed;fali csempe
+seinälaatta;wall tile;fali burkolólap
+klinkkerilaatta;floor quarry;járólap
+lasitettu pinta;glazed surface;mázolt felület
+lasittamaton pinta;unglazed surface;máznélküli felület
+mosaiikkilaatta;mosaic tile;mozaiklap
+lattialaatoitus;floor tiling;járólapozás
+seinälaatoitus;wall tiling;falicsempézés
+kiinnitysaine;fastening material;rögzítőanyag
+laattaliima;tile adhesive;csemperagasztó
+saumausaine;sealing material;fugázóanyag
+saumausmassa;caulking compound;hézagkitöltő
+maalata;to paint;festeni
+maali;paint;festék
+vesiliukoinen;water soluble;vízbázisú
+maalikaukalo;paint tray;festőtálca
+maalaussanko;paint bucket;festővödör
+maalauspurkki;painting jar;festékesdoboz
+maalaustela;roller;festőhenger
+sivellin;brush;ecset
+nurkkatela;corner paint roller;sarokhenger
+puhdasmaalaus;finishing;áttisztázó festés
+tapetti;wallpaper;tapéta
+tapetoida;to wallpaper;tapétázni
+tapetinkatkaisin;straight edge;vágóvonalzó
+tapettiveitsi;trimming knife;tapétavágó kés
+tapettiharja;wallpaper brush;tapétakefe
+luotilanka;blumb bob string;függőón zsinór
+tapettilasta;wallpaper smoother;tapétasimító
+saumausrulla;trim roller;illesztőhenger
+liisteriharja;sizing brush;enyvezőkefe
+liisteri;adhesive paste, glue;tapétaragasztó
+LVI-asentaja;HVAC installer;gépesítő szerelő (fűtés-víz-klíma)
+LVI (Lämpö, Vesi, Ilmastointi);HVAC (Heating, ventilation, and air conditioning);fűtés, víz, klíma
+lämpölaite;thermal device;fűtőkészülék
+lämpöjärjestelmä;heating system;fűtési rendszer
+viemärijärjestelmä;draining installation;csatornarendszer
+ilmastointi;air conditioning;klimatizálás
+ilmastointijärjestelmä;air conditioning system;klímarendszer
+ilmastointilaite;air cycle machine;klímaberendezés
+ilmanvaihtolaite;ventilation unit;szellőzőgép
+jäähdytys;cooling;hűtés
+jäähdytysjärjestelmä;cooling system;hűtőrendszer
+ilmastointiasentaja;ventilation fitter;szellőzőszerelő
+lämmityslaiteasentaja;heating element fitter;fűtésszerelő
+putkiasentaja;plumber;vízvezetékszerelő
+tekninen eristäjä;technical insulator;szigetelő szakmunkás
+kaukolämpöasentaja;district heating fitter;távfűtésszerelő
+puurakentaminen;wood construction;favázas építés
+puutavara;wood, timber;faanyag
+sahattu puutavara;sawn timber;fűrészelt faanyag
+parru;square-sawn timber;gerenda
+lankku;plank;deszka
+lauta;board;lécezett deszka
+nurkkalista, kulmalista;corner moulding;sarokléc
+jalkalista;skirting board;szegőléc
+sahajauhot, sahanpuru;sawdust;fűrészpor
+höylä;planing machine;gyalu
+höylätä;to plane down;gyalulni
+paineilmanaulain;pneumatic nailer;légszögbelövő
+pora, porakone, saha;drill;fúrógép, fűrész
+porata, sahata;to drill;fúrni, fűrészelni
+kulmahiomakone;angle grinder;sarokcsiszoló
+eristys;insulation;szigetelés
+eristää;to insulate;szigetelni
+eriste, eristysaine;insulating material;szigetelőanyag
+lämmöneriste;thermal insulation, fill;hőszigetelés
+puukuitulevy;fibrous-felted board;Farostlemez
+selluvilla;wood wool;cellulóz szigetelés
+kivivilla, vuorivilla;rock wool;ásványgyapot
+lasivilla;glass wool;üveggyapot
+kevytsora;expanded clay;könnyűkavics (agyagkavics)
+solulasi;cellular glass;habüveg
+puhallusvilla;blowing wool;fújt szigetelés
+kosteuseristys;dampproofing;nedvesség elleni szigetelés
+vedeneristys;waterproofing;vízszigetelés
+bitumihuopa;bituminous felt;bitumenes lemez
+bitumimatto;bitumen bandage;bitumenes szalag
+saumausteippi;insulation tape;szigetelőszalag
+tuulensulku;windbreak;szélzáró fólia
+eristyshiekka;insulating sand;szigetelő homok

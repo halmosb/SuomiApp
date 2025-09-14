@@ -1,0 +1,99 @@
+Finnish;English;Hungarian
+kosmetiikka;cosmetics;kozmetikumok
+ihonhoito;skin care;bőrápolás
+ihonpuhdistus;skin cleansing;bőrtisztítás
+aurinkopuuteri;bronzing;bronzosító púder
+aurinkosuoja;sun block;napvédő
+kasvonaamio;face mask;arcpakolás
+kasvovesi;toner;arctonik
+kasvovoide;face cream;arckrém
+kosteusvoide;moisturizing cream;hidratáló krém
+kuorintavoide;scrub;radírozó krém
+meikki;make-up;smink
+meikkipuuteri;foundation powder;alapozó púder
+meikkivoide;foundation cream;alapozó krém
+nestesaippua;liquid soap;folyékony szappan
+peitevoide;concealer;korrektor
+pohjustusvoide;primer;alapozó (smink előtti)
+puhdistusgeeli;cleansing gel;tisztító gél
+puhdistusvoide;antiseptic cream;fertőtlenítő krém
+puuterisivellin;powder brush;poroló ecset
+yövoide;night cream;éjszakai krém
+emulsiovoide;lotion, cream;emulziós krém
+kulmakynä;eyebrow pencil;szemöldökceruza
+luomiväri;eye shadow;szemhéjpúder
+rajauskynä;eye liner;szemhéjtus
+ripsiväri, maskara;mascara;símaszkara
+poskipuna;blusher;pirosító
+puuteriposkipuna;blusher powder;porpirosító
+aluslakka;base coat varnish;alapozó lakk
+desinfiointiaine;disinfectant;fertőtlenítő
+käsivoide;hand cream;kézkrém
+kynsilakka;nail varnish;körömlakk
+kynsiviila;nail file;körömreszelő
+kynsilakan poistoaine;nail polish remover;körömlakklemosó
+pinsetti;tweezers;csipesz
+hammastahna;toothpaste;fogkrém
+hammasharja;toothbrush;fogkefe
+hammastikku;tooth pick;fogpiszkáló
+hammaslanka;floss;fogszál
+huulikiille;lip gloss;ajakfény
+huultenrajauskynä;lip pencil;ajakceruza
+huulivoide;lip cream;ajakbalzsam
+huulipuna;lipstick;rúzs
+partakone;shaver;borotva
+partaveitsi;razor;borotvakenő
+partavesi;aftershave;borotválkozóvíz
+partatrimmeri;beard trimmer;szakállvágó
+jalkavoide;foot cream;lábkrém
+vartalovoide;body lotion;testápoló
+deodorantti;deodorant;dezodor
+hajuvesi, parfyymi;perfume;parfüm
+sampoo / shampoo;shampoo;sampon
+hilseshampoo;anti-dandruff shampoo;korpásodás elleni sampon
+kuivashampoo;dry shampoo;szárazsampon
+hiusgeeli;hair gel;hajzselé
+hiuskiinne;hairspray;hajlakk
+hoitoaine;conditioner;balzsam
+muotovaahto;mousse;hab
+hiusväri;hair dye;hajfesték
+hiusharja;hairbrush;hajkefe
+kampa;comb;fésű
+hiuskiharrin;hair curler;hajcsavaró
+Ihotyypit;Skin types;Bőrtípusok
+normaali iho;normal skin;normál bőr
+kaikki ihotyypit;all skin types;minden bőrtípus
+kuiva iho;dry skin;száraz bőr
+erittäin kuiva iho;very dry skin;nagyon száraz bőr
+ärtynyt iho;irritated skin;érzékeny, irritált bőr
+atooppinen iho;atopic skin;atópiás bőr
+sekaiho;mixed skin;kombinált bőr
+herkkä iho;sensitive skin;érzékeny bőr
+hilseilevä iho;flaky skin;hámló bőr
+rasvoittuva iho;oily skin;zsíros bőr
+kiiltävä iho;shiny skin;fénylő bőr
+Verbejä;Verbs;Igék
+meikata;to put make-up on;sminkelni
+harjata hampaat;to brush teeth;fogat mosni
+harjata hiukset;to brush your hair;hajat kefélni
+kammata hiukset;to comb your hair;hajat fésülni
+värjätä hiukset;to dye hair;hajat festeni
+syväkosteuttaa ihoa;to moisturize skin;bőrt mélyen hidratálni
+rauhoittaa herkkää ihoa;to sooth sensitive skin;érzékeny bőrt nyugtatni
+pehmentää ihoa;to soften skin;bőrt puhítani
+puhdistaa;to clean;tisztítani
+pestä kasvot;to wash the face;arcot mosni
+Adjektiiveja;Adjectives;Melléknevek
+kosteuttava;moisturizing;hidratáló
+suojaava;protective;védő
+uudistava;renewing;megújító
+hajusteeton;odor-free;illatmentes
+hellävarainen;gentle;gyengéd
+täyteläinen;rich;telt
+nopeasti imeytyvä;fast-absorbing;gyorsan felszívódó
+mieto;mild;enyhe
+virkistävä;refreshing;frissítő
+syväpuhdistava;deep-cleaning;mélytisztító
+ravitseva;nourishing;tápláló
+herkkä;sensitive;érzékeny
+pitkävaikutteinen;long-acting;hosszan tartó

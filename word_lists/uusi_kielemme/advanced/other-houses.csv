@@ -1,0 +1,295 @@
+Finnish;English;Hungarian
+koti;home;otthon
+kotona, himassa;at home;otthon(ban)
+talo;house;ház
+talossa (in the house);in the house;a házban
+rakennus;building;épület
+rakennuksessa (in the building);in the building;az épületben
+asunto;residence, apartment;lakás
+asunnossa, huoneistossa;in the apartment;lakásban
+huoneisto;apartment, flat;lakás, apartman
+asuintalo;building of residence;lakóház
+asuintalossa;in the residential building;lakóházban
+hima;home (spoken);otthon (beszélt)
+omakotitalo;detached house;családi ház
+omakotitalossa;in the detached house;a családi házban
+paritalo;semi-detached house;ikerház
+paritalossa;in the semi-detached house;az ikerházban
+rivitalo;row house;sorház
+rivitalossa;in the row house;sorházban
+luhtitalo;balcony access block*;erkélyes tömbház
+luhtitalossa;in the balcony access block;erkélyes tömbházban
+kerrostalo;apartment building;lakótelep
+kerrostalossa;in the apartment building;lakótelepben
+pienkerrostalo;low apartment building;alacsony tömbház
+pienkerrostalossa;in the low apartment building;alacsony tömbházban
+tornitalo;tower block;toronyház
+tornitalossa;in the tower block;toronyházban
+pilvenpiirtäjä;skyscraper;felhőkarcoló
+pilvenpiirtäjässä;in the skyscraper;felhőkarcolóban
+puutalo;wooden house;faház
+puutalossa;in the wooden house;faházban
+kivitalo;stone house;kőház
+kivitalossa;in the stone house;kőházban
+tiilitalo;brick house;téglaház
+tiilitalossa;in the brick house;téglaházban
+elementtitalo;prefab building;panelház
+elementtitalossa;in the prefab building;panelházban
+betonitalo;concrete house;betonház
+betonitalossa;in the concrete house;betonházban
+hirsitalossa, tukkikämpässä;in the log house;gerendaházban
+hirsimaja;log cabin;gerendakunyhó
+hirsimajassa;in the log cabin;gerendakunyhóban
+havumaja;brushwood hut;gallykunyhó
+havumajassa;in the brushwood hut;gallykunyhóban
+savimaja;clay hut;agyagkunyhó
+savimajassa;in the clay hut;agyagkunyhóban
+lumimaja;snow hut;hókunyhó
+lumimajassa;in the snow hut;hókunyhóban
+lumiluola;snow cave;hófog
+lumiluolassa;in the snow cave;hófogban
+iglu;igloo;iglú
+iglussa;in the igloo;iglúban
+asuntoauto;camper van, motor home;lakóautó
+asuntoautossa;in the camper van;lakóautóban
+asuntovaunu;camper, caravan;lakókocsi
+asuntovaunussa;in the camper, caravan;lakókocsiban
+mökki;cottage;nyaraló, kunyhó
+mökillä;at the cottage;nyaralóban, kunyhóban
+kesämökki;summer cottage;nyári házikó
+kesämökillä;at the summer cottage;nyári házikóban
+kesäasunto;summer home;nyaraló
+kesäasunnossa;in the summer home;nyaralóban
+kesähuvila;bungalow;bungaló, nyaralóház
+kesähuvilassa;in the bungalow;bungalóban
+rantamökki;beach cottage;tengerparti nyaraló
+rantamökillä;at the beach cottage;tengerparti nyaralóban
+datša;Russian summer cottage;dácsa
+datšassa;in the dacha;dácsában
+siirtolapuutarhamökki;allotment cottage;kolónia házikó
+siirtolapuutarhamökillä;at the allotment cottage;kolónia házikóban
+metsäkämppä;forest hut;erdőkunyhó
+metsäkämpässä;in the forest hut;erdőkunyhóban
+tukkikämppä, hirsitalo;log house;gerendaház (erdő)
+autiotupa;wilderness hut;elhagyatott kunyhó
+autiotuvassa;in the wilderness hut;elhagyatott kunyhóban
+erämaja;wilderness lodge;vadlodge
+erämajassa;in the wilderness lodge;vadlodge-ban
+tunturitupa;mountain hut;hegyi kunyhó
+tunturituvassa;in the mountain hut;hegyi kunyhóban
+hiihtomaja;ski lodge;síház
+hiihtomajassa;in the ski lodge;síházban
+metsästysmaja;hunting lodge;vadászház
+metsästysmajassa;in the hunting lodge;vadászházban
+kalamaja, kalastusmaja;fishing lodge;halászkunyhó
+kalamajassa, kalastusmajassa;in the fishing lodge;halászkunyhóban
+ulkoilumaja;hiking lodge;túraház
+ulkoilumajassa;in the hiking lodge;túraházban
+puumaja;tree house;faház (fa)
+puumajassa;in the tree house;lombházban
+hotelli;hotel;hotel
+hotellissa;in the hotel;hotelben
+hostellissa;in the hostel;hostelben
+motelli;motel;motell
+motellissa;in the motel;motellben
+majatalo;inn;fogadó
+majatalossa;in the inn;fogadóban
+kylpylähotelli;spa hotel;gyógyfürdő hotel
+kylpylähotellissa;in the spa hotel;gyógyfürdő hotelben
+tunturihotelli;mountain hotel;hegyi hotel
+tunturihotellissa;in the mountain hotel;hegyi hotelben
+hiihtohotelli;ski hotel;síhotel
+hiihtohotellissa;in the ski hotel;síhotelben
+alppimaja;chalet;síház (Alpok)
+alppimajassa;in the chalet;síházban (Alpok)
+retkeilymaja, hostelli;hostel;túraház (szálló)
+retkeilymajassa;in the (tour)hostel;túraházban (szálló)
+huoneistohotelli;apartment hotel;apartmanhotel
+huoneistohotellissa;in the apartment hotel;apartmanhotelben
+opiskelija-asunto;student apartment;diáklakás
+opiskelija-asunnossa, opiskelijakämpässä;in the student apartment;diáklakásban
+opiskelijakämppä;spoken language: student apartment;diákkunyhó
+lastenkoti;orphanage;árvaház
+lastenkodissa;in the orphanage;árvaházban
+sisäoppilaitos;boarding school;internátus
+sisäoppilaitoksessa;in the boarding school;internátusban
+vanhainkoti;home for the elderly;idősek otthona
+vanhainkodissa;in the home for the elderly;idősek otthonában
+hoivakoti;retirement home;gondozóház
+hoivakodissa;in the retirement home;gondozóházban
+palvelutalo;service flat;szolgáltatóház
+palvelutalossa;in the service flat;szolgáltatóházban
+ryhmäkoti;group home;csoportos otthon
+ryhmäkodissa;in the group home;csoportos otthonban
+hoitokoti;nursing home;ápolóotthon
+hoitokodissa;in the nursing home;ápolóotthonban
+turvatalo;safe house;védett ház
+turvatalossa;in the safe house;védett házban
+yömaja;homeless night shelter;éjjeli menedék
+yömajassa;in the night shelter;éjjeli menedékben
+kodittomien asuntola;homeless shelter;hajléktalan szálló
+asuntolassa;in the homeless shelter;hajléktalan szállóban
+vastaanottokeskus;immigration detention center;befogadó központ
+vastaanottokeskuksessa;in the immigration detention center;befogadó központban
+sijaiskoti;foster home;nevelőotthon
+sijaiskodissa;in the foster home;nevelőotthonban
+aitta;granary;gabona tároló
+aitassa;in the granary;gabona tárolóban
+lato;barn, shed;istálló, pajta
+ladossa;in the barn;pajtában
+heinälato;hay barn;szenázs pajta
+heinäladossa;in the hay barn;szenázs pajtában
+kasvihuone;greenhouse;üvegház
+kasvihuoneessa;in the greenhouse;üvegházban
+varastosiilo;storage silo;tároló siló
+varastosiilossa;in the storage silo;tároló silóban
+talli;stable;istálló
+tallissa;in the stable;istállóban
+hevostalli;horse stable;lóistálló
+hevostallissa;in the horse stable;lóistállóban
+mylly;mill;malom
+myllyssä;in the mill;malomban
+nuottakota;boat & seine shed;halászháló kunyhó
+nuottakodassa;in the boat & seine shed;halászháló kunyhóban
+lantala;manure storage;trágya tároló
+lantalassa;in the manure storage;trágya tárolóban
+riihi;drying barn;cséplő pajta
+riihissä;in the drying barn;cséplő pajtában
+pitkätalo;longhouse;hosszúház
+pitkätalossa;in the longhouse;hosszúházban
+linna;castle;kastély
+linnassa;in the castle;kastélyban
+linnake;fort;erőd
+linnakkeessa;in the fort;erődben
+palatsi;palace;palota
+palatsissa;in the palace;palotában
+kartano;estate;udvarház
+kartanossa;in the estate;udvarházban
+herraskartano;manor house;kastély (nemesi)
+herraskartanossa;in the manor house;kastélyban (nemesi)
+maalaistalo;country house;vidéki ház
+maalaistalossa;in the country house;vidéki házban
+tavaratalo;department store;áruház
+tavaratalossa;in the department store;áruházban
+ostoskeskus;shopping center;bevásárlóközpont
+ostoskeskuksessa;in the shopping center;bevásárlóközpontban
+kauppakeskus;shopping mall;pláza
+kauppakeskuksessa;in the shopping mall;plázában
+hypermarketti;hypermarket;hipermarket
+hypermarketissa;in the hypermarket;hipermarketben
+lähikauppa;convenience store;közeli bolt
+lähikaupassa;in the convenience store;közeli boltban
+lehtikoju;news stand;újságos bódé
+lehtikojussa;in the news stand;újságos bódéban
+jäätelökoju;ice cream stand;fagylaltos bódé
+jäätelökojussa;in the ice cream stand;fagylaltos bódéban
+jäätelökioski;ice cream kiosk;fagylaltos kioszk
+jäätelökioskilla;at the ice cream kiosk;fagylaltos kioszknál
+koju;booth, stall, shed;bódé, pavilon
+kojussa;in the booth;bódéban
+kaupungintalo;town hall, city hall;városháza
+kaupungintalossa;in the town hall;városházában
+kunnantalo;municipal hall;önkormányzati hivatal
+kunnantalossa;in the municipal hall;önkormányzati hivatalban
+eduskuntatalo;Parliament building;parlamenti épület
+eduskuntatalossa;in the Parliament building;parlamenti épületben
+virastotalo;civic center;közigazgatási épület
+virastotalossa;in the civic center;közigazgatási épületben
+seurakuntatalo;parish house;plébánia ház
+seurakuntatalossa;in the parish house;plébánia házban
+kirkko;church;templom
+kirkossa;in the church;templomban
+kulttuurikeskus;cultural center;kulturális központ
+kulttuurikeskuksessa;in the cultural center;kulturális központban
+monitoimitalo;community center;közösségi ház
+monitoimitalossa;in the community center;közösségi házban
+monitoimihalli;multi-purpose hall;többcélú csarnok
+monitoimihallissa;in the multi-purpose hall;többcélú csarnokban
+messukeskus;exhibition center;kiállítási központ
+messukeskuksessa;in the exhibition center;kiállítási központban
+kongressitalo;Congress building;kongresszusi épület
+kongressitalossa;in the Congress building;kongresszusi épületben
+urheiluhalli;sports hall;sportcsarnok
+urheiluhallissa;in the sports hall;sportcsarnokban
+teatterirakennus;theater building;színház épület
+teatterirakennuksessa;in the theater building;színház épületben
+konserttitalo;concert hall;koncertterem
+konserttitalossa;in the concert hall;koncertteremben
+työväentalo;adult education center;munkásképző ház
+työväentalossa;in the adult education center;munkásképző házban
+ylioppilastalo;student union building;egyetemi diákotthon
+ylioppilastalossa;in the student union building;egyetemi diákotthonban
+sairaala;hospital;kórház
+sairaalassa;in the hospital;kórházban
+museorakennus;museum building;múzeum épület
+museorakennuksessa;in the museum building;múzeum épületben
+kirjastotalo;library building;könyvtár épület
+kirjastotalossa;in the library building;könyvtár épületben
+autotehdas;car factory;autógyár
+autotehtaassa;in the car factory;autógyárban
+jätekeskus;waste center;hulladékkezelő központ
+jätekeskuksessa;in the waste center;hulladékkezelő központban
+jätteenkäsittelylaitos;waste treatment plant;hulladékkezelő üzem
+jätteenkäsittelylaitoksessa;in the waste treatment plant;hulladékkezelő üzemben
+kaasulaitos;gasworks factory;gázgyár
+kaasulaitoksessa;in the gasworks factory;gázgyárban
+ongelmajätelaitos;hazardous waste treatment plant;veszélyes hulladék feldolgozó üzem
+ongelmajätelaitoksessa;in the hazardous waste treatment plant;veszélyes hulladék feldolgozó üzemben
+puhdistamo;refinery;finomító
+puhdistamossa;in the refinery;finomítóban
+tehdas;factory;gyár
+tehtaassa;in the factory;gyárban
+tuotantolaitos;manufacturing facility;gyártóüzem
+tuotantolaitoksessa;in the manufacturing facility;gyártóüzemben
+varasto;warehouse;raktár
+varastossa;in the warehouse;raktárban
+vedenpuhdistuslaitos;sewage treatment plant;víztisztító üzem
+vedenpuhdistuslaitoksessa;in the sewage treatment plant;víztisztító üzemben
+voimala, voimalaitos;power station;erőmű
+voimalassa, voimalaitoksessa;in the power station;erőműben
+ydinvoimala;nuclear power plant;atomerőmű
+ydinvoimalassa;in the nuclear power plant;atomerőműben
+autotalli;garage;garázs
+autotallissa;in the garage;garázsban
+bunkkeri;bunker;bunker
+bunkkerissa;in the bunker;bunkerben
+katos;shelter;tető, fedelet
+katoksen alla;under the shelter;tető alatt
+laavu;lean-to;sátor, menedék
+laavussa;in the lean-to;sátorban
+vaja;shed;fészer
+vajassa;in the shed;fészerben
+työkaluvaja;tool shed;szerszámtároló
+työkaluvajassa;in the tool shed;szerszámtárolóban
+väestönsuoja;air-raid shelter;létesített óvóhely
+väestösuojassa;in the air-raid shelter;óvóhelyben
+autokatos;carport;autóbeálló
+autokatoksen alla;under the carport;autóbeálló alatt
+grillikatos;barbecue canopy;kerti grillező tető
+grillikatoksen alla;under the barbecue canopy;kerti grillező tető alatt
+pysäkkikatos;bus stop shelter;buszmegálló tető
+pysäkkikatoksen alla;under the bus stop shelter;buszmegálló tető alatt
+tupa;one-room cottage;egyszobás kunyhó
+tuvassa;in the one-room cottage;egyszobás kunyhóban
+saunatupa;sauna building;szaunaház
+saunatuvassa;in the sauna building;szaunaházban
+pirtti;small log building;kis faház
+pirtissä;in the small log building;kis faházban
+tölli;small humble cottage;kis kunyhó
+töllissä;in the small humble cottage;kis kunyhóban
+huusi, huussi;outhouse;külön WC
+huusissa, huussissa;in the outhouse;külön WC-ben
+pukukoppi;changing room, locker room;öltöző
+pukukopissa;in the changing room, locker room;öltözőben
+parakki;temporary lightweight building;ideiglenes épület
+parakissa;in the temporary lightweight building;ideiglenes épületben
+työmaaparakit;worksite accommodation;építkezési konténer
+työmaaparakeissa;in the worksite accommodation;építkezési konténerben
+jurtta;yurt;jurta
+jurtassa;in the yurt;jurtában
+tipi, tiipii;tipi, teepee;tipi, sátr
+tipissä, tiipiissä;in the tipi;tipiben
+hökkeli, tönö, koppi;shack, hovel, cabin, hut;kunyhó
+hökkelissä, tönössä, kopissa;in the shack, cabin, hut;kunyhóban
+röttelö;shack, shanty;romos kunyhó
+röttelössä;in the shack, shanty;romos kunyhóban
