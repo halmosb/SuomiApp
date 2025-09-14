@@ -1,0 +1,35 @@
+Finnish;English;Hungarian
+piste (.);dot / full stop;pont / mondatzárójel
+pilkku (,);comma;vessző
+kaksoispiste (:);colon;kettőspont
+kysymysmerkki (?);question mark;kérdőjel
+huutomerkki (!);exclamation point;felkiáltójel
+viiva (-);dash;kötőjel / gondolatjel
+vinoviiva, kauttaviiva (/);slash;perjel
+kenoviiva (\);backslash;fordított perjel
+pystyviiva, putkimerkki (|);vertical bar;függőleges vonal
+tilde, aaltoviiva (~);tilde;tilde
+kolme pistettä, ellipsi (...);ellipsis;három pont / kihagyásjel
+hakasulkeet ([]);square brackets;négyszögletes zárójel
+aaltosulkeet ({});curly brackets;kapcsos zárójel
+lainausmerkit (");quotation marks;idézőjelek
+ät-merkki, taksamerkki (@);the at sign;kukac
+ristikkomerkki, risuaita (#);hash, number sign;hash / kettőskereszt
+asteen merkki (°);degree symbol;fokjel
+asteriski (*);asterisk;csillag
+et-merkki (&);ampersand;és-jel
+prosenttimerkki (%);percent;százalékjel
+pykälämerkki (§);section sign;paragrafusjel
+puolipiste;semicolon;pontosvessző
+sulkeet, kaarisulkeet (());parentheses;brackets / zárójelek
+Kolmekymmentä miinus [suluissa viisi miinus neljä].;Thirty minus [between brackets five minus four], in numbers: 30 - (5 - 4).;Harminc mínusz [zárójelben öt mínusz négy], számokban: 30 - (5 - 4).
+Suluissa olevat mitat koskevat ainoastaan...;Dimensions in parentheses apply only to...;A zárójelben lévő méretek csak ... vonatkoznak.
+Sulkuihin merkityt lyhenteet viittaavat...;The abbreviations in parentheses refer to...;A zárójelbe írt rövidítések arra utalnak...
+Valmistusvuosi on merkittävä sulkuihin.;The year of manufacture should be indicated between brackets.;A gyártási évet zárójelben kell feltüntetni.
+Tekstissä esiintyy "status quo" lainausmerkeissä.;The text contains the words "status quo" in quotation marks.;A szövegben előfordul a "status quo" idézőjelek között.
+Lainausmerkeissä olevat tekstit ovat suoria lainauksia.;Texts between quotation marks are direct quotations.;Az idézőjelek közötti szövegek közvetlen idézetek.
+Hän on niin sanotusti ammatillisesti työkyvytön.;He is, so to speak, "professionally incapacitated".;Ő úgymond „szakmailag munkaképtelen".
+Tänään on kolmekymmentä astetta pakkasta.;It's 30 degrees below zero today.;Ma mínusz harminc fok van.
+32 astetta Farenheit on nolla astetta Celsius.;32 degrees Farenheit is zero degrees Celsius.;32 Fahrenheit-fok nulla Celsius-foknak felel meg.
+Lämpötila nostetaan korkeintaan 37 asteeseen.;The temperature is raised to a maximum of 37 degrees.;A hőmérsékletet legfeljebb 37 fokra emelik.
+Suora kulma on 90 asteen kulma.;A right angle is an angle of 90 degrees.;A derékszög 90 fokos szög.
