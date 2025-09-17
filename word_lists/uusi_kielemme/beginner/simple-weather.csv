@@ -1,0 +1,66 @@
+Finnish;English;Hungarian
+Ilma on kaunis.;The weather is beautiful.;Szép az idő.
+On kaunis ilma.;The weather is very beautiful.;Gyönyörű az idő.
+On kaunis päivä.;It's a beautiful day.;Szép nap van.
+On kylmä ulkona.;It's cold outside.;Kint hideg van.
+On melko kylmä päivä.;It's a fairly cold day.;Elég hűvös nap van.
+Aurinko paistaa.;The sun is shining.;Süt a nap.
+On oikein kuuma.;It's really hot.;Nagyon meleg van.
+On liukasta.;It's slippery.;Csúszós az út.
+Sataa.;It rains.;Esik.
+Sataa vettä.;It rains. ("It rains water");Esik az eső.
+Sataa lunta.;It snows. ("It rains snow");Havazik.
+Sataa räntää.;It rains wet snow.;Ónos eső esik.
+Sataa rakeita.;It hails.;Jégeső esik.
+Ei sada;It doesn't rain.;Nem esik.
+Eilen satoi.;It rained yesterday.;Tegnap esett.
+Tuulee.;There is wind.;Fúj a szél.
+Tuulee oikein kovasti.;It's very windy.;Nagyon erősen fúj a szél.
+On myrsky.;There's a (wind)storm.;Vihar van.
+On ukonilma.;There's a thunderstorm.;Zivatar van.
+Salamoi.;There's lightning. ("It lightens");Villámlik.
+On kaksi astetta pakkasta.;It's minus two degrees.;Két fokkal fagy van.
+aste;degree;fok
+aurinko;sun;nap
+halla;frost;fagy
+helle;heat wave;kánikula
+hurrikaani;hurricane;hurrikán
+kostea;humid;párás
+lumi;snow;hó
+pilvi;cloud;felhő
+pouta;dry weather;derült idő
+räntä;wet snow;ónos eső
+sade;rain;eső
+sadekausi;rain season;esős évszak
+sadekuuro;rain shower;zápor
+tihkusade;drizzle;szitálás
+salama;lightning;villám
+sateenkaari;rainbow;szivárvány
+selkeä;clear;derült
+sumu;mist;köd
+sää, ilma, keli;weather;időjárás
+taivas;sky;ég
+tulva;flood;árvíz
+tuuli;wind;szél
+ukkonen;thunder;mennydörgés
+viileä;chilly;hűvös
+Millainen ilma tänään on?;What kind of weather is it today?;Milyen idő van ma?
+Onko kaunis ilma tänään?;Is the weather beautiful today?;Ma szép az idő?
+Paistaako aurinko?;Does the sun shine?;Süt a nap?
+Sataako?;Is it raining?;Esik az eső?
+Sataako lunta?;Is it snowing?;Havazik?
+Luvattiinko sadetta?;Did they predict rain?;Mondtak esőt?
+Tuuleeko?;Is there wind?;Fúj a szél?
+Kuinka monta astetta on?;How many degrees is it?;Hány fok van?
+Kuinka kylmä on?;How cold is it?;Mennyire hideg van?
+Onko pakkasta?;Is it freezing?;Fagy van?
+On pilvinen päivä.;It's a cloudy day.;Felhős nap van.
+On pilvistä.;It's cloudy.;Borult az ég.
+On sateinen päivä.;It's a rainy day.;Esős nap van.
+On sateista.;It's rainy.;Esős az idő.
+On tuulinen päivä.;It's a windy day.;Szeles nap van.
+On tuulista.;It's windy.;Szeles az idő.
+On aurinkoinen päivä.;It's a sunny day.;Napos nap van.
+On aurinkoista.;It's sunny.;Napos az idő.
+On sumuinen päivä.;It's a misty / foggy day.;Ködös nap van.
+On sumuista.;It's misty / foggy.;Ködös az idő.
