@@ -1,0 +1,85 @@
+Finnish;English;Hungarian
+perhe;family;család
+veli;brother;fiútestvér
+sisko / sisar;sister;lánytestvér
+vanhemmat;parents;szülők
+äiti;mother;anya
+isä;father;apa
+vanhempi;parent;szülő
+lapsi;child;gyerek
+tyttö / tytär;daughter;lány
+poika;son;fiú
+pikkusisko;little sister;kistestvér (lány)
+isosisko;older sister;nagylánytestvér
+pikkuveli;little brother;kistestvér (fiú)
+isoveli;older brother;nagybáty / testvér (fiú)
+isovanhemmat;grandparents;nagyszülők
+isoäiti;grandmother;nagymama
+isoisä;grandfather;nagypapa
+lastenlapset;grandchildren;unokák
+täti;aunt;nagynéni
+setä;uncle (father's side);nagybácsi (apai)
+eno;uncle (mother's side);nagybácsi (anyai)
+serkku;cousin;unokatestvér
+käly;sister-in-law;meny (nem vér szerinti lánytestvér)
+lanko;brother-in-law;vő (nem vér szerinti fiútestvér)
+anoppi;mother-in-law;anyós
+appi;father-in-law;após
+miniä;daughter-in-law;meny (nem vér szerinti lány)
+vävy;son-in-law;vő (nem vér szerinti fiú)
+sisarukset;siblings;testvérek
+perheenjäsenet;family members;családtagok
+sukulaiset;extended family;rokonság
+sukulainen;relative;rokon
+sisarenpoika;nephew (sister's son);unokaöcs (lánytestvér fia)
+veljenpoika;nephew (brother's son);unokaöcs (fiútestvér fia)
+sisarentytär;niece (sister's daughter);unokahúg (lánytestvér lánya)
+veljentytär;niece (brother's daughter);unokahúg (fiútestvér lánya)
+pojantytär;granddaughter (son's daughter);unokalány (fiú gyermeke)
+tyttärentytär;granddaughter (daughter's daughter);unokalány (lány gyermeke)
+pojanpoika;grandson (son's son);unoka fiú (fiú fia)
+tyttärenpoika;grandson (daughter's son);unoka fiú (lány fia)
+pikkuserkku;second cousin;másod-unokatestvér
+isoisänisä;great-grandfather;dédapa
+lapsenlapsen lapsi;great-grandchild;dédunoka
+kummivanhemmat;godparents;keresztszülők
+kummisetä;godfather;keresztapa
+kummitäti;godmother;keresztanya
+kummipoika;godson;keresztfiú
+kummitytär / kummityttö;goddaughter;keresztlány
+mummo, mummi, mummu, muori;grandma (spoken);nagymama (beszélt)
+pappa, ukki, ukko, vaari;grandpa (spoken);nagypapa (beszélt)
+isi, iskä, faija;dad, daddy (spoken);apa (beszélt)
+naimisissa;married;házas
+mennä naimisiin;to get married;megházasodni
+avioliitto;marriage;házasság
+(avio)mies;husband in marriage;férj
+(avio)vaimo;wife in marriage;feleség
+avoliitto;cohabitation;élettársi kapcsolat
+avomies;common-law husband;élettárs (férfi)
+avovaimo;common-law wife;élettárs (nő)
+parisuhde;relationship;kapcsolat
+parisuhteessa;in a relationship;kapcsolatban
+kihloissa;engaged;eljegyzett
+mennä kihloihin;to get engaged;eljegyezni
+naimaton;unmarried;nőtlen / hajadon
+eronnut;divorced;elvált
+leski;widow / widower;özvegy
+kumppani;partner;partner
+puoliso;spouse;házastárs
+isäpuoli;stepfather;mostohaapa
+äitipuoli;stepmother;mostohaanya
+sisarpuoli;stepsister;mostohanővér
+velipuoli;stepbrother;mostohaöcs
+tytärpuoli;stepdaughter;mostohalány
+poikapuoli;stepson;mostohafiú
+huoltaja;caregiver, guardian;gondozó
+holhooja;guardian;gyám
+orpo;orphan;árva
+sijaisperhe;foster family;nevelőcsalád
+adoptio;adoption;örökbefogadás
+adoptoitu;adopted;örökbefogadott
+adoptoida;to adopt;örökbe fogad
+adoptioäiti;adoptive mother;örökbefogadó anya
+biologinen äiti;biological mother;biológiai anya
+yksinhuoltaja;single parent;egyedül nevelő szülő
