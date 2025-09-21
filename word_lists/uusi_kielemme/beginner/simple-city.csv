@@ -1,0 +1,143 @@
+Finnish;English;Hungarian
+kauppa;shop;bolt
+myymälä;store;üzlet
+ruokakauppa;food store;élelmiszerbolt
+vaatekauppa;clothing store;ruházati bolt
+kirjakauppa;book store;könyvesbolt
+kenkäkauppa;shoe store;cipőbolt
+elektroniikkakauppa;electronics store;elektronikai bolt
+kalustekauppa;furniture store;bútorbolt
+eläinkauppa;pet store;állatkereskedés
+lähikauppa;convenience store;közért
+leipomo;bakery;pékség
+kirpputori, kirppis;second-hand store;használtcikk bolt
+kauppakeskus;shopping center;bevásárlóközpont
+ostoskeskus;shopping mall;pláza
+tavaratalo;department store;áruház
+kioski;kiosk;kiosk
+pankki;bank;bank
+posti;post office;posta
+kauneushoitola;beauty salon;szépségszalon
+kampaamo;hairdresser's;fodrászat
+parturi;barbershop;borbélyüzlet
+parturi-kampaamo;hairdressing salon;fodrász-borbély szalon
+poliisiasema;police station;rendőrőrs
+paloasema;fire station;tűzoltóállomás
+oikeustalo;courthouse;bíróság
+suutari;cobbler, locksmith;cipész, lakatos
+kiinteistötoimisto;real estate office;ingatlanügynökség
+toimisto;office;iroda
+pesula;laundromat;mosoda
+baari;bar;bár
+pubi;pub;pub
+kahvila;cafe;kávézó
+ravintola;restaurant;étterem
+ruokala;canteen;menza
+kahvio;cafeteria;büfé
+ruokailutila;eatery;étkezde
+sairaala;hospital;kórház
+terveyskeskus, terveysasema;health center;egészségügyi központ
+hammaslääkäri;dentist's;fogorvosi rendelő
+mielisairaala;mental hospital;pszichiátriai kórház
+leikkaussali;operating room;műtő
+ensiapuasema;emergency room;ügyelet
+lääkärin vastaanotto;consulting room;orvosi vizsgáló
+odotushuone;waiting room;váróterem
+neuvola;maternity clinic;védőnői rendelő
+apteekki;pharmacy;gyógyszertár
+orpokoti;orphanage;árvaház
+vanhainkoti;home for the elderly;idősek otthona
+päiväkoti;day care;óvoda
+esikoulu;preschool;óvoda (előiskola)
+peruskoulu;primary school;általános iskola
+lukio;high school;gimnázium
+yliopisto;university;egyetem
+työväenopisto;adult education center;felnőttoktatási központ
+autokoulu;driving school;autósiskola
+musiikkikoulu;music school;zeneiskola
+opiskelija-asunto;student housing;diákszállás
+kuntosali;gym;fitneszterem
+urheilukeskus;sports center;sportközpont
+urheilukenttä;sports, playing field;sportpálya
+hiihtokeskus;ski resort;síközpont
+leikkikenttä, leikkipuisto;playground;játszótér
+golfkenttä;golf course;golfpálya
+tenniskenttä;tennis court;teniszpálya
+jalkapallokenttä;soccer field;futballpálya
+latu;ski trail;sípálya
+kirjasto;library;könyvtár
+matkatoimisto;travel agency;utazási iroda
+museo;museum;múzeum
+taidemuseo;art museum;művészeti múzeum
+taidegalleria;art gallery;művészeti galéria
+näyttely;exhibition;kiállítás
+elokuvateatteri;cinema;mozi
+teatteri;theatre;színház
+kylpylä;spa;fürdőhely
+uimahalli;swimming hall;uszoda
+uimala;outdoor swimming pool;stranduszoda
+huvipuisto;amusement park;vidámpark
+stadion;stadium;stadion
+messukeskus;exhibition center;kiállítási központ
+eläintarha;zoo;állatkert
+huoltoasema, bensiiniasema;gas station;benzinkút
+bensa-asema;petrol station (spoken);benzinkút (beszélt)
+autokorjaamo;auto repair shop;autójavítóműhely
+rautatieasema, juna-asema;train station;vasútállomás
+bussiasema, linja-autoasema;bus station;buszpályaudvar
+bussipysäkki;bus stop;buszmegálló
+parkkipaikka;parking lot;parkoló
+moottoritie;motorway;autópálya
+jalkakäytävä;sidewalk;járda
+risteys;crossroads;kereszteződés
+lentoasema;airport;repülőtér
+lentokenttä;airport, runway;repülőtér, kifutópálya
+satama;harbor;kikötő
+hotelli;hotel;hotel
+motelli;motel;motell
+katu;street;utca
+tie;road;út
+metsä;forest;erdő
+piha;yard;udvar(háznál)
+puisto;park;park
+kansallispuisto;national park;national park (nemzeti park)
+puutarha;garden;kert (növényekkel, termesztésreis)
+tori;market place;piac
+silta;bridge;híd
+saari;island;sziget
+ranta;beach;strand
+rakennustyömaa;building site;építkezés
+keskusta;city center;belváros
+kaupunki;city;város
+kylä;village;falu
+suurkaupunki;large city;nagyváros
+pääkaupunki;capital city;főváros
+esikaupunki;suburb;külváros
+lähiö;downtown;lakótelep (városrész)
+rakennus;building;épület
+talo;house;ház
+koti;home;otthon
+omakotitalo;detached house;családi ház
+rivitalo;terrace house;sorház
+paritalo;semi-detached house;ikres ház
+kerrostalo;apartment building;panelház (tömbház)
+pilvenpiirtäjä;skyscraper;felhőkarcoló
+huvila;villa;villa
+torni;tower;torny
+näkötorni;observation tower;kilátótorony
+tehdas;factory;gyár
+linna;castle;kastély
+palatsi;palace;palota
+kartano;mansion;udvarház
+linnoitus;fortress;erőd
+kirkko;church;hétköznapitemplom
+tuomiokirkko;cathedral;dóm
+moskeija;mosque;mecset
+temppeli;temple;templom (kiemelt vallási épület)
+vankila;prison;börtön
+puutalo;wooden house;fából készült ház
+tiilitalo;brick house;téglaépület
+hirsimökki;log cabin;gerendaház
+kesämökki;summer cottage;nyaraló
+sauna;sauna; szauna
+maatila;farm;gazdaság(tanya)
