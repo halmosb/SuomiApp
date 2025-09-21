@@ -1,0 +1,86 @@
+Finnish;English;Hungarian
+maanantai (ma);Monday;hétfő
+maanantaina;on Monday;hétfőn
+tiistai (ti);Tuesday;kedd
+tiistaina;on Tuesday;kedden
+keskiviikko (ke);Wednesday;szerda
+keskiviikkona;on Wednesday;szerdán
+torstai (to);Thursday;csütörtök
+torstaina;on Thursday;csütörtökön
+perjantai (pe);Friday;péntek
+perjantaina;on Friday;pénteken
+lauantai (la);Saturday;szombat
+lauantaina;on Saturday;szombaton
+sunnuntai (su);Sunday;vasárnap
+sunnuntaina;on Sunday;vasárnapon
+maanantaisin;on Mondays;hétfőnként
+joka maanantai;every Monday;minden hétfőn
+tiistaisin;on Tuesdays;keddenként
+joka tiistai;every Tuesday;minden kedden
+keskiviikkoisin;on Wednesdays;szerdánként
+joka keskiviikko;every Wednesday;minden szerdán
+torstaisin;on Thursdays;csütörtökönként
+joka torstai;every Thursday;minden csütörtökön
+perjantaisin;on Fridays;péntekenként
+joka perjantai;every Friday;minden pénteken
+lauantaisin;on Saturdays;szombatonként
+joka lauantai;every Saturday;minden szombaton
+sunnuntaisin;on Sundays;vasárnaponként
+joka sunnuntai;every Sunday;minden vasárnap
+maanantaista;from Monday;hétfőtől
+maanantaihin;until Monday;hétfőig
+tiistaista;from Tuesday;keddtől
+tiistaihin;until Tuesday;keddig
+keskiviikosta;from Wednesday;szerdától
+keskiviikkoon;until Wednesday;szerdáig
+torstaista;from Thursday;csütörtöktől
+torstaihin;until Thursday;csütörtökig
+perjantaista;from Friday;péntektől
+perjantaihin;until Friday;péntekig
+lauantaista;from Saturday;szombattól
+lauantaihin;until Saturday;szombatig
+sunnuntaista;from Sunday;vasárnaptól
+sunnuntaihin;until Sunday;vasárnapig
+Olen lomalla maanantaista alkaen;I'm on vacation starting from Monday.;Hétfőtől kezdve szabadságon vagyok
+Keskiviikosta alkaen olen työtön.;Starting from Wednesday I'm unemployed.;Szerdától kezdve munkanélküli vagyok
+Tiistaista lähtien toimin osa-aikaisena.;I will work half-time starting from Tuesday.;Keddtől kezdve részmunkaidőben dolgozom
+Perjantaista lähtien asun yksin.;Starting from Friday I will live alone.;Péntektől kezdve egyedül fogok lakni
+Olen lomalla sunnuntaihin asti.;I'm on vacation until Sunday.;Vasárnapig szabadságon vagyok
+Aurinko paistaa maanantaihin asti.;The sun will shine until Monday.;Hétfőig sütni fog a nap
+Lue kirja keskiviikkoon mennessä!;Read the book by Wednesday!;Olvasd el a könyvet szerdáig!
+Tiistaihin mennessä pitää olla valmis.;I have to be ready by Tuesday.;Keddig kész kell legyen
+viime maanantaina;last Monday;múlt hétfőn
+tänä maanantaina;this Monday;ezen a hétfőn
+ensi maanantaina;next Monday;következő hétfőn
+viime tiistaina;last Tuesday;múlt kedden
+tänä tiistaina;this Tuesday;ezen a kedden
+ensi tiistaina;next Tuesday;következő kedden
+viime keskiviikkona;last Wednesday;múlt szerdán
+tänä keskiviikkona;this Wednesday;ezen a szerdán
+ensi keskiviikkona;next Wednesday;következő szerdán
+viime torstaina;last Thursday;múlt csütörtökön
+tänä torstaina;this Thursday;ezen a csütörtökön
+ensi torstaina;next Thursday;következő csütörtökön
+viime perjantaina;last Friday;múlt pénteken
+tänä perjantaina;this Friday;ezen a pénteken
+ensi perjantaina;next Friday;következő pénteken
+viime lauantaina;last Saturday;múlt szombaton
+tänä lauantaina;this Saturday;ezen a szombaton
+ensi lauantaina;next Saturday;következő szombaton
+viime sunnuntaina;last Sunday;múlt vasárnap
+tänä sunnuntaina;this Sunday;ezen a vasárnap
+ensi sunnuntaina;next Sunday;következő vasárnap
+Koulu alkaa maanantaina.;School starts on Monday.;Az iskola hétfőn kezdődik
+Viime maanantaina myöhästyin bussista.;I was late for the bus last Monday.;Múlt hétfőn késtem a buszról
+Käyn joka tiistai kuntosalilla.;I go to the gym every Tuesday.;Minden kedden edzőterembe járok
+Ensi tiistaina on syntymäpäiväni.;Next Tuesday is my birthday.;Következő kedden van a születésnapom
+Olen lomalla keskiviikkoon asti.;I'm on vacation until Wednesday.;Szerdáig szabadságon vagyok
+Matkustan keskiviikosta perjantaihin.;I travel from Wednesday till Friday.;Szerdától péntekig utazom
+Torstaista lähtien on myrskyisää.;Starting from Thursday it's stormy.;Csütörtöktől kezdve viharos lesz
+Torstai on viikon paras päivä.;Thursday is the best day of the week.;A csütörtök a hét legjobb napja
+Me syömme ravintolassa perjantaisin.;We eat in a restaurant on Fridays.;Péntekenként étteremben eszünk
+Talo on valmis perjantaihin mennessä.;The building will be ready by Friday.;A ház péntekig kész lesz
+Tänä lauantaina on pääsiäinen.;On this Saturday is Easter.;Ezen a szombaton van a húsvét
+Aion lauantaista alkaen olla tupakoimatta.;I plan not to smoke from Saturday on.;Szombattól kezdve nem fogok dohányozni
+Kävin uimassa viime sunnuntaina.;I went swimming last Sunday.;Múlt vasárnap úsztam
+Hiihtoloma alkaa maanantaina.;Winter break starts on Monday.;A téli szünet hétfőn kezdődik
