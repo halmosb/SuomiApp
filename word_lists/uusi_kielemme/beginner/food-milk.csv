@@ -1,0 +1,183 @@
+Finnish;English;Hungarian
+maito;milk;tej
+maitojuoma;milk drink (not legally "milk" after processing);tejalapú ital
+ykkösmaito;semi-skimmed milk (1% fat);1%-os tej
+kevytmaito;semi-skimmed milk;félsovány tej
+kevytmaitojuoma;semi-skimmed milk drink;félsovány tejalapú ital
+täysmaito;whole milk;telt tej
+laktoositon maito;lactose-free milk;laktózmentes tej
+laktoositon maitojuoma;lactose-free milk drink;laktózmentes tejalapú ital
+vähälaktoosinen maito;low-lactose milk;csökkentett laktóztartalmú tej
+raakamaito;raw milk;nyers tej
+tinkimaito = tilamaito;raw milk straight from the farm;házi tej
+pastöroimaton maito;unpasteurized milk;pasztörizálatlan tej
+pastöroitu maito;pasteurized milk;pasztörizált tej
+homogenoitu maito;homogenized milk;homogenizált tej
+luomumaito;organic milk;bio tej
+iskukuumennettu maito;UHT (ultra-high temperature processed) milk;UHT tej
+kestomaito;UHT milk, long-life milk;tartós tej
+maitotiiviste;evaporated milk, condensed milk;sűrített tej
+kondensoitu maito;condensed sweetened milk;édesített sűrített tej
+vapaan lehmän maito;free range cow's milk;szabad tartású tehén teje
+vuohenmaito;goat milk;kecsketej
+kauramaito;oat milk;zabtej
+mantelimaito;almond milk;mandulatej
+riisimaito;rice milk;rízstej
+soijamaito;soy milk;szójatej
+ternimaito, ensimaito;first milk;föcstej
+pullomaito;bottle milk (for baby);cumisüveges tej (bébiknek)
+äidinmaito, rintamaito;human breast milk;anyatej
+kefiiri;kefir, fermented milk;kefir
+piimä;sour milk, soured milk;aludttej
+rasvaton piimä;fat-free soured milk;zsírszegény aludttej
+kirnupiimä;buttermilk;író
+maitojauhe;milk powder;tejpor
+kerma;cream;tejszín
+iskukuumennettu kerma, kestokerma;UHT cream;UHT tejszín
+kahvikerma;coffee cream;kávétejszín
+kevytkerma;light cream;könnyű tejszín
+ranskankerma;crème fraîche;francia tejföl
+kuohukerma;heavy cream, whipping cream;habtejszín
+vispikerma;whipping cream;verőtejszín
+kermavaahto;whipped cream;tejszínhab
+ruokakerma;cream for cooking (can be heated up);főzőtejszín
+smetana, hapankerma;smetana, soured cream;smetana
+juusto;cheese;sajt
+juustoraaste;grated cheese;reszelt sajt
+feta, fetajuusto;feta;feta sajt
+salaattijuusto;feta-style salad cheese (salted or in oil);salátasajt
+homejuusto;mold cheese;penészes sajt
+sinihomejuusto;blue cheese;kékpenészes sajt
+valkohomejuusto;white mold cheese;fehérpenészes sajt
+juhannusjuusto, punainen hera;red cheese soup of Midsummer;juhannus-juusto (piros alvasztott tejétel)
+leipäjuusto;bread cheese, Finnish squeaky cheese;finn sült sajt
+aurajuusto;Aura (Finnish blue cheese);Aura sajt
+murukolojuusto;cheese with irregular holes;lyukacsos sajt
+mustaleimainen juusto;Emmentaler cheese fermented 9 months;fekete címkés ementáli
+herajuusto;brunost (whey cheese);norvég barna sajt
+punaleima;Emmentaler cheese fermented 6 months;piros címkés ementáli
+raejuusto;granular cottage cheese;rae sajt
+rakletti;raclette;raclette sajt
+sinileima;Emmentaler cheese fermented 3 months;kék címkés ementáli
+sulatejuusto;processed cheese;ömlősajt (olvasztott sajt)
+tuorejuusto;curd cheese, cottage cheese;friss sajt
+uunijuusto;oven-baked cottage cheese made of first milk;sütőben sült aludttej
+kermajuusto;cream cheese, mild crumbly cheese;lágy krémsajt
+fondue, fondyy;fondue;fondü
+brie;brie;brie
+brie(n)juusto;brie cheese;brie sajt
+camembert;camembert;camembert
+camembert(in)juusto;camembert cheese;camembert sajt
+cheddar;cheddar;cheddar
+cheddar(in)juusto;cheddar cheese;cheddar sajt
+edam;edam;edami
+edam(in)juusto;edam cheese;edami sajt
+emmental;emmental;emmentáli
+emmental(in)juusto;emmental cheese;emmentáli sajt
+gorgonzola;gorgonzola;gorgonzola
+gorgonzola(n)juusto;gorgonzola cheese;gorgonzola sajt
+gouda;gouda;gouda
+gouda(n)juusto;gouda cheese;gouda sajt
+pecorino;pecorino;pecorino
+pecorinojuusto;pecorino cheese;pecorino sajt
+parmesaani;parmiggiano reggiano;parmigiano reggiano
+parm(esa)an(i)juusto;parmiggiano reggiano cheese;parmigiano reggiano sajt
+ricotta;ricotta;ricotta
+ricottajuusto;ricotta cheese;ricotta sajt
+roquefort;roquefort;roquefort
+roquefort(in)juusto;roquefort cheese;roquefort sajt
+stilton;stilton;stilton
+stilton(in)juusto;stilton cheese;stilton sajt
+tilsit;tilsit;tilsit
+tilsit(in)juusto;tilsit cheese;tilsit sajt
+voi;butter;vaj
+maalaisvoi;butter prepared directly in a farm;házi vaj
+meijerivoi;butter produced in a dairy;üzemi vaj
+maustevoi;flavored butter, herb butter;fűszeres vaj
+valkosipulivoi;garlic butter;fokhagymás vaj
+margariini;margarine;margarin
+oivariini, voimariini, ingmariini;mixtures of butter and rapeseed oil;vaj-rapsölaj keverék
+kirkastettu voi;clarified butter;tisztított vaj
+vaniljakastike;custard;vaníliapuding
+pirtelö;milkshake;turmix
+jäätelö;ice cream;fagylalt
+pehmis;soft ice cream;fagyi
+vanukas;sweet dessert pudding;édességpuding
+jogurtti;yoghurt;joghurt
+juotava jogurtti;drinkable yogurt;italjoghurt
+maustamaton jogurtti;unflavored yoghurt;natúr joghurt
+rahka, maitorahka;quark, curd cheese;túró
+viili;curdled milk, yoghurt-like consistency;viili (fermentált tej)
+kermaviili;sour cream;tejföl
+serbetti;sherbert;sorbet
+valkokastike;béchamel sauce;fehér mártás
+Eila (= ei laktoosia);Trademark by Valio for lactose-free products;Eila (laktózmentes)
+Hyla (= hydrolysoitu laktoosi);Trademark by Valio for low-lactose products;Hyla (csökkentett laktóztartalmú)
+hapate;fermentation starter, ferment;indító kultúra
+hera;whey;sajtolt savó
+juoksutin, juustonjuoksutin;rennet;oltóenzim
+juustohöylä;cheese slicer;sajtvágó
+juustoveitsi;cheese knife;sajt kés
+juustotarjotin;cheese platter;sajttál
+juustonkuori;cheese skin;sajt kérge
+juustonpala;piece of cheese;sajt darab
+juustoviipale;slice of cheese;sajt szelet
+juustotahko;wheel of cheese;sajt kerék
+kalsium;calcium;kalcium
+kaseiini;casein;kazein
+kirnu;churn;vajtartó üst
+kitti;smear (of cheese);sajt kenet
+kolo;hole;lyuk
+kuutio;cube;kocka
+laktoosi-intoleranssi;lactose intolerance;laktóz-intolerancia
+loraus (maitoa);dash (of milk);tej löttyintés
+maitoallergia;milk allergy;tejallergia
+maitoauto;tanker collecting milk from farms;tejautó
+maitohappo;lactic acid;tejsav
+maitohappobakteeri;lactic acid bacteria;tejsavbaktérium
+maitohappokäyminen;lactic acid fermentation;tejsav-erjedés
+maitokannu;milk can;tejkanna
+maitotila;milk producing farm;tejszaporító gazdaság
+maitotölkki;milk carton;tejkarton
+meijeri;dairy, milk processing plant;tejüzem
+proteiini, valkuaisaine;protein;fehérje
+purkki;can (for yoghurt etc.);doboz
+rasia;carton (for butter etc.);kis doboz
+rasvapitoisuus;fat percentage;zsírtartalom
+tilatankki;bulk tank for milk in farms;telepi tejtartály
+vatkain;electric mixer, kept in hand;kézi mixer
+vispilä;whisk;habverő
+allerginen (maidolle);allergic (to milk);tejallergiás
+homogenisoitu;homogenised;homogenizált
+härski (voi);oxygenated, rancid (butter);avassá vált vaj
+iskukuumennettu;UHT-processed;UHT feldolgozott
+kermainen (juusto);creamy (cheese);krémes sajt
+kova (juusto);hard (cheese);kemény sajt
+laktoositon;lactose-free;laktózmentes
+maidoton;milkless, non-dairy;tejmentes
+pastöroitu;pasteurised;pasztörizált
+puolikova (juusto);semi-hard (cheese);félig kemény sajt
+rasvaton;fat-free;zsírtalan
+suolaton;unsalted (butter etc.);sótlan
+vastalypsetty;freshly milked;frissen fejett
+vähälaktoosinen;low-lactose;csökkentett laktóztartalmú
+vähärasvainen;low-fat;alacsony zsírtartalmú
+vähäsuolainen;low-salted;kevés sót tartalmazó
+gratinoida;to gratinate;gratinálni
+hapantua;to sour;megsavanyodni
+iskukuumentaa;to process in UHT;UHT feldolgozni
+juoksettaa;to curdle;megoltózni
+kaataa (maitoa);to pour;önteni (tejet)
+keittää;to boil (transitive);főzni
+kermoa;to separate cream from milk;tejszínt szedni le a tejről
+kiehua;to boil, sometimes over (intransitive);felforrni, kifutni
+kirnuta;to churn;kirántani (vaj)
+lorauttaa (kermaa);to pour freely (cream etc.);önteni szabadon (tejszínt)
+lypsää (lehmä);to milk (the cow);fejni (tehenet)
+läikyttää;to spill;kifolyni
+pastöroida;to pasteurize;pasztörizálni
+piimittää (maitoa);to turn milk into cultured buttermilk;tejfölt készíteni (aludttej)
+polttaa pohjaan;to burn, to overheat;leégni, odaégetni
+raastaa (juustoa);to grate (cheese);reszelni (sajtot)
+vatkata, vispata;to whip;habosítani, felverni
+voidella;to butter;vajazni
