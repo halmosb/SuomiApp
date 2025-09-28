@@ -1,52 +1,31 @@
 French;English;Hungarian
-Quel est votre nom ?;What is your name?;Mi az Ön neve?
-Quel est ton nom ?;What's your name?;Mi a neved?
-Quel est son nom ?;What is his / her name?;Mi a neve?
-Quel est votre prénom ?;What is your first name?;Mi a keresztneved?
-Quel est ton prénom ?;What's your first name?;Mi a keresztneved? (beszélt)
-Quel est son prénom ?;What is his / her first name?;Mi a keresztneve?
-Comment vous appelez-vous ?;How do you call yourself? / What is your name? (formal);Hogy hívják? (Ön)
-Comment vous vous appelez ?;How do you call yourself? / What is your name? (formal, spoken);Hogy hívják? (Ön, beszélt)
+Quel est votre nom ?;What is your name? (formal);Mi a neve? (magázó)
+Quel est votre prénom ?;What is your first name? (formal);Mi a keresztneve? (magázó)
+Quel est ton nom ?;What is your name? (informal);Mi a neved?
+Quel est son nom ?;What is his / her name?;Mi az ő neve?
+Comment vous vous appelez ?;What is your name? (formal);Hogy hívják? (magázó)
 Comment tu t'appelles ?;What is your name? (informal);Hogy hívnak?
-Comment il s'appelle ?;What is his name?;Hogy hívják őt (fiú)?
-Comment elle s'appelle ?;What is her name?;Hogy hívják őt (lány)?
-Quelle est votre nationalité ?;What is your nationality?;Mi az Ön állampolgársága?
-Quelle est ta nationalité ?;What's your nationality?;Mi a nemzetiséged?
-Quelle est sa nationalité ?;What is his / her nationality?;Mi a nemzetisége?
-Vous êtes d'où ?;Where are you from? (formal / colloquial);Ön honnan való? / Honnan származik?
-Vous venez d'où ?;Where do you come from? (formal / colloquial);Ön honnan jött? / Honnan származik?
-Tu es d'où ?;Where are you from? (informal);Te honnan jössz? / Honnan való vagy?
-Quelles langues parlez-vous ?;Which languages do you speak? (formal);Milyen nyelveken beszél Ön?
-Quelles langues tu parles ?;Which languages do you speak? (informal);Milyen nyelveken beszélsz?
-Quelles langues parle-t-il ?;Which languages does he speak?;Milyen nyelveken beszél ő? (fiú)
-Quelles langues parle-t-elle ?;Which languages does she speak?;Milyen nyelveken beszél ő? (lány)
-Où habitez-vous ?;Where do you live? (formal);Hol lakik Ön?
-Vous habitez où ?;Where do you live? (formal / colloquial);Hol lakik Ön? (beszélt)
+Comment il s'appelle ?;What is his name?;Hogy hívják őt?
+Quelle est votre nationalité ?;What is your nationality? (formal);Mi az Ön nemzetisége? (magázó)
+Vous êtes d'où ?;Where are you from? (formal);Honnan való? (magázó)
+Vous venez d'où ?;Where do you come from? (formal);Honnan jön? (magázó)
+Quelle est ta nationalité ?;What is your nationality? (informal);Mi a nemzetiséged?
+Tu es de quelle nationalité ?;What nationality are you? (informal);Milyen nemzetiségű vagy?
+Tu viens d'où ?;Where are you from? (informal);Honnan jössz?
+Quelles langues vous parlez ?;What languages do you speak? (formal);Milyen nyelveken beszél? (magázó)
+Quelles langues tu parles ?;What languages do you speak? (informal);Milyen nyelveken beszélsz?
+Vous habitez où ?;Where do you live? (formal);Hol lakik? (magázó)
 Tu habites où ?;Where do you live? (informal);Hol laksz?
-Où habite-t-il ?;Where does he live?;Hol lakik ő (fiú)?
-Où habite-t-elle ?;Where does she live?;Hol lakik ő (lány)?
-Quel âge avez-vous ? / Vous avez quel âge ?;How old are you? (formal);Hány éves Ön?
+Vous avez quel âge ?;How old are you? (formal);Hány éves? (magázó)
 Tu as quel âge ?;How old are you? (informal);Hány éves vagy?
-Quel âge a-t-il ?;How old is he?;Hány éves ő (fiú)?
-Quel âge a-t-elle ?;How old is she?;Hány éves ő (lány)?
-Êtes-vous marié(e) ?;Are you married? (formal);Ön házas? / Házas-e Ön?
-Vous êtes marié ?;Are you married? (formal / colloquial);Ön házas?
-Tu es marié(e) ?;Are you married? (informal);Házas vagy?
-Est-il marié ?;Is he married?;Házas-e (fiú)?
-Est-elle mariée ?;Is she married?;Házas-e (lány)?
-Avez-vous des enfants ?;Do you have children? (formal);Vannak gyerekei?
-Vous avez des enfants ?;Do you have children? (colloquial formal);Vannak gyerekei? (beszélt)
+Vous êtes marié.e ?;Are you married? (formal);Házas? (magázó)
+Tu es marié.e ?;Are you married? (informal);Házas vagy?
+Vous avez des enfants ?;Do you have children? (formal);Vannak gyerekei? (magázó)
 Tu as des enfants ?;Do you have children? (informal);Vannak gyerekeid?
-A-t-il des enfants ?;Does he have children?;Vannak gyerekei (fiú)?
-A-t-elle des enfants ?;Does she have children?;Vannak gyerekei (lány)?
-Qu'est-ce que vous faites comme travail ?;What do you do for work? (formal);Mivel foglalkozik Ön? / Mi a foglalkozása?
-Que faites-vous comme travail ?;What do you do for work? (formal, inversion);Mivel foglalkozik Ön?
+Qu'est-ce que vous faites comme travail ?;What do you do for work? (formal);Mivel foglalkozik? (magázó)
 Qu'est-ce que tu fais comme travail ?;What do you do for work? (informal);Mivel foglalkozol?
-Il fait quoi comme travail ?;What does he do for work? (colloquial);Mivel foglalkozik ő? (fiú)
-Elle fait quoi comme travail ?;What does she do for work? (colloquial);Mivel foglalkozik ő? (lány)
-Quel est votre numéro de téléphone ?;What is your phone number? (formal);Mi az Ön telefonszáma?
-Quel est ton numéro de téléphone ?;What's your phone number? (informal);Mi a telefonszámod?
-Quel est son numéro de téléphone ?;What is his / her phone number?;Mi a telefonszáma?
-Quelle est votre adresse e-mail ?;What is your e-mail address? (formal);Mi az Ön e-mail címe?
-Quelle est ton adresse e-mail ?;What's your e-mail address? (informal);Mi az e-mail címed?
-Quelle est son adresse e-mail ?;What is his / her e-mail address?;Mi az e-mail címe?
+Est-ce que tu travailles ?;Do you work? (informal);Dolgozol?
+Quel est votre numéro de téléphone ?;What is your phone number? (formal);Mi a telefonszáma? (magázó)
+Quel est ton numéro de téléphone ?;What is your phone number? (informal);Mi a telefonszámod?
+Quelle est votre adresse e-mail ?;What is your e-mail address? (formal);Mi az e-mail címe? (magázó)
+Quelle est ton adresse e-mail ?;What is your e-mail address? (informal);Mi az e-mail címed?
