@@ -3,7 +3,7 @@ J'ai;I have;Nekem van
 Tu as;You have;Neked van
 Il / elle / on a;He / She / One has;Neki van (fiú / lány)
 Nous avons;We have;Nekünk van
-Vous avez;You have;Önnek / Önöknek van
+Vous avez;You have (formal);Önnek / Önöknek van
 Ils / elles ont;They have;Nekik van (fiúk / lányok)
 J'ai une voiture.;I have a car.;Van egy autóm.
 Il a des enfants.;He has children.;Vannak gyerekei. (fiú)
@@ -12,7 +12,7 @@ Je suis;I am;Én vagyok
 Tu es;You are;Te vagy
 Il / elle / on est;He / She / One is;Ő (fiú / lány)
 Nous sommes;We are;Mi vagyunk
-Vous êtes;You are;Ön / Önök vannak
+Vous êtes;You are (formal);Ön / Önök vannak
 Ils / elles sont;They are;Ők (fiúk / lányok)
 Je suis espagnol.;I am Spanish.;Spanyol vagyok (fiú)
 Nous sommes Suisses.;We are Swiss.;Svájciak vagyunk
@@ -42,5 +42,5 @@ Je m'appelle;My name is;Engem hívnak
 Tu t'appelles;Your name is;Téged hívnak
 Il / elle s'appelle;His / Her name is;Őt hívják (fiú / lány)
 Nous nous appelons;Our names are;Minket hívnak
-Vous vous appelez;Your name is;Önt hívják / Titeket hívnak
+Vous vous appelez;Your name is (formal);Önt hívják / Titeket hívnak
 Ils / elles s'appellent;Their names are;Őket hívják (fiúk / lányok)

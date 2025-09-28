@@ -3,8 +3,6 @@ Quel est votre nom ?;What is your name? (formal);Mi a neve? (magázó)
 Quel est votre prénom ?;What is your first name? (formal);Mi a keresztneve? (magázó)
 Quel est ton nom ?;What is your name? (informal);Mi a neved?
 Quel est son nom ?;What is his / her name?;Mi az ő neve?
-Comment vous vous appelez ?;What is your name? (formal);Hogy hívják? (magázó)
-Comment tu t'appelles ?;What is your name? (informal);Hogy hívnak?
 Comment il s'appelle ?;What is his name?;Hogy hívják őt?
 Quelle est votre nationalité ?;What is your nationality? (formal);Mi az Ön nemzetisége? (magázó)
 Vous êtes d'où ?;Where are you from? (formal);Honnan való? (magázó)
@@ -18,8 +16,8 @@ Vous habitez où ?;Where do you live? (formal);Hol lakik? (magázó)
 Tu habites où ?;Where do you live? (informal);Hol laksz?
 Vous avez quel âge ?;How old are you? (formal);Hány éves? (magázó)
 Tu as quel âge ?;How old are you? (informal);Hány éves vagy?
-Vous êtes marié.e ?;Are you married? (formal);Házas? (magázó)
-Tu es marié.e ?;Are you married? (informal);Házas vagy?
+Vous êtes marié ?;Are you married? (formal);Házas? (magázó)
+Tu es marié ?;Are you married? (informal);Házas vagy?
 Vous avez des enfants ?;Do you have children? (formal);Vannak gyerekei? (magázó)
 Tu as des enfants ?;Do you have children? (informal);Vannak gyerekeid?
 Qu'est-ce que vous faites comme travail ?;What do you do for work? (formal);Mivel foglalkozik? (magázó)
