@@ -2,11 +2,11 @@ French;Finnish;Hungarian
 D'où venez-vous ?;Mistä te olette kotoisin?;Honnan jön?
 Vous venez de quel pays ?;Mistä maasta te olette kotoisin?;Melyik országból jön?
 Je viens de Finlande.;Olen Suomesta.;Finnországból jövök.
-Je suis finlandais (mies) / finlandaise (nainen).;Olen suomalainen (mies / nainen).;Finn (fiú / lány) vagyok.
+Je suis finlandais(e).;Olen suomalainen (mies / nainen).;Finn (fiú / lány) vagyok.
 Les Finlandais sont timides.;Suomalaiset ovat ujoja.;A finnek félénkek.
-Il vient de Chine.;Hän tulee Kiinasta.;Ő Kínából jön.
+Il vient de Chine.;Hän tulee Kiinasta. (mies);Ő Kínából jön.
 Il est chinois.;Hän on kiinalainen (mies).;Kínai (fiú).
-Elle vient de France.;Hän tulee Ranskasta.;Ő Franciaországból jön.
+Elle vient de France.;Hän tulee Ranskasta. (nainen);Ő Franciaországból jön.
 Elle est française.;Hän on ranskalainen (nainen).;Francia (lány).
 la France;Ranska;Franciaország
 la Finlande;Suomi;Finnország
@@ -15,44 +15,44 @@ l'Angleterre;Englanti;Anglia
 la Chine;Kiina;Kína
 l'Espagne;Espanja;Spanyolország
 l'Allemagne;Saksa;Németország
-français (mies);ranskalainen (mies);francia (fiú)
-finlandais (mies);suomalainen (mies);finn (fiú)
-suédois (mies);ruotsalainen (mies);svéd (fiú)
-anglais (mies);englantilainen (mies);angol (fiú)
-chinois (mies);kiinalainen (mies);kínai (fiú)
-espagnol (mies);espanjalainen (mies);spanyol (fiú)
-allemand (mies);saksalainen (mies);német (fiú)
-française (nainen);ranskalainen (nainen);francia (lány)
-finlandaise (nainen);suomalainen (nainen);finn (lány)
-suédoise (nainen);ruotsalainen (nainen);svéd (lány)
-anglaise (nainen);englantilainen (nainen);angol (lány)
-chinoise (nainen);kiinalainen (nainen);kínai (lány)
-espagnole (nainen);espanjalainen (nainen);spanyol (lány)
-allemande (nainen);saksalainen (nainen);német (lány)
+français;ranskalainen (mies);francia (fiú)
+finlandais;suomalainen (mies);finn (fiú)
+suédois;ruotsalainen (mies);svéd (fiú)
+anglais;englantilainen (mies);angol (fiú)
+chinois;kiinalainen (mies);kínai (fiú)
+espagnol;espanjalainen (mies);spanyol (fiú)
+allemand;saksalainen (mies);német (fiú)
+française;ranskalainen (nainen);francia (lány)
+finlandaise;suomalainen (nainen);finn (lány)
+suédoise;ruotsalainen (nainen);svéd (lány)
+anglaise;englantilainen (nainen);angol (lány)
+chinoise;kiinalainen (nainen);kínai (lány)
+espagnole;espanjalainen (nainen);spanyol (lány)
+allemande;saksalainen (nainen);német (lány)
 le Maroc;Marokko;Marokkó
 le Mexique;Meksiko;Mexikó
 le Canada;Kanada;Kanada
 l'Italie;Italia;Olaszország
 la Tunisie;Tunisia;Tunézia
-marocain (mies);marokkolainen (mies);marokkói (fiú)
-mexicain (mies);meksikolainen (mies);mexikói (fiú)
-canadien (mies);kanadalainen (mies);kanadai (fiú)
-italien (mies);italialainen (mies);olasz (fiú)
-tunisien (mies);tunisialainen (mies);tunéziai (fiú)
-marocaine (nainen);marokkolainen (nainen);marokkói (lány)
-mexicaine (nainen);meksikolainen (nainen);mexikói (lány)
-canadienne (nainen);kanadalainen (nainen);kanadai (lány)
-italienne (nainen);italialainen (nainen);olasz (lány)
-tunisienne (nainen);tunisialainen (nainen);tunéziai (lány)
+marocain;marokkolainen (mies);marokkói (fiú)
+mexicain;meksikolainen (mies);mexikói (fiú)
+canadien;kanadalainen (mies);kanadai (fiú)
+italien;italialainen (mies);olasz (fiú)
+tunisien;tunisialainen (mies);tunéziai (fiú)
+marocaine;marokkolainen (nainen);marokkói (lány)
+mexicaine;meksikolainen (nainen);mexikói (lány)
+canadienne;kanadalainen (nainen);kanadai (lány)
+italienne;italialainen (nainen);olasz (lány)
+tunisienne;tunisialainen (nainen);tunéziai (lány)
 la Russie;Venäjä;Oroszország
 la Belgique;Belgia;Belgium
 la Turquie;Turkki;Törökország
-russe (mies / nainen);venäläinen;orosz (fiú / lány)
-belge (mies / nainen);belgialainen;belga (fiú / lány)
-turc (mies);turkkilainen (mies);török (fiú)
-turque (nainen);turkkilainen (nainen);török (lány)
+russe;venäläinen;orosz (fiú / lány)
+belge;belgialainen;belga (fiú / lány)
+turc;turkkilainen (mies);török (fiú)
+turque;turkkilainen (nainen);török (lány)
 la Hongrie;Unkari;Magyarország
 il est hongrois;hän on unkarilainen (mies);ő magyar (fiú)
 elle est hongroise;hän on unkarilainen (nainen);ő magyar (lány)
-hongrois (mies);unkarilainen (mies);magyar (fiú)
-hongroise (nainen);unkarilainen (nainen);magyar (lány)
+hongrois;unkarilainen (mies);magyar (fiú)
+hongroise;unkarilainen (nainen);magyar (lány)
