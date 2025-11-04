@@ -1,6 +1,6 @@
 French;Finnish;Hungarian
 les parents;vanhemmat;szülők
-le père;isä;mèrférfi fiú
+le père;isä;apa fiú
 la mère;äiti;anya lány
 un / une enfant;lapsi;gyermek fiú / lány
 un bébé;vauva;bébi fiú / lány
@@ -26,7 +26,7 @@ un oncle;setä / eno;bácsi / nagybácsi fiú
 une tante;täti;néni lány
 un cousin, une cousine;serkku;unokatestvér fiú / lány
 les beaux-parents;appivanhemmat;házastárs szülei
-un beau-fils / un gendre;vävy;vő fiú
+un beau-fils, un gendre;vävy;vő fiú
 une belle-fille;miniä;meny lány
 un beau-frère;lankomies;sógor fiú
 une belle-soeur;käly;sógornő lány
@@ -37,15 +37,15 @@ un copain, une copine;kaveri;barát / barátnő fiú / lány
 le fiancé;kihlattu (poika);mátka fiú
 la fiancée;kihlattu (tyttö);mátka lány
 se marier;mennä naimisiin;megházasodni
-le mariage;avioliitto;házasság
+le mariage;häät;esküvő
 le mari;aviomies;férj fiú
 la femme;vaimo;feleség lány
 se séparer, divorcer;erota;különválni / elválni
 être séparé(e), être divorcé(e);olla eronnut;elvált fiú / lány
 une union libre;avoliitto;élettársi kapcsolat
 vivre ensemble;asua yhdessä;együtt élni
-un compagnon;elämäkumppani (poika);társ fiú
-une compagne;elämäkumppani (tyttö);társ lány
+un compagnon;elämäkumppani, avomies (poika);társ fiú
+une compagne;elämäkumppani, avovaimo (tyttö);társ lány
 l'enfance;lapsuus;gyermekkor
 la jeunesse;nuoruus;ifjúság
 l'adolescence;murrosikä;serdülőkor
@@ -57,3 +57,4 @@ un / une retraité(e);eläkeläinen;nyugdíjas fiú / lány
 un vieil homme;vanha mies;öreg férfi fiú
 une vieille femme;vanha nainen;öreg nő lány
 la vieillesse;vanhuus;öregség
+sortir avec quelqu'un;seurustella;társasági életet élni
