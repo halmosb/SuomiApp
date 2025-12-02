@@ -1,0 +1,58 @@
+French;Finnish;Hungarian
+La rue Gambetta, s'il vous plaît ?;Gambettan katu, kiitos;Gambetta utca, kérem
+Excusez-moi, où est la gare ?;Anteeksi, missä on rautatieasema?;Elnézést, hol van a vasútállomás?
+Excusez-moi, où est la bibliothèque ?;Anteeksi, missä on kirjasto?;Elnézést, hol van a könyvtár?
+Pardon, dans quelle rue se trouve le musée d'Orsay ?;Anteeksi, millä kadulla sijaitsee Orsay-museo?;Elnézést, melyik utcában van az Orsay-múzeum?
+Pardon, dans quelle rue se trouve l'hôtel de ville ?;Anteeksi, millä kadulla sijaitsee kaupungintalo?;Elnézést, melyik utcában van a városháza?
+Est-ce que la gare est loin d'ici ?;Onko rautatieasema kaukana täältä?;Messze van innen a vasútállomás?
+Est-ce que la gare est près d'ici ?;Onko rautatieasema lähellä täältä?;Közel van innen a vasútállomás?
+Excusez-moi, où est la gare la plus proche ?;Anteeksi, missä on lähin rautatieasema?;Elnézést, hol van a legközelebbi vasútállomás?
+Excusez-moi, où est le distributeur le plus proche ?;Anteeksi, missä on lähin pankkiautomaatti?;Elnézést, hol van a legközelebbi pénzkiadó automata?
+C'est tout près d'ici.;Se on ihan tässä lähellä.;Itt van egészen közel.
+C'est à deux pas.;Se on parin askeleen päässä.;Két lépésre van.
+C'est juste à côté.;Se on ihan vieressä.;Közvetlenül mellette van.
+C'est assez loin d'ici.;Se on aika kaukana täältä.;Elég messze van innen.
+Ce n'est pas tout près.;Se ei ole kovin lähellä.;Nincs túl közel.
+C'est à 2 minutes.;Se on kahden minuutin päässä.;Két percre van.
+Vous y êtes.;Olette perillä.;Megérkezett.
+à gauche;vasemmalla;balra
+à droite;oikealla;jobbra
+en face de;vastapäätä;szemben
+devant;edessä;előtt
+derrière;takana;mögött
+à côté de;vieressä;mellett
+à 100 mètres de;sadan metrin päässä;száz méterre
+près de;lähellä;közel
+Vous verrez un grand bâtiment à droite.;Näette oikealla suuren rakennuksen.;Jobbra látni fog egy nagy épületet.
+Vous verrez un escalier en face de vous.;Näette edessänne portaat.;Magával szemben lépcsőt fog látni.
+C'est devant le cinéma.;Se on elokuvateatterin edessä.;A mozival szemben / előtt van.
+C'est à côté de l'hôtel de ville.;Se on kaupungintalon vieressä.;A városháza mellett van.
+C'est à 50 mètres de la place du Marché.;Se on 50 metrin päässä torista.;Ötven méterre van a piactértől.
+C'est tout près de la cathédrale.;Se on aivan katedraalin lähellä.;Egészen közel van a székesegyházhoz.
+A est devant B.;A on B:n edessä.;A B előtt van.
+D est derrière C.;D on C:n takana.;D C mögött van.
+B est entre A et C.;B on A:n ja C:n välissä.;B A és C között van.
+B est à côté de C.;B on C:n vieressä.;B C mellett van.
+A est sur la table.;A on pöydän päällä.;A az asztalon van.
+D est sous la table.;D on pöydän alla.;D az asztal alatt van.
+C est au bord de la table.;C on pöydän reunalla.;C az asztal szélén van.
+B est au milieu de la table.;B on pöydän keskellä.;B az asztal közepén van.
+A est en haut.;A on ylhäällä.;A fent van.
+B est en bas.;B on alhaalla.;B lent van.
+B est ici.;B on täällä.;B itt van.
+C est là.;C on tuolla.;C ott van.
+D est là-bas.;D on tuolla kaukana.;D ott messze van.
+Vous allez tout droit.;Menette suoraan eteenpäin.;Egyenesen megy tovább.
+Vous allez jusqu'à la grande place.;Menette isolle aukiolle asti.;Elmegy a nagy térig.
+Vous tournez à gauche / à droite.;Käännytte vasemmalle / oikealle.;Balra / jobbra fordul.
+Vous continuez tout droit.;Jatkatte suoraan eteenpäin.;Tovább megy egyenesen.
+Vous continuez jusqu'à la gare.;Jatkatte asemalle asti.;Tovább megy az állomásig.
+Vous prenez la première rue à gauche.;Käännytte ensimmäiselle kadulle vasemmalle.;Az első utcán balra fordul.
+Vous prenez la deuxième rue à droite.;Käännytte toiselle kadulle oikealle.;A második utcán jobbra fordul.
+Vous traversez l'avenue.;Ylitätte pitkän kadun / avenuen.;Átkel az avenuén.
+Vous traversez la place.;Ylitätte aukion.;Átkel a téren.
+Vous allez voir un grand bâtiment.;Tulette näkemään suuren rakennuksen.;Látni fog egy nagy épületet.
+Vous voyez une petite ruelle sur votre gauche.;Näette vasemmalla pienen kujan.;Bal oldalon lát egy kis sikátort / utcácskát.
+Vous passez devant la poste.;Ohitatte postin edestä.;Elmegy a posta előtt.
+Vous passez derrière une fontaine.;Kävelette suihkulähteen takaa.;A szökőkút mögött halad el.
+Vous passez par le parc.;Kävelette puiston läpi.;A parkon keresztül megy.
