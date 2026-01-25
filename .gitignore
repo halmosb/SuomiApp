@@ -4,3 +4,4 @@ statistics.csv
 test.py
 test*.*
 .idea
+*.jukit/

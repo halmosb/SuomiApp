@@ -14,7 +14,7 @@ aviomies;husband;férj
 dialogi;dialogue;párbeszéd
 monologi;monologue;monológ
 eksä;ex;ex
-nyksä (informal);current partner;jelenlegi partner
+nyksä;current partner;jelenlegi partner
 elämä;life;élet
 kuolema;death;halál
 enemmistö;majority;többség
@@ -24,7 +24,7 @@ prologi;prologue;előszó
 epäröinti;hesitation;habozás
 varmuus;certainty;bizonyosság
 etkot;preparty;előbulizás
-jatkot (informal);afterparty;utóbulizás
+jatkot;afterparty;utóbulizás
 etupuoli;front side;elülső oldal
 takapuoli;back side;hátsó oldal
 fiktio;fiction;fikció
@@ -222,7 +222,7 @@ seuraus;consequence;következmény
 syyllisyys;guilt;bűnösség
 syyttömyys;innocence;ártatlanság
 sähköposti;email;e-mail
-etanaposti (informal);snail mail;hagyományos levél
+etanaposti;snail mail;hagyományos levél
 taide;art;művészet
 tiede;science;tudomány
 taivas;heaven;menny
