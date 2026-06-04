@@ -22,7 +22,7 @@ prosenttimerkki (%);percent;százalékjel
 pykälämerkki (§);section sign;paragrafusjel
 puolipiste;semicolon;pontosvessző
 sulkeet, kaarisulkeet (());parentheses;brackets / zárójelek
-Kolmekymmentä miinus [suluissa viisi miinus neljä].;Thirty minus [between brackets five minus four], in numbers: 30 - (5 - 4).;Harminc mínusz [zárójelben öt mínusz négy], számokban: 30 - (5 - 4).
+Kolmekymmentä miinus (suluissa viisi miinus neljä).;Thirty minus [between brackets five minus four], in numbers: 30 - (5 - 4).;Harminc mínusz [zárójelben öt mínusz négy], számokban: 30 - (5 - 4).
 Suluissa olevat mitat koskevat ainoastaan...;Dimensions in parentheses apply only to...;A zárójelben lévő méretek csak ... vonatkoznak.
 Sulkuihin merkityt lyhenteet viittaavat...;The abbreviations in parentheses refer to...;A zárójelbe írt rövidítések arra utalnak...
 Valmistusvuosi on merkittävä sulkuihin.;The year of manufacture should be indicated between brackets.;A gyártási évet zárójelben kell feltüntetni.
