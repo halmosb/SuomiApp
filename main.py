@@ -84,6 +84,8 @@ Et vous êtes madame / monsieur / mademoiselle... ?
 Très bien (merci), et vous ?
 Comment lines in the word list files with #
 Special character buttons
+Save a backup copy of the statistic.csv file
+Update README with set-up instructions
 """
 print("The program has started, it may take a few seconds.")
 # Widgets
