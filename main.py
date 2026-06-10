@@ -82,6 +82,8 @@ translate when tehre are emotyi lines in the file
 correct the word while writing
 Et vous êtes madame / monsieur / mademoiselle... ?
 Très bien (merci), et vous ?
+Comment lines in the word list files with #
+Special character buttons
 """
 print("The program has started, it may take a few seconds.")
 # Widgets
