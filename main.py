@@ -1164,7 +1164,7 @@ class GUI:
         :return string, the cleaned string
         """
         # Clears the extra whitespace characters from the string
-        word = re.sub('\s{2,}', ' ', word)
+        word = re.sub(r'\s{2,}', ' ', word)
         # Removes the extras spaces from the begining and end
         word = word.strip()
         # If the answers are not case sensitive
