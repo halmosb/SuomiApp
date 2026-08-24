@@ -2,6 +2,40 @@
 
 Welcome to my **Language Learning App**! This is a versatile and user-friendly tool designed to help you master a new language effectively. The main puropse of the app is to help practice vocabulary.
 
+## Running Suomiapp on Windows
+
+Follow these instructions to set up the local environment and run the application without syncing thousands of virtual environment files to OneDrive.
+
+### Prerequisites: Install uv
+
+Open **PowerShell** and run the official standalone installer:
+
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+*Note: After the installation completes, close your current terminal window and open a new one to refresh your system PATH variables.*
+
+### Step 1: Redirect the Virtual Environment Path
+
+Set the environment variable to force `uv` to build and read your virtual environment from your local hard drive instead of the shared OneDrive directory:
+
+```powershell
+$env:UV_PROJECT_ENVIRONMENT = "C:\Users\$env:USERNAME\.virtualenvs\suomiapp"
+```
+
+### Step 2: Install Dependencies and Run the App
+
+1. Sync your project dependencies. This command automatically initializes and updates the virtual environment at the isolated local path you configured above:
+   ```powershell
+   uv sync
+   ```
+
+2. Execute your application script through `uv`:
+   ```powershell
+   uv run main.py
+   ```
+
 ## Features
 
 ### 1. Flashcards

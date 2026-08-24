@@ -1,0 +1,23 @@
+[project]
+name = "suomiapp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Balazs Paszkal Halmos" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "deep-translator>=1.11.4",
+    "gtts>=2.5.4",
+    "numpy>=2.5.2",
+    "pandas>=3.0.5",
+    "pygame>=2.6.1",
+]
+
+[project.scripts]
+suomiapp = "suomiapp:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

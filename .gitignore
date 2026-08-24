@@ -5,3 +5,4 @@ test.py
 test*.*
 .idea
 *.jukit/
+__pycache__
