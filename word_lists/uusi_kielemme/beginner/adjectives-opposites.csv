@@ -1,6 +1,5 @@
 Finnish;English;Hungarian
 uusi;new;új
-vanha;old;régi
 iloinen;happy;vidám
 surullinen;sad;szomorú
 kaunis;beautiful;szép
@@ -10,19 +9,19 @@ lyhyt;short;rövid
 terve;healthy;egészséges
 sairas;sick;beteg
 lihava;fat;kövér
-laiha;skinny;vékony
+laiha;skinny;vékony (ember)
 paksu;thick;vastag
-ohut;thin;vékony
+ohut;thin;vékony (nem vastag)
 nuori;young;fiatal
-vanha;old;idős
+vanha;old;idős, régi
 auki;open;nyitva
 kiinni;closed;zárva
 täysi;full;tele
 tyhjä;empty;üres
 kallis;expensive;drága
 halpa;cheap;olcsó
-vaikea;difficult;nehéz
-helppo;easy;könnyű
+vaikea;difficult;nehéz (bonyolult)
+helppo;easy;könnyű (nem nehéz)
 rikas;rich;gazdag
 köyhä;poor;szegény
 kuuma;hot;forró
@@ -34,17 +33,16 @@ pimeä;dark;sötét
 vihainen;angry;dühös
 rauhallinen;calm;nyugodt
 sotkuinen;messy;rendetlen
-siisti;tidy;tiszta
+siisti;tidy;tiszta (takarított)
 leveä;wide;széles
 kapea;narrow;keskeny
 pehmeä;soft;puha
 kova;hard;kemény
-painava;heavy;nehéz
-kevyt;light;könnyű
+painava;heavy;nehéz (súlyra)
+kevyt;light;könnyű (súlyra)
 terävä;sharp;éles
-tylsä;blunt;tompa
+tylsä;boring, blunt;unalmas, tompa
 hauska;funny;vicces
-tylsä;boring;unalmas
 hidas;slow;lassú
 nopea;fast;gyors
 korkea;high;magas
